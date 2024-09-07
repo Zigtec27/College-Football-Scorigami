@@ -1,0 +1,39 @@
+html, body {
+    margin:0px;
+    height:100%;
+  }
+
+.Banner {
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    background-color: lightblue;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.Hotbar {
+    height: 55px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.mainNav {
+    display: block;
+    position: relative;
+  }
+
+.rightSide {
+    list-style: none;
+    float: right;
+  }
+
+.Link {
+    font-family: 'Helvetica Neue';
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+  }
