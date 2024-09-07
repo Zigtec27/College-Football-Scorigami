@@ -1,0 +1,92 @@
+html, body {
+    margin:0px;
+    height:100%;
+  }
+
+.Banner {
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    background-color: lightblue;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.Hotbar {
+    height: 55px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.RightSide {
+    list-style: none;
+    float: right;
+  }
+
+.Link {
+    font-family: 'Helvetica Neue';
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+  }
+
+.TableContainer {
+  margin: 75px;
+  background-color: lightblue;
+  position: relative;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.ScoreTable {
+  display: inline-block;
+}
+
+.ColumnHeader {
+  background-color: lightblue;
+  text-align: center;
+  min-width: 11px;
+  position: sticky;
+  top: 0;
+}
+
+td {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 7px;
+}
+
+th {
+  font-size: 9px;
+}
+
+.RowHeader {
+  background-color: lightblue;
+  text-align: center;
+  height: 11px;
+  min-width: 11px;
+  min-height: 11px;
+  position: sticky;
+  left: 0;
+}
+
+.PastScorigami {
+  background-color: forestgreen;
+  font-size: 6px;
+}
+
+.Blank {
+  background-color: lightgray;
+}
+
+.Impossible {
+  background-color: black;
+}
+
+.NowImpossible {
+  background-color: #434343
+}
+

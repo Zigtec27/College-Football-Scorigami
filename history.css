@@ -1,0 +1,144 @@
+html, body {
+    margin:0px;
+    height:100%;
+  }
+
+.Banner {
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    background-color: lightblue;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.Hotbar {
+    height: 55px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.rightSide {
+    list-style: none;
+    float: right;
+  }
+
+.Link {
+    font-family: 'Helvetica Neue';
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+  }
+
+.tableContainer {
+  margin: auto;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-color: lightblue;
+  position: relative;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.ScoreTable {
+  display: inline-block;
+}
+
+.ColumnHeader {
+  background-color: lightblue;
+  text-align: center;
+  min-width: 11px;
+  position: sticky;
+  top: 0;
+}
+
+td {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 7px;
+}
+
+th {
+  font-size: 9px;
+}
+
+.RowHeader {
+  background-color: lightblue;
+  text-align: center;
+  height: 11px;
+  min-width: 11px;
+  min-height: 11px;
+  position: sticky;
+  left: 0;
+}
+
+.Scorigami {
+    background-color: crimson;
+}
+
+.PastScorigami {
+  background-color: forestgreen;
+  font-size: 6px;
+}
+
+.Blank {
+  background-color: lightgray;
+}
+
+.Impossible {
+  background-color: black;
+}
+
+.NowImpossible {
+  background-color: #434343
+}
+
+
+
+.SlideContainer {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-width: 80%;
+    text-align: center;
+    
+}
+  
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    position: center;
+}
+  
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #04AA6D;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #04AA6D;
+    cursor: pointer;
+}
