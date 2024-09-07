@@ -7927,7 +7927,16 @@ slider.oninput = function() {
         const _81_7_ = document.getElementById("81-7"); _81_7_.className = "Blank";
     }
 
-
+    //2024 Scorigami
+    if (output.innerHTML == "2024") {
+        const _61_39_ = document.getElementById("61-39"); _61_39_.className = "Scorigami";
+    }
+    if (output.innerHTML > "2024") {
+        const _61_39_ = document.getElementById("61-39"); _61_39_.className = "PastScorigami";
+    }
+    if (output.innerHTML < "2024") {
+        const _61_39_ = document.getElementById("61-39"); _61_39_.className = "Blank";
+    }
 
     //20XX Scorigami
     // if (output.innerHTML == "20XX") {
