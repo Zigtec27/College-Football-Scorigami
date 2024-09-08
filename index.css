@@ -77,9 +77,22 @@ th {
   background-color: forestgreen;
   font-size: 6px;
 }
+.PastScorigami:hover {
+  background-color: plum;
+}
+
+.Scorigami {
+  background-color: crimson;
+}
+.Scorigami:hover {
+  background-color: gold;
+}
 
 .Blank {
   background-color: lightgray;
+}
+.Blank:hover {
+  background-color: gainsboro;
 }
 
 .Impossible {
@@ -87,6 +100,6 @@ th {
 }
 
 .NowImpossible {
-  background-color: #434343
+  background-color: #434343;
 }
 
