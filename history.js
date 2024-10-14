@@ -1,9 +1,35 @@
+document.querySelectorAll('.ScoreTable td').forEach(cell => {
+    cell.addEventListener('mouseenter', function () {
+        const table = document.querySelector('.ScoreTable');
+        const cellIndex = this.cellIndex; // Get the column index of the hovered cell
+        
+        // Find the corresponding header cell in the top row
+        const headerCell = table.querySelector(`tr.row_-1 th:nth-child(${cellIndex + 1})`);
+        
+        if (headerCell) {
+            headerCell.classList.add('ColumnHeaderHover'); // Add highlight class
+        }
+    });
+
+    cell.addEventListener('mouseleave', function () {
+        const table = document.querySelector('.ScoreTable');
+        const cellIndex = this.cellIndex; // Get the column index of the hovered cell
+        
+        // Find the corresponding header cell in the top row
+        const headerCell = table.querySelector(`tr.row_-1 th:nth-child(${cellIndex + 1})`);
+        
+        if (headerCell) {
+            headerCell.classList.remove('ColumnHeaderHover'); // Remove highlight class
+        }
+    });
+});
+
 var slider = document.getElementById("YearRange");
 var output = document.getElementById("Year");
 output.innerHTML = slider.value;
 
 slider.oninput = function() {
-    output.innerHTML = "2023"
+    output.innerHTML = "2024"
     output.innerHTML = this.value;
 
     //1869 Scorigami
@@ -7930,12 +7956,30 @@ slider.oninput = function() {
     //2024 Scorigami
     if (output.innerHTML == "2024") {
         const _61_39_ = document.getElementById("61-39"); _61_39_.className = "Scorigami";
+        const _66_20_ = document.getElementById("66-20"); _66_20_.className = "Scorigami";
+        const _87_10_ = document.getElementById("87-10"); _87_10_.className = "Scorigami";
+        const _54_52_ = document.getElementById("54-52"); _54_52_.className = "Scorigami";
+        const _70_50_ = document.getElementById("70-50"); _70_50_.className = "Scorigami";
+        const _71_20_ = document.getElementById("71-20"); _71_20_.className = "Scorigami";
+        const _50_34_ = document.getElementById("50-34"); _50_34_.className = "Scorigami";
     }
     if (output.innerHTML > "2024") {
         const _61_39_ = document.getElementById("61-39"); _61_39_.className = "PastScorigami";
+        const _66_20_ = document.getElementById("66-20"); _66_20_.className = "PastScorigami";
+        const _87_10_ = document.getElementById("87-10"); _87_10_.className = "PastScorigami";
+        const _54_52_ = document.getElementById("54-52"); _54_52_.className = "PastScorigami";
+        const _70_50_ = document.getElementById("70-50"); _70_50_.className = "PastScorigami";
+        const _71_20_ = document.getElementById("71-20"); _71_20_.className = "PastScorigami";
+        const _50_34_ = document.getElementById("50-34"); _50_34_.className = "PastScorigami";
     }
     if (output.innerHTML < "2024") {
         const _61_39_ = document.getElementById("61-39"); _61_39_.className = "Blank";
+        const _66_20_ = document.getElementById("66-20"); _66_20_.className = "Blank";
+        const _87_10_ = document.getElementById("87-10"); _87_10_.className = "Blank";
+        const _54_52_ = document.getElementById("54-52"); _54_52_.className = "Blank";
+        const _70_50_ = document.getElementById("70-50"); _70_50_.className = "Blank";
+        const _71_20_ = document.getElementById("71-20"); _71_20_.className = "Blank";
+        const _50_34_ = document.getElementById("50-34"); _50_34_.className = "Blank";
     }
 
     //20XX Scorigami
