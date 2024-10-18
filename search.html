@@ -1,33 +1,33 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="description" content="Scorigami is a concept thought up by Jon Bois. It is the art of building final scores that have never happened before.">
-        <meta name="author" content="Casey Perlinger-Jett">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>College Football Scorigami</title>
-        <link rel="stylesheet" href="credits.css">
-    </head>
-    <body>
-        <header>
-            <div class="Banner">
-                <h1>College Football Scorigami</h1>
-            </div>
-            <br><br><br><br>
-            <div class="Hotbar">
-                <ul class="rightSide">
-                    <a href="index.html"><li class="Link"><u>HOME</u></li></a>
-                    <a href="history.html"><li class="Link"><u>HISTORY</u></li></a>
-                    <a href="search.html"><li class="Link"><u>SEARCH</u></li></a>
-                    <a href="about.html"><li class="Link"><u>WHAT IS SCORIGAMI?</u></li></a>
-                    <a href="credits.html"><li class="Link"><u>CREDITS</u></li></a>
-                </ul>
-            </div>
-        </header>
-        <div>
-            <h4>Hi.</h4>
-            <h4>-Zigtec</h4>
-            <h4>This'll be done when it's ready (:</h4>
-        </div>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read CSV from GitHub</title>
+    <script>
+        async function fetchCsvData() {
+            const csvUrl = 'https://raw.githubusercontent.com/Zigtec27/College-Football-Scorigami/refs/heads/main/frequency.csv';  // Corrected URL
+            try {
+                const response = await fetch(csvUrl);  // Fetch the CSV from GitHub
+                const data = await response.text();    // Read it as text
+
+                const rows = data.split('\n');         // Split the data into rows
+                const firstRow = rows[0].split(',');   // Split the first row into columns
+                
+                const firstCell = firstRow[0];         // Access the first cell (A1)
+                
+                // Display the value in the HTMLjj
+                document.getElementById('output').textContent = 'First cell (A1): ' + firstCell;
+            } catch (error) {
+                console.error('Error fetching CSV:', error);
+            }
+        }
+
+        window.onload = fetchCsvData;  // Call fetchCsvData when the page loads
+    </script>
+</head>
+<body>
+    <h1>Read CSV Example</h1>
+    <p id="output">Loading data...</p>  <!-- This is where the value will be displayed -->
+</body>
 </html>
