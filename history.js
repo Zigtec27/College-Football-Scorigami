@@ -7982,6 +7982,29 @@ slider.oninput = function() {
         const _50_34_ = document.getElementById("50-34"); _50_34_.className = "Blank";
     }
 
+    //2025 Scorigami
+    if (output.innerHTML == "2025") {
+        const _73_13_ = document.getElementById("73-13"); _73_13_.className = "Scorigami";
+        const _61_9_ = document.getElementById("61-9"); _61_9_.className = "Scorigami";
+        const _46_11_ = document.getElementById("46-11"); _46_11_.className = "Scorigami";
+        const _72_17_ = document.getElementById("72-17"); _72_17_.className = "Scorigami";
+        const _59_12_ = document.getElementById("59-12"); _59_12_.className = "Scorigami";
+    }
+    if (output.innerHTML > "2025") {
+        const _73_13_ = document.getElementById("73-13"); _73_13_.className = "PastScorigami";
+        const _61_9_ = document.getElementById("61-9"); _61_9_.className = "PastScorigami";
+        const _46_11_ = document.getElementById("46-11"); _46_11_.className = "PastScorigami";
+        const _72_17_ = document.getElementById("72-17"); _72_17_.className = "PastScorigami";
+        const _59_12_ = document.getElementById("59-12"); _59_12_.className = "PastScorigami";
+    }
+    if (output.innerHTML < "2025") {
+        const _73_13_ = document.getElementById("73-13"); _73_13_.className = "Blank";
+        const _61_9_ = document.getElementById("61-9"); _61_9_.className = "Blank";
+        const _46_11_ = document.getElementById("46-11"); _46_11_.className = "Blank";
+        const _72_17_ = document.getElementById("72-17"); _72_17_.className = "Blank";
+        const _59_12_ = document.getElementById("59-12"); _59_12_.className = "Blank";
+    }
+
     //20XX Scorigami
     // if (output.innerHTML == "20XX") {
         // const _X_X_ = document.getElementById("X-X"); _X_X_.className = "Scorigami";
