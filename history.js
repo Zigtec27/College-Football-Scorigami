@@ -29,7 +29,7 @@ var output = document.getElementById("Year");
 output.innerHTML = slider.value;
 
 slider.oninput = function() {
-    output.innerHTML = "2024"
+    output.innerHTML = "2025"
     output.innerHTML = this.value;
 
     //1869 Scorigami
@@ -7989,6 +7989,7 @@ slider.oninput = function() {
         const _46_11_ = document.getElementById("46-11"); _46_11_.className = "Scorigami";
         const _72_17_ = document.getElementById("72-17"); _72_17_.className = "Scorigami";
         const _59_12_ = document.getElementById("59-12"); _59_12_.className = "Scorigami";
+        const _63_36_ = document.getElementById("63-36"); _63_36_.className = "Scorigami";
     }
     if (output.innerHTML > "2025") {
         const _73_13_ = document.getElementById("73-13"); _73_13_.className = "PastScorigami";
@@ -7996,6 +7997,7 @@ slider.oninput = function() {
         const _46_11_ = document.getElementById("46-11"); _46_11_.className = "PastScorigami";
         const _72_17_ = document.getElementById("72-17"); _72_17_.className = "PastScorigami";
         const _59_12_ = document.getElementById("59-12"); _59_12_.className = "PastScorigami";
+        const _63_36_ = document.getElementById("63-36"); _63_36_.className = "PastScorigami";
     }
     if (output.innerHTML < "2025") {
         const _73_13_ = document.getElementById("73-13"); _73_13_.className = "Blank";
@@ -8003,6 +8005,7 @@ slider.oninput = function() {
         const _46_11_ = document.getElementById("46-11"); _46_11_.className = "Blank";
         const _72_17_ = document.getElementById("72-17"); _72_17_.className = "Blank";
         const _59_12_ = document.getElementById("59-12"); _59_12_.className = "Blank";
+        const _63_36_ = document.getElementById("63-36"); _63_36_.className = "Blank";
     }
 
     //20XX Scorigami
