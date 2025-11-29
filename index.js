@@ -95,9 +95,9 @@ document.querySelectorAll('.ScoreTable td').forEach(cell => {
 
 async function loadData() {
   const [scoreIndexResp, finalIndexResp, gamesResp] = await Promise.all([
-    fetch("../Database/score_index.json"),
-    fetch("../Database/final_index.json"),
-    fetch("../Database/games.json")
+    fetch("score_index.json"),
+    fetch("final_index.json"),
+    fetch("games.json")
   ]);
   return {
     scoreIndex: await scoreIndexResp.json(),
