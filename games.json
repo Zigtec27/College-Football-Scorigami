@@ -1771579,5 +1771579,2084 @@
     "margin": 6,
     "totalPoints": 48,
     "bowlGame": "College Football Playoff National Championship"
+  },
+  "2026-08-29-EasternMichigan-SacramentoState": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Eastern Michigan",
+      "rank": null
+    },
+    "loser": {
+      "name": "Sacramento State",
+      "rank": null
+    },
+    "winScore": 28,
+    "loseScore": 17,
+    "location": "VS",
+    "confWin": "MAC",
+    "confLose": "MAC",
+    "margin": 11,
+    "totalPoints": 45,
+    "bowlGame": ""
+  },
+  "2026-08-29-FloridaState-NewMexicoState": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Florida State",
+      "rank": null
+    },
+    "loser": {
+      "name": "New Mexico State",
+      "rank": null
+    },
+    "winScore": 34,
+    "loseScore": 17,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "CUSA",
+    "margin": 17,
+    "totalPoints": 51,
+    "bowlGame": ""
+  },
+  "2026-08-29-Memphis-NevadaLasVegas": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Memphis",
+      "rank": null
+    },
+    "loser": {
+      "name": "UNLV",
+      "rank": null
+    },
+    "winScore": 27,
+    "loseScore": 21,
+    "location": "@",
+    "confWin": "American",
+    "confLose": "MWC",
+    "margin": 6,
+    "totalPoints": 48,
+    "bowlGame": ""
+  },
+  "2026-08-29-NorthCarolina-TexasChristian": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "North Carolina",
+      "rank": null
+    },
+    "loser": {
+      "name": "TCU",
+      "rank": null
+    },
+    "winScore": 15,
+    "loseScore": 10,
+    "location": "N",
+    "confWin": "ACC",
+    "confLose": "Big 12",
+    "margin": 5,
+    "totalPoints": 25,
+    "bowlGame": ""
+  },
+  "2026-08-29-NorthDakotaState-JacksonvilleState": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "North Dakota State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Jacksonville State",
+      "rank": null
+    },
+    "winScore": 33,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "MWC",
+    "confLose": "CUSA",
+    "margin": 26,
+    "totalPoints": 40,
+    "bowlGame": ""
+  },
+  "2026-08-29-SouthernCalifornia-SanJoseState": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "USC",
+      "rank": 14
+    },
+    "loser": {
+      "name": "San Jose State",
+      "rank": null
+    },
+    "winScore": 42,
+    "loseScore": 26,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "MWC",
+    "margin": 16,
+    "totalPoints": 68,
+    "bowlGame": ""
+  },
+  "2026-08-29-Stanford-Hawaii": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Stanford",
+      "rank": null
+    },
+    "loser": {
+      "name": "Hawaii",
+      "rank": null
+    },
+    "winScore": 37,
+    "loseScore": 27,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "MWC",
+    "margin": 10,
+    "totalPoints": 64,
+    "bowlGame": ""
+  },
+  "2026-08-29-Virginia-NorthCarolinaState": {
+    "week": 1,
+    "date": "2026-08-29",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Virginia",
+      "rank": null
+    },
+    "loser": {
+      "name": "NC State",
+      "rank": null
+    },
+    "winScore": 34,
+    "loseScore": 8,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "ACC",
+    "margin": 26,
+    "totalPoints": 42,
+    "bowlGame": ""
+  },
+  "2026-09-03-Buffalo-Albany": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Buffalo",
+      "rank": null
+    },
+    "loser": {
+      "name": "Albany",
+      "rank": null
+    },
+    "winScore": 21,
+    "loseScore": 17,
+    "location": "VS",
+    "confWin": "MAC",
+    "confLose": "",
+    "margin": 4,
+    "totalPoints": 38,
+    "bowlGame": ""
+  },
+  "2026-09-03-CentralFlorida-BethuneCookman": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "UCF",
+      "rank": null
+    },
+    "loser": {
+      "name": "Bethune-Cookman",
+      "rank": null
+    },
+    "winScore": 73,
+    "loseScore": 6,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "",
+    "margin": 67,
+    "totalPoints": 79,
+    "bowlGame": ""
+  },
+  "2026-09-03-Colorado-GeorgiaTech": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Colorado",
+      "rank": null
+    },
+    "loser": {
+      "name": "Georgia Tech",
+      "rank": null
+    },
+    "winScore": 14,
+    "loseScore": 13,
+    "location": "@",
+    "confWin": "Big 12",
+    "confLose": "ACC",
+    "margin": 1,
+    "totalPoints": 27,
+    "bowlGame": ""
+  },
+  "2026-09-03-Delaware-Merrimack": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Delaware",
+      "rank": null
+    },
+    "loser": {
+      "name": "Merrimack",
+      "rank": null
+    },
+    "winScore": 42,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "CUSA",
+    "confLose": "",
+    "margin": 35,
+    "totalPoints": 49,
+    "bowlGame": ""
+  },
+  "2026-09-03-Illinois-AlabamaBirmingham": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Illinois",
+      "rank": null
+    },
+    "loser": {
+      "name": "UAB",
+      "rank": null
+    },
+    "winScore": 42,
+    "loseScore": 23,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "",
+    "margin": 19,
+    "totalPoints": 65,
+    "bowlGame": ""
+  },
+  "2026-09-03-KennesawState-WestGeorgia": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Kennesaw State",
+      "rank": null
+    },
+    "loser": {
+      "name": "West Georgia",
+      "rank": null
+    },
+    "winScore": 47,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "CUSA",
+    "confLose": "",
+    "margin": 47,
+    "totalPoints": 47,
+    "bowlGame": ""
+  },
+  "2026-09-03-Massachusetts-Rutgers": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Massachusetts",
+      "rank": null
+    },
+    "loser": {
+      "name": "Rutgers",
+      "rank": null
+    },
+    "winScore": 37,
+    "loseScore": 21,
+    "location": "@",
+    "confWin": "MAC",
+    "confLose": "Big Ten",
+    "margin": 16,
+    "totalPoints": 58,
+    "bowlGame": ""
+  },
+  "2026-09-03-Minnesota-EasternIllinois": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Minnesota",
+      "rank": null
+    },
+    "loser": {
+      "name": "Eastern Illinois",
+      "rank": null
+    },
+    "winScore": 59,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "",
+    "margin": 52,
+    "totalPoints": 66,
+    "bowlGame": ""
+  },
+  "2026-09-03-Missouri-ArkansasPineBluff": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Missouri",
+      "rank": 25
+    },
+    "loser": {
+      "name": "Arkansas-Pine Bluff",
+      "rank": null
+    },
+    "winScore": 54,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 40,
+    "totalPoints": 68,
+    "bowlGame": ""
+  },
+  "2026-09-03-Utah-Idaho": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Utah",
+      "rank": 21
+    },
+    "loser": {
+      "name": "Idaho",
+      "rank": null
+    },
+    "winScore": 66,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 52,
+    "totalPoints": 80,
+    "bowlGame": ""
+  },
+  "2026-09-03-WakeForest-Akron": {
+    "week": 1,
+    "date": "2026-09-03",
+    "dayOfWeek": "Thu",
+    "winner": {
+      "name": "Wake Forest",
+      "rank": null
+    },
+    "loser": {
+      "name": "Akron",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 16,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "MAC",
+    "margin": 22,
+    "totalPoints": 54,
+    "bowlGame": ""
+  },
+  "2026-09-04-GeorgiaState-NorthCarolinaAT": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "Georgia State",
+      "rank": null
+    },
+    "loser": {
+      "name": "North Carolina A&T",
+      "rank": null
+    },
+    "winScore": 59,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 49,
+    "totalPoints": 69,
+    "bowlGame": ""
+  },
+  "2026-09-04-Kansas-LongIsland": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "Kansas",
+      "rank": null
+    },
+    "loser": {
+      "name": "Long Island",
+      "rank": null
+    },
+    "winScore": 51,
+    "loseScore": 6,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 45,
+    "totalPoints": 57,
+    "bowlGame": ""
+  },
+  "2026-09-04-MiamiFL-Stanford": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "Miami (FL)",
+      "rank": 7
+    },
+    "loser": {
+      "name": "Stanford",
+      "rank": null
+    },
+    "winScore": 45,
+    "loseScore": 6,
+    "location": "@",
+    "confWin": "ACC",
+    "confLose": "ACC",
+    "margin": 39,
+    "totalPoints": 51,
+    "bowlGame": ""
+  },
+  "2026-09-04-MichiganState-Toledo": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "Michigan State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Toledo",
+      "rank": null
+    },
+    "winScore": 30,
+    "loseScore": 20,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "MAC",
+    "margin": 10,
+    "totalPoints": 50,
+    "bowlGame": ""
+  },
+  "2026-09-04-Oklahoma-TexasElPaso": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "Oklahoma",
+      "rank": 10
+    },
+    "loser": {
+      "name": "UTEP",
+      "rank": null
+    },
+    "winScore": 51,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 51,
+    "totalPoints": 51,
+    "bowlGame": ""
+  },
+  "2026-09-04-Purdue-IndianaState": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "Purdue",
+      "rank": null
+    },
+    "loser": {
+      "name": "Indiana State",
+      "rank": null
+    },
+    "winScore": 44,
+    "loseScore": 19,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "",
+    "margin": 25,
+    "totalPoints": 63,
+    "bowlGame": ""
+  },
+  "2026-09-04-SanJoseState-EasternMichigan": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "San Jose State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Eastern Michigan",
+      "rank": null
+    },
+    "winScore": 27,
+    "loseScore": 21,
+    "location": "@",
+    "confWin": "MWC",
+    "confLose": "MAC",
+    "margin": 6,
+    "totalPoints": 48,
+    "bowlGame": ""
+  },
+  "2026-09-04-SouthernCalifornia-FresnoState": {
+    "week": 1,
+    "date": "2026-09-04",
+    "dayOfWeek": "Fri",
+    "winner": {
+      "name": "USC",
+      "rank": 14
+    },
+    "loser": {
+      "name": "Fresno State",
+      "rank": null
+    },
+    "winScore": 39,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "Pac-12",
+    "margin": 39,
+    "totalPoints": 39,
+    "bowlGame": ""
+  },
+  "2026-09-05-AirForce-Duquesne": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Air Force",
+      "rank": null
+    },
+    "loser": {
+      "name": "Duquesne",
+      "rank": null
+    },
+    "winScore": 34,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "MWC",
+    "confLose": "",
+    "margin": 34,
+    "totalPoints": 34,
+    "bowlGame": ""
+  },
+  "2026-09-05-Alabama-EastCarolina": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Alabama",
+      "rank": 13
+    },
+    "loser": {
+      "name": "East Carolina",
+      "rank": null
+    },
+    "winScore": 48,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "American",
+    "margin": 38,
+    "totalPoints": 58,
+    "bowlGame": ""
+  },
+  "2026-09-05-AppalachianState-Maine": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Appalachian State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Maine",
+      "rank": null
+    },
+    "winScore": 55,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 52,
+    "totalPoints": 58,
+    "bowlGame": ""
+  },
+  "2026-09-05-Arizona-NorthernArizona": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Arizona",
+      "rank": null
+    },
+    "loser": {
+      "name": "Northern Arizona",
+      "rank": null
+    },
+    "winScore": 35,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 28,
+    "totalPoints": 42,
+    "bowlGame": ""
+  },
+  "2026-09-05-ArizonaState-MorganState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Arizona State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Morgan State",
+      "rank": null
+    },
+    "winScore": 70,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 63,
+    "totalPoints": 77,
+    "bowlGame": ""
+  },
+  "2026-09-05-Arkansas-NorthAlabama": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Arkansas",
+      "rank": null
+    },
+    "loser": {
+      "name": "North Alabama",
+      "rank": null
+    },
+    "winScore": 31,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 17,
+    "totalPoints": 45,
+    "bowlGame": ""
+  },
+  "2026-09-05-Army-Bryant": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Army",
+      "rank": null
+    },
+    "loser": {
+      "name": "Bryant",
+      "rank": null
+    },
+    "winScore": 59,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "",
+    "margin": 56,
+    "totalPoints": 62,
+    "bowlGame": ""
+  },
+  "2026-09-05-Auburn-Baylor": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Auburn",
+      "rank": null
+    },
+    "loser": {
+      "name": "Baylor",
+      "rank": null
+    },
+    "winScore": 17,
+    "loseScore": 16,
+    "location": "N",
+    "confWin": "SEC",
+    "confLose": "Big 12",
+    "margin": 1,
+    "totalPoints": 33,
+    "bowlGame": ""
+  },
+  "2026-09-05-BrighamYoung-UtahTech": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "BYU",
+      "rank": 14
+    },
+    "loser": {
+      "name": "Utah Tech",
+      "rank": null
+    },
+    "winScore": 63,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "",
+    "margin": 56,
+    "totalPoints": 70,
+    "bowlGame": ""
+  },
+  "2026-09-05-Cincinnati-BostonCollege": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Cincinnati",
+      "rank": null
+    },
+    "loser": {
+      "name": "Boston College",
+      "rank": null
+    },
+    "winScore": 34,
+    "loseScore": 15,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "ACC",
+    "margin": 19,
+    "totalPoints": 49,
+    "bowlGame": ""
+  },
+  "2026-09-05-Citadel-Charlotte": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Citadel",
+      "rank": null
+    },
+    "loser": {
+      "name": "Charlotte",
+      "rank": null
+    },
+    "winScore": 43,
+    "loseScore": 41,
+    "location": "@",
+    "confWin": "",
+    "confLose": "American",
+    "margin": 2,
+    "totalPoints": 84,
+    "bowlGame": ""
+  },
+  "2026-09-05-ColoradoState-Wyoming": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Colorado State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Wyoming",
+      "rank": null
+    },
+    "winScore": 35,
+    "loseScore": 13,
+    "location": "VS",
+    "confWin": "Pac-12",
+    "confLose": "MWC",
+    "margin": 22,
+    "totalPoints": 48,
+    "bowlGame": ""
+  },
+  "2026-09-05-Connecticut-Lafayette": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "UConn",
+      "rank": null
+    },
+    "loser": {
+      "name": "Lafayette",
+      "rank": null
+    },
+    "winScore": 56,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "Ind",
+    "confLose": "",
+    "margin": 49,
+    "totalPoints": 63,
+    "bowlGame": ""
+  },
+  "2026-09-05-Duke-Tulane": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Duke",
+      "rank": null
+    },
+    "loser": {
+      "name": "Tulane",
+      "rank": null
+    },
+    "winScore": 17,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "American",
+    "margin": 14,
+    "totalPoints": 20,
+    "bowlGame": ""
+  },
+  "2026-09-05-Florida-FloridaAtlantic": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Florida",
+      "rank": null
+    },
+    "loser": {
+      "name": "Florida Atlantic",
+      "rank": null
+    },
+    "winScore": 66,
+    "loseScore": 21,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "American",
+    "margin": 45,
+    "totalPoints": 87,
+    "bowlGame": ""
+  },
+  "2026-09-05-Georgia-TennesseeState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Georgia",
+      "rank": 3
+    },
+    "loser": {
+      "name": "Tennessee State",
+      "rank": null
+    },
+    "winScore": 63,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 60,
+    "totalPoints": 66,
+    "bowlGame": ""
+  },
+  "2026-09-05-GeorgiaSouthern-CharlestonSouthern": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Georgia Southern",
+      "rank": null
+    },
+    "loser": {
+      "name": "Charleston Southern",
+      "rank": null
+    },
+    "winScore": 31,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 31,
+    "totalPoints": 31,
+    "bowlGame": ""
+  },
+  "2026-09-05-Houston-OregonState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Houston",
+      "rank": 23
+    },
+    "loser": {
+      "name": "Oregon State",
+      "rank": null
+    },
+    "winScore": 33,
+    "loseScore": 20,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "Pac-12",
+    "margin": 13,
+    "totalPoints": 53,
+    "bowlGame": ""
+  },
+  "2026-09-05-IdahoState-UtahState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Idaho State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Utah State",
+      "rank": null
+    },
+    "winScore": 29,
+    "loseScore": 17,
+    "location": "@",
+    "confWin": "",
+    "confLose": "Pac-12",
+    "margin": 12,
+    "totalPoints": 46,
+    "bowlGame": ""
+  },
+  "2026-09-05-Indiana-NorthTexas": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Indiana",
+      "rank": 6
+    },
+    "loser": {
+      "name": "North Texas",
+      "rank": null
+    },
+    "winScore": 52,
+    "loseScore": 16,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "American",
+    "margin": 36,
+    "totalPoints": 68,
+    "bowlGame": ""
+  },
+  "2026-09-05-Iowa-NorthernIllinois": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Iowa",
+      "rank": 22
+    },
+    "loser": {
+      "name": "Northern Illinois",
+      "rank": null
+    },
+    "winScore": 40,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "MWC",
+    "margin": 40,
+    "totalPoints": 40,
+    "bowlGame": ""
+  },
+  "2026-09-05-IowaState-SoutheastMissouriState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Iowa State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Southeast Missouri State",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 28,
+    "totalPoints": 48,
+    "bowlGame": ""
+  },
+  "2026-09-05-JacksonvilleState-EasternKentucky": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Jacksonville State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Eastern Kentucky",
+      "rank": null
+    },
+    "winScore": 49,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "CUSA",
+    "confLose": "",
+    "margin": 42,
+    "totalPoints": 56,
+    "bowlGame": ""
+  },
+  "2026-09-05-JamesMadison-Liberty": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "James Madison",
+      "rank": null
+    },
+    "loser": {
+      "name": "Liberty",
+      "rank": null
+    },
+    "winScore": 20,
+    "loseScore": 13,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "CUSA",
+    "margin": 7,
+    "totalPoints": 33,
+    "bowlGame": ""
+  },
+  "2026-09-05-KansasState-NichollsState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Kansas State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Nicholls State",
+      "rank": null
+    },
+    "winScore": 71,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 68,
+    "totalPoints": 74,
+    "bowlGame": ""
+  },
+  "2026-09-05-Kentucky-YoungstownState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Kentucky",
+      "rank": null
+    },
+    "loser": {
+      "name": "Youngstown State",
+      "rank": null
+    },
+    "winScore": 45,
+    "loseScore": 13,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 32,
+    "totalPoints": 58,
+    "bowlGame": ""
+  },
+  "2026-09-05-Louisiana-Lamar": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Louisiana",
+      "rank": null
+    },
+    "loser": {
+      "name": "Lamar",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 31,
+    "totalPoints": 45,
+    "bowlGame": ""
+  },
+  "2026-09-05-LouisianaState-Clemson": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "LSU",
+      "rank": 11
+    },
+    "loser": {
+      "name": "Clemson",
+      "rank": null
+    },
+    "winScore": 51,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "ACC",
+    "margin": 41,
+    "totalPoints": 61,
+    "bowlGame": ""
+  },
+  "2026-09-05-LouisianaTech-NorthwesternState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Louisiana Tech",
+      "rank": null
+    },
+    "loser": {
+      "name": "Northwestern State",
+      "rank": null
+    },
+    "winScore": 80,
+    "loseScore": 6,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 74,
+    "totalPoints": 86,
+    "bowlGame": ""
+  },
+  "2026-09-05-Maryland-Hampton": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Maryland",
+      "rank": null
+    },
+    "loser": {
+      "name": "Hampton",
+      "rank": null
+    },
+    "winScore": 62,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "",
+    "margin": 62,
+    "totalPoints": 62,
+    "bowlGame": ""
+  },
+  "2026-09-05-Memphis-ArkansasState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Memphis",
+      "rank": null
+    },
+    "loser": {
+      "name": "Arkansas State",
+      "rank": null
+    },
+    "winScore": 42,
+    "loseScore": 24,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "Sun Belt",
+    "margin": 18,
+    "totalPoints": 66,
+    "bowlGame": ""
+  },
+  "2026-09-05-Michigan-WesternMichigan": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Michigan",
+      "rank": 16
+    },
+    "loser": {
+      "name": "Western Michigan",
+      "rank": null
+    },
+    "winScore": 13,
+    "loseScore": 12,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "MAC",
+    "margin": 1,
+    "totalPoints": 25,
+    "bowlGame": ""
+  },
+  "2026-09-05-MiddleTennesseeState-MurrayState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Middle Tennessee State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Murray State",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "CUSA",
+    "confLose": "",
+    "margin": 24,
+    "totalPoints": 52,
+    "bowlGame": ""
+  },
+  "2026-09-05-MississippiState-LouisianaMonroe": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Mississippi State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Louisiana-Monroe",
+      "rank": null
+    },
+    "winScore": 62,
+    "loseScore": 13,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "Sun Belt",
+    "margin": 49,
+    "totalPoints": 75,
+    "bowlGame": ""
+  },
+  "2026-09-05-Navy-Towson": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Navy",
+      "rank": null
+    },
+    "loser": {
+      "name": "Towson",
+      "rank": null
+    },
+    "winScore": 42,
+    "loseScore": 15,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "",
+    "margin": 27,
+    "totalPoints": 57,
+    "bowlGame": ""
+  },
+  "2026-09-05-Nebraska-Ohio": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Nebraska",
+      "rank": null
+    },
+    "loser": {
+      "name": "Ohio",
+      "rank": null
+    },
+    "winScore": 49,
+    "loseScore": 21,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "MAC",
+    "margin": 28,
+    "totalPoints": 70,
+    "bowlGame": ""
+  },
+  "2026-09-05-Nevada-WesternKentucky": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Nevada",
+      "rank": null
+    },
+    "loser": {
+      "name": "Western Kentucky",
+      "rank": null
+    },
+    "winScore": 49,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "MWC",
+    "confLose": "CUSA",
+    "margin": 35,
+    "totalPoints": 63,
+    "bowlGame": ""
+  },
+  "2026-09-05-NevadaLasVegas-Hawaii": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "UNLV",
+      "rank": null
+    },
+    "loser": {
+      "name": "Hawaii",
+      "rank": null
+    },
+    "winScore": 21,
+    "loseScore": 6,
+    "location": "@",
+    "confWin": "MWC",
+    "confLose": "MWC",
+    "margin": 15,
+    "totalPoints": 27,
+    "bowlGame": ""
+  },
+  "2026-09-05-NewMexico-CentralMichigan": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "New Mexico",
+      "rank": null
+    },
+    "loser": {
+      "name": "Central Michigan",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "MWC",
+    "confLose": "MAC",
+    "margin": 31,
+    "totalPoints": 45,
+    "bowlGame": ""
+  },
+  "2026-09-05-NewMexicoState-Mercyhurst": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "New Mexico State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Mercyhurst",
+      "rank": null
+    },
+    "winScore": 51,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "CUSA",
+    "confLose": "",
+    "margin": 37,
+    "totalPoints": 65,
+    "bowlGame": ""
+  },
+  "2026-09-05-NorthDakotaState-Fordham": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "North Dakota State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Fordham",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "MWC",
+    "confLose": "",
+    "margin": 38,
+    "totalPoints": 38,
+    "bowlGame": ""
+  },
+  "2026-09-05-Northwestern-SouthDakotaState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Northwestern",
+      "rank": null
+    },
+    "loser": {
+      "name": "South Dakota State",
+      "rank": null
+    },
+    "winScore": 34,
+    "loseScore": 18,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "",
+    "margin": 16,
+    "totalPoints": 52,
+    "bowlGame": ""
+  },
+  "2026-09-05-OhioState-BallState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Ohio State",
+      "rank": 1
+    },
+    "loser": {
+      "name": "Ball State",
+      "rank": null
+    },
+    "winScore": 56,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "MAC",
+    "margin": 53,
+    "totalPoints": 59,
+    "bowlGame": ""
+  },
+  "2026-09-05-OldDominion-NorfolkState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Old Dominion",
+      "rank": null
+    },
+    "loser": {
+      "name": "Norfolk State",
+      "rank": null
+    },
+    "winScore": 31,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 21,
+    "totalPoints": 41,
+    "bowlGame": ""
+  },
+  "2026-09-05-Oregon-BoiseState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Oregon",
+      "rank": 2
+    },
+    "loser": {
+      "name": "Boise State",
+      "rank": null
+    },
+    "winScore": 34,
+    "loseScore": 27,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "Pac-12",
+    "margin": 7,
+    "totalPoints": 61,
+    "bowlGame": ""
+  },
+  "2026-09-05-PennState-Marshall": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Penn State",
+      "rank": 18
+    },
+    "loser": {
+      "name": "Marshall",
+      "rank": null
+    },
+    "winScore": 45,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "Sun Belt (East)",
+    "margin": 45,
+    "totalPoints": 45,
+    "bowlGame": ""
+  },
+  "2026-09-05-Pittsburgh-MiamiOH": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Pitt",
+      "rank": null
+    },
+    "loser": {
+      "name": "Miami (OH)",
+      "rank": null
+    },
+    "winScore": 59,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "MAC",
+    "margin": 45,
+    "totalPoints": 73,
+    "bowlGame": ""
+  },
+  "2026-09-05-Rice-HoustonBaptist": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Rice",
+      "rank": null
+    },
+    "loser": {
+      "name": "Houston Baptist",
+      "rank": null
+    },
+    "winScore": 31,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "",
+    "margin": 28,
+    "totalPoints": 34,
+    "bowlGame": ""
+  },
+  "2026-09-05-SacramentoState-MississippiValleyState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Sacramento State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Mississippi Valley State",
+      "rank": null
+    },
+    "winScore": 52,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "MAC",
+    "confLose": "",
+    "margin": 52,
+    "totalPoints": 52,
+    "bowlGame": ""
+  },
+  "2026-09-05-SanDiegoState-PortlandState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "San Diego State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Portland State",
+      "rank": null
+    },
+    "winScore": 53,
+    "loseScore": 20,
+    "location": "VS",
+    "confWin": "Pac-12",
+    "confLose": "",
+    "margin": 33,
+    "totalPoints": 73,
+    "bowlGame": ""
+  },
+  "2026-09-05-SouthAlabama-SoutheasternLouisiana": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "South Alabama",
+      "rank": null
+    },
+    "loser": {
+      "name": "Southeastern Louisiana",
+      "rank": null
+    },
+    "winScore": 39,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 25,
+    "totalPoints": 53,
+    "bowlGame": ""
+  },
+  "2026-09-05-SouthCarolina-KentState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "South Carolina",
+      "rank": null
+    },
+    "loser": {
+      "name": "Kent State",
+      "rank": null
+    },
+    "winScore": 57,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "MAC",
+    "margin": 57,
+    "totalPoints": 57,
+    "bowlGame": ""
+  },
+  "2026-09-05-SouthFlorida-FloridaInternational": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "USF",
+      "rank": null
+    },
+    "loser": {
+      "name": "Florida International",
+      "rank": null
+    },
+    "winScore": 19,
+    "loseScore": 9,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "CUSA",
+    "margin": 10,
+    "totalPoints": 28,
+    "bowlGame": ""
+  },
+  "2026-09-05-SouthernMississippi-AlcornState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Southern Mississippi",
+      "rank": null
+    },
+    "loser": {
+      "name": "Alcorn State",
+      "rank": null
+    },
+    "winScore": 49,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "",
+    "margin": 46,
+    "totalPoints": 52,
+    "bowlGame": ""
+  },
+  "2026-09-05-Syracuse-NewHampshire": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Syracuse",
+      "rank": null
+    },
+    "loser": {
+      "name": "New Hampshire",
+      "rank": null
+    },
+    "winScore": 66,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "",
+    "margin": 63,
+    "totalPoints": 69,
+    "bowlGame": ""
+  },
+  "2026-09-05-TarletonState-BowlingGreen": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Tarleton State",
+      "rank": null
+    },
+    "loser": {
+      "name": "Bowling Green",
+      "rank": null
+    },
+    "winScore": 20,
+    "loseScore": 13,
+    "location": "@",
+    "confWin": "",
+    "confLose": "MAC",
+    "margin": 7,
+    "totalPoints": 33,
+    "bowlGame": ""
+  },
+  "2026-09-05-Temple-RhodeIsland": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Temple",
+      "rank": null
+    },
+    "loser": {
+      "name": "Rhode Island",
+      "rank": null
+    },
+    "winScore": 38,
+    "loseScore": 14,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "",
+    "margin": 24,
+    "totalPoints": 52,
+    "bowlGame": ""
+  },
+  "2026-09-05-Tennessee-Furman": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Tennessee",
+      "rank": 20
+    },
+    "loser": {
+      "name": "Furman",
+      "rank": null
+    },
+    "winScore": 56,
+    "loseScore": 9,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 47,
+    "totalPoints": 65,
+    "bowlGame": ""
+  },
+  "2026-09-05-Texas-TexasState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Texas",
+      "rank": 5
+    },
+    "loser": {
+      "name": "Texas State",
+      "rank": null
+    },
+    "winScore": 59,
+    "loseScore": 7,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "Pac-12",
+    "margin": 52,
+    "totalPoints": 66,
+    "bowlGame": ""
+  },
+  "2026-09-05-TexasAM-MissouriState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Texas A&M",
+      "rank": 8
+    },
+    "loser": {
+      "name": "Missouri State",
+      "rank": null
+    },
+    "winScore": 50,
+    "loseScore": 0,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "CUSA",
+    "margin": 50,
+    "totalPoints": 50,
+    "bowlGame": ""
+  },
+  "2026-09-05-TexasTech-AbileneChristian": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Texas Tech",
+      "rank": 12
+    },
+    "loser": {
+      "name": "Abilene Christian",
+      "rank": null
+    },
+    "winScore": 33,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "",
+    "margin": 23,
+    "totalPoints": 43,
+    "bowlGame": ""
+  },
+  "2026-09-05-TexasSanAntonio-UTRGV": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "UTSA",
+      "rank": null
+    },
+    "loser": {
+      "name": "UTRGV",
+      "rank": null
+    },
+    "winScore": 45,
+    "loseScore": 16,
+    "location": "VS",
+    "confWin": "",
+    "confLose": "",
+    "margin": 29,
+    "totalPoints": 61,
+    "bowlGame": ""
+  },
+  "2026-09-05-Troy-SamHouston": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Troy",
+      "rank": null
+    },
+    "loser": {
+      "name": "Sam Houston",
+      "rank": null
+    },
+    "winScore": 24,
+    "loseScore": 21,
+    "location": "VS",
+    "confWin": "Sun Belt",
+    "confLose": "CUSA",
+    "margin": 3,
+    "totalPoints": 45,
+    "bowlGame": ""
+  },
+  "2026-09-05-Tulsa-OklahomaState": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Tulsa",
+      "rank": null
+    },
+    "loser": {
+      "name": "Oklahoma State",
+      "rank": null
+    },
+    "winScore": 24,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "American",
+    "confLose": "Big 12",
+    "margin": 14,
+    "totalPoints": 34,
+    "bowlGame": ""
+  },
+  "2026-09-05-UCLA-California": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "UCLA",
+      "rank": null
+    },
+    "loser": {
+      "name": "California",
+      "rank": null
+    },
+    "winScore": 45,
+    "loseScore": 24,
+    "location": "@",
+    "confWin": "Big Ten",
+    "confLose": "ACC",
+    "margin": 21,
+    "totalPoints": 69,
+    "bowlGame": ""
+  },
+  "2026-09-05-Vanderbilt-AustinPeay": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Vanderbilt",
+      "rank": null
+    },
+    "loser": {
+      "name": "Austin Peay",
+      "rank": null
+    },
+    "winScore": 28,
+    "loseScore": 9,
+    "location": "VS",
+    "confWin": "SEC",
+    "confLose": "",
+    "margin": 19,
+    "totalPoints": 37,
+    "bowlGame": ""
+  },
+  "2026-09-05-VirginiaTech-VirginiaMilitaryInstitute": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "Virginia Tech",
+      "rank": null
+    },
+    "loser": {
+      "name": "Virginia Military Institute",
+      "rank": null
+    },
+    "winScore": 73,
+    "loseScore": 3,
+    "location": "VS",
+    "confWin": "ACC",
+    "confLose": "",
+    "margin": 70,
+    "totalPoints": 76,
+    "bowlGame": ""
+  },
+  "2026-09-05-WestVirginia-CoastalCarolina": {
+    "week": 1,
+    "date": "2026-09-05",
+    "dayOfWeek": "Sat",
+    "winner": {
+      "name": "West Virginia",
+      "rank": null
+    },
+    "loser": {
+      "name": "Coastal Carolina",
+      "rank": null
+    },
+    "winScore": 31,
+    "loseScore": 24,
+    "location": "VS",
+    "confWin": "Big 12",
+    "confLose": "Sun Belt",
+    "margin": 7,
+    "totalPoints": 55,
+    "bowlGame": ""
+  },
+  "2026-09-06-Mississippi-Louisville": {
+    "week": 1,
+    "date": "2026-09-06",
+    "dayOfWeek": "Sun",
+    "winner": {
+      "name": "Ole Miss",
+      "rank": 9
+    },
+    "loser": {
+      "name": "Louisville",
+      "rank": 24
+    },
+    "winScore": 41,
+    "loseScore": 38,
+    "location": "N",
+    "confWin": "",
+    "confLose": "ACC",
+    "margin": 3,
+    "totalPoints": 79,
+    "bowlGame": ""
+  },
+  "2026-09-06-NotreDame-Wisconsin": {
+    "week": 1,
+    "date": "2026-09-06",
+    "dayOfWeek": "Sun",
+    "winner": {
+      "name": "Notre Dame",
+      "rank": 4
+    },
+    "loser": {
+      "name": "Wisconsin",
+      "rank": null
+    },
+    "winScore": 41,
+    "loseScore": 13,
+    "location": "N",
+    "confWin": "Ind",
+    "confLose": "Big Ten",
+    "margin": 28,
+    "totalPoints": 54,
+    "bowlGame": ""
+  },
+  "2026-09-06-Washington-WashingtonState": {
+    "week": 1,
+    "date": "2026-09-06",
+    "dayOfWeek": "Sun",
+    "winner": {
+      "name": "Washington",
+      "rank": 17
+    },
+    "loser": {
+      "name": "Washington State",
+      "rank": null
+    },
+    "winScore": 24,
+    "loseScore": 10,
+    "location": "VS",
+    "confWin": "Big Ten",
+    "confLose": "Pac-12",
+    "margin": 14,
+    "totalPoints": 34,
+    "bowlGame": ""
+  },
+  "2026-09-07-SouthernMethodist-FloridaState": {
+    "week": 1,
+    "date": "2026-09-07",
+    "dayOfWeek": "Mon",
+    "winner": {
+      "name": "SMU",
+      "rank": 19
+    },
+    "loser": {
+      "name": "Florida State",
+      "rank": null
+    },
+    "winScore": 27,
+    "loseScore": 24,
+    "location": "@",
+    "confWin": "",
+    "confLose": "ACC",
+    "margin": 3,
+    "totalPoints": 51,
+    "bowlGame": ""
   }
 }

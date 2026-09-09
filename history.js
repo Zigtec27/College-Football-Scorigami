@@ -8011,6 +8011,17 @@ slider.oninput = function() {
         const _51_47_ = document.getElementById("51-47"); _51_47_.className = "Blank";
     }
 
+    //2026 Scorigami
+    if (output.innerHTML == "2026") {
+        const _80_6_ = document.getElementById("80-6"); _80_6_.className = "Scorigami";
+    }
+    if (output.innerHTML > "2026") {
+        const _80_6_ = document.getElementById("80-6"); _80_6_.className = "PastScorigami";
+    }
+    if (output.innerHTML < "2026") {
+        const _80_6_ = document.getElementById("80-6"); _80_6_.className = "Blank";
+    }
+
     //20XX Scorigami
     // if (output.innerHTML == "20XX") {
         // const _X_X_ = document.getElementById("X-X"); _X_X_.className = "Scorigami";

@@ -13095,7 +13095,8 @@
     "2014-09-06-Nevada-LasVegas-NorthernColorado",
     "2021-10-09-EasternMichigan-Miami(OH)",
     "2024-09-14-Georgia-Kentucky",
-    "2025-10-25-WakeForest-SouthernMethodist"
+    "2025-10-25-WakeForest-SouthernMethodist",
+    "2026-09-05-Michigan-WesternMichigan"
   ],
   "13-13": [
     "1912-11-02-Sewanee-Georgia",
@@ -16485,7 +16486,8 @@
     "2022-11-12-Wyoming-ColoradoState",
     "2025-09-13-MiddleTennesseeState-Nevada",
     "2025-09-20-WesternMichigan-Toledo",
-    "2025-11-08-Army-Temple"
+    "2025-11-08-Army-Temple",
+    "2026-09-03-Colorado-GeorgiaTech"
   ],
   "14-14": [
     "1886-10-02-Williams-MIT",
@@ -17055,7 +17057,8 @@
     "2005-11-26-Connecticut-SouthFlorida",
     "2013-09-14-VirginiaTech-EastCarolina",
     "2015-10-17-KentState-Massachusetts",
-    "2019-08-31-Memphis-Mississippi"
+    "2019-08-31-Memphis-Mississippi",
+    "2026-08-29-NorthCarolina-TexasChristian"
   ],
   "15-11": [
     "1901-11-23-Wesleyan(CT)-Amherst",
@@ -19261,7 +19264,8 @@
     "2017-09-01-Colorado-ColoradoState",
     "2018-09-08-Stanford-SouthernCalifornia",
     "2021-11-05-BostonCollege-VirginiaTech",
-    "2023-09-16-Alabama-SouthFlorida"
+    "2023-09-16-Alabama-SouthFlorida",
+    "2026-09-05-Duke-Tulane"
   ],
   "17-4": [
     "1904-10-29-Georgetown-HolyCross",
@@ -21027,7 +21031,8 @@
     "2022-10-08-BallState-CentralMichigan",
     "2025-09-20-TexasSanAntonio-ColoradoState",
     "2025-10-25-Virginia-NorthCarolina",
-    "2025-12-13-Navy-Army"
+    "2025-12-13-Navy-Army",
+    "2026-09-05-Auburn-Baylor"
   ],
   "17-17": [
     "1901-11-02-Beloit-Chicago",
@@ -23175,7 +23180,8 @@
     "2009-09-26-SanJoseState-CalPoly",
     "2013-10-12-VirginiaTech-Pittsburgh",
     "2014-11-01-Louisiana-SouthAlabama",
-    "2022-11-05-Pittsburgh-Syracuse"
+    "2022-11-05-Pittsburgh-Syracuse",
+    "2026-09-05-SouthFlorida-FloridaInternational"
   ],
   "19-10": [
     "1915-10-21-SouthCarolina-NorthCarolinaState",
@@ -26326,7 +26332,9 @@
     "2025-10-18-Stanford-FloridaState",
     "2025-11-29-IowaState-OklahomaState",
     "2025-11-29-Illinois-Northwestern",
-    "2025-12-17-Delaware-Louisiana"
+    "2025-12-17-Delaware-Louisiana",
+    "2026-09-05-JamesMadison-Liberty",
+    "2026-09-05-TarletonState-BowlingGreen"
   ],
   "20-14": [
     "1892-11-05-Harvard-Cornell",
@@ -28608,7 +28616,8 @@
     "2021-10-30-Syracuse-BostonCollege",
     "2024-08-31-AirForce-Merrimack",
     "2024-09-14-Ohio-MorganState",
-    "2024-10-26-VirginiaTech-GeorgiaTech"
+    "2024-10-26-VirginiaTech-GeorgiaTech",
+    "2026-09-05-NevadaLasVegas-Hawaii"
   ],
   "21-7": [
     "1907-11-16-Samford-Chattanooga",
@@ -30429,7 +30438,8 @@
     "2025-09-20-Troy-Buffalo",
     "2025-11-01-SouthernCalifornia-Nebraska",
     "2025-11-08-MissouriState-Liberty",
-    "2025-11-08-SamHouston-OregonState"
+    "2025-11-08-SamHouston-OregonState",
+    "2026-09-03-Buffalo-Albany"
   ],
   "21-18": [
     "1922-10-28-Princeton-Chicago",
@@ -34981,7 +34991,9 @@
     "2025-01-03-Minnesota-VirginiaTech",
     "2025-10-04-Michigan-Wisconsin",
     "2025-11-08-Clemson-FloridaState",
-    "2025-12-17-OldDominion-SouthFlorida"
+    "2025-12-17-OldDominion-SouthFlorida",
+    "2026-09-05-Tulsa-OklahomaState",
+    "2026-09-06-Washington-WashingtonState"
   ],
   "24-11": [
     "1905-11-04-TexasA&M-TexasChristian",
@@ -36636,7 +36648,8 @@
     "2025-10-25-OldDominion-AppalachianState",
     "2025-10-29-JacksonvilleState-MiddleTennesseeState",
     "2025-11-01-WesternMichigan-CentralMichigan",
-    "2025-11-08-KennesawState-NewMexicoState"
+    "2025-11-08-KennesawState-NewMexicoState",
+    "2026-09-05-Troy-SamHouston"
   ],
   "24-22": [
     "1962-11-03-SanJoseState-Pacific",
@@ -42698,7 +42711,9 @@
     "2025-11-08-EasternMichigan-BowlingGreen",
     "2025-11-08-SouthernMississippi-ArkansasState",
     "2025-11-22-FloridaInternational-JacksonvilleState",
-    "2026-01-19-Indiana-MiamiFL"
+    "2026-01-19-Indiana-MiamiFL",
+    "2026-08-29-Memphis-NevadaLasVegas",
+    "2026-09-04-SanJoseState-EasternMichigan"
   ],
   "27-22": [
     "1950-10-07-Vanderbilt-Alabama",
@@ -43139,7 +43154,8 @@
     "2025-10-11-Alabama-Missouri",
     "2025-10-25-Rutgers-Purdue",
     "2025-11-08-Indiana-PennState",
-    "2025-11-29-Army-TexasSanAntonio"
+    "2025-11-29-Army-TexasSanAntonio",
+    "2026-09-07-SouthernMethodist-FloridaState"
   ],
   "27-25": [
     "1941-10-25-Wisconsin-Indiana",
@@ -44663,7 +44679,8 @@
     "2013-11-02-Wisconsin-Iowa",
     "2016-10-08-WakeForest-Syracuse",
     "2022-10-01-WashingtonState-California",
-    "2024-09-14-Colorado-ColoradoState"
+    "2024-09-14-Colorado-ColoradoState",
+    "2026-09-05-Vanderbilt-AustinPeay"
   ],
   "28-10": [
     "1892-10-08-Massachusetts-WPI",
@@ -45587,7 +45604,8 @@
     "2023-09-09-Kentucky-EasternKentucky",
     "2025-09-18-Rice-Charlotte",
     "2025-11-22-UtahState-FresnoState",
-    "2025-11-27-Navy-Memphis"
+    "2025-11-27-Navy-Memphis",
+    "2026-08-29-EasternMichigan-SacramentoState"
   ],
   "28-18": [
     "1927-10-29-Colorado-ColoradoMines",
@@ -47257,7 +47275,8 @@
     "2015-10-31-Navy-SouthFlorida",
     "2020-12-05-SanDiegoState-ColoradoState",
     "2021-10-23-WestVirginia-TexasChristian",
-    "2021-12-23-CentralFlorida-Florida"
+    "2021-12-23-CentralFlorida-Florida",
+    "2026-09-05-IdahoState-UtahState"
   ],
   "29-18": [
     "1962-09-15-UtahState-SanJoseState",
@@ -48765,7 +48784,8 @@
     "2024-10-19-Miami(OH)-Ohio",
     "2025-09-13-Stanford-BostonCollege",
     "2025-09-20-LouisianaTech-SouthernMississippi",
-    "2025-10-11-Indiana-Oregon"
+    "2025-10-11-Indiana-Oregon",
+    "2026-09-04-MichiganState-Toledo"
   ],
   "30-21": [
     "1941-11-22-Colgate-Columbia",
@@ -49667,7 +49687,8 @@
     "2023-09-23-PennState-Iowa",
     "2024-08-31-Kentucky-SouthernMississippi",
     "2024-09-07-WesternKentucky-EasternKentucky",
-    "2025-08-30-Purdue-BallState"
+    "2025-08-30-Purdue-BallState",
+    "2026-09-05-GeorgiaSouthern-CharlestonSouthern"
   ],
   "31-2": [
     "1920-11-27-TexasChristian-Hardin-Simmons",
@@ -49774,7 +49795,8 @@
     "2022-11-12-Minnesota-Northwestern",
     "2023-11-18-Connecticut-SacredHeart",
     "2024-09-14-Baylor-AirForce",
-    "2024-12-07-Marshall-Louisiana"
+    "2024-12-07-Marshall-Louisiana",
+    "2026-09-05-Rice-HoustonBaptist"
   ],
   "31-4": [
     "1987-09-05-Miami(FL)-Florida"
@@ -50458,7 +50480,8 @@
     "2024-09-14-California-SanDiegoState",
     "2024-09-14-SanJoseState-KennesawState",
     "2024-10-04-Oregon-MichiganState",
-    "2025-11-22-Stanford-California"
+    "2025-11-22-Stanford-California",
+    "2026-09-05-OldDominion-NorfolkState"
   ],
   "31-11": [
     "1964-11-21-Wyoming-BrighamYoung",
@@ -50952,7 +50975,8 @@
     "2025-09-27-Tulane-Tulsa",
     "2025-11-15-Tulsa-OregonState",
     "2025-11-22-TexasState-LouisianaMonroe",
-    "2025-12-05-JamesMadison-Troy"
+    "2025-12-05-JamesMadison-Troy",
+    "2026-09-05-Arkansas-NorthAlabama"
   ],
   "31-15": [
     "1969-11-15-Oklahoma-Kansas",
@@ -51958,7 +51982,8 @@
     "2025-10-18-Vanderbilt-LouisianaState",
     "2025-11-29-MiddleTennesseeState-NewMexicoState",
     "2025-11-29-Houston-Baylor",
-    "2025-11-29-AlabamaBirmingham-Tulsa"
+    "2025-11-29-AlabamaBirmingham-Tulsa",
+    "2026-09-05-WestVirginia-CoastalCarolina"
   ],
   "31-25": [
     "1967-11-25-UtahState-SanDiegoState",
@@ -54362,7 +54387,8 @@
     "2023-10-28-Mississippi-Vanderbilt",
     "2023-11-25-California-UCLA",
     "2024-09-14-Houston-Rice",
-    "2024-11-23-SouthernMethodist-Virginia"
+    "2024-11-23-SouthernMethodist-Virginia",
+    "2026-08-29-NorthDakotaState-JacksonvilleState"
   ],
   "33-8": [
     "1906-10-27-Chicago-Indiana",
@@ -54441,7 +54467,8 @@
     "2017-11-11-LouisianaState-Arkansas",
     "2022-09-10-Wyoming-NorthernColorado",
     "2022-09-22-WestVirginia-VirginiaTech",
-    "2024-10-26-FresnoState-SanJoseState"
+    "2024-10-26-FresnoState-SanJoseState",
+    "2026-09-05-TexasTech-AbileneChristian"
   ],
   "33-11": [
     "1966-09-24-Oklahoma-IowaState",
@@ -54902,7 +54929,8 @@
     "2023-10-07-Louisville-NotreDame",
     "2023-10-28-Louisiana-SouthAlabama",
     "2024-09-14-TexasA&M-Florida",
-    "2025-10-28-KennesawState-TexasElPaso"
+    "2025-10-28-KennesawState-TexasElPaso",
+    "2026-09-05-Houston-OregonState"
   ],
   "33-21": [
     "1919-11-27-Vanderbilt-Sewanee",
@@ -55865,7 +55893,8 @@
     "2024-10-26-Alabama-Missouri",
     "2025-09-06-PennState-FloridaInternational",
     "2025-09-20-SanDiegoState-California",
-    "2025-10-18-OhioState-Wisconsin"
+    "2025-10-18-OhioState-Wisconsin",
+    "2026-09-05-AirForce-Duquesne"
   ],
   "34-2": [
     "1900-10-13-Lafayette-Swarthmore",
@@ -56508,7 +56537,8 @@
     "1991-11-02-Indiana-Minnesota",
     "1996-10-05-NorthCarolinaState-Maryland",
     "1997-11-08-Michigan-PennState",
-    "2009-11-07-OklahomaState-IowaState"
+    "2009-11-07-OklahomaState-IowaState",
+    "2026-08-29-Virginia-NorthCarolinaState"
   ],
   "34-9": [
     "1931-09-19-OklahomaState-Bethany(Kansas)",
@@ -57139,7 +57169,8 @@
     "2021-10-23-Toledo-WesternMichigan",
     "2022-10-22-FloridaInternational-Charlotte",
     "2025-08-30-California-OregonState",
-    "2025-09-13-ArizonaState-TexasState"
+    "2025-09-13-ArizonaState-TexasState",
+    "2026-09-05-Cincinnati-BostonCollege"
   ],
   "34-16": [
     "1942-10-17-Michigan-Northwestern",
@@ -57337,7 +57368,8 @@
     "2025-09-06-Purdue-SouthernIllinois",
     "2025-10-11-TexasAM-Florida",
     "2025-11-15-Virginia-Duke",
-    "2025-11-22-MiamiFL-VirginiaTech"
+    "2025-11-22-MiamiFL-VirginiaTech",
+    "2026-08-29-FloridaState-NewMexicoState"
   ],
   "34-18": [
     "1893-11-04-Wisconsin-Michigan",
@@ -57365,7 +57397,8 @@
     "2018-12-28-Syracuse-WestVirginia",
     "2020-11-07-TexasChristian-TexasTech",
     "2022-10-22-BowlingGreen-CentralMichigan",
-    "2024-11-29-BoiseState-OregonState"
+    "2024-11-29-BoiseState-OregonState",
+    "2026-09-05-Northwestern-SouthDakotaState"
   ],
   "34-19": [
     "1925-11-28-Creighton-Idaho",
@@ -57994,7 +58027,8 @@
     "2025-09-13-Tulane-Duke",
     "2025-09-27-Louisville-Pittsburgh",
     "2025-11-15-FloridaInternational-Liberty",
-    "2025-12-31-Iowa-Vanderbilt"
+    "2025-12-31-Iowa-Vanderbilt",
+    "2026-09-05-Oregon-BoiseState"
   ],
   "34-28": [
     "1948-10-09-Columbia-Yale",
@@ -59252,7 +59286,8 @@
     "2024-10-05-OhioState-Iowa",
     "2024-10-26-Massachusetts-Wagner",
     "2025-08-30-Tulsa-AbileneChristian",
-    "2025-10-09-KennesawState-LouisianaTech"
+    "2025-10-09-KennesawState-LouisianaTech",
+    "2026-09-05-Arizona-NorthernArizona"
   ],
   "35-8": [
     "1960-11-26-NorthCarolina-Virginia",
@@ -59595,7 +59630,8 @@
     "2024-09-28-Texas-MississippiState",
     "2025-09-27-SouthCarolina-Kentucky",
     "2025-11-01-Illinois-Rutgers",
-    "2026-01-02-Navy-Cincinnati"
+    "2026-01-02-Navy-Cincinnati",
+    "2026-09-05-ColoradoState-Wyoming"
   ],
   "35-14": [
     "1921-11-05-Colorado-ColoradoCollege",
@@ -62673,7 +62709,8 @@
     "2020-10-31-Indiana-Rutgers",
     "2022-11-08-Ohio-Miami(OH)",
     "2024-11-23-Kansas-Colorado",
-    "2025-09-13-GeorgiaState-MurrayState"
+    "2025-09-13-GeorgiaState-MurrayState",
+    "2026-09-03-Massachusetts-Rutgers"
   ],
   "37-22": [
     "1968-09-28-Purdue-NotreDame",
@@ -62804,7 +62841,8 @@
     "2020-12-05-Nebraska-Purdue",
     "2022-11-26-Alabama-Birmingham-LouisianaTech",
     "2023-11-25-NorthernIllinois-KentState",
-    "2024-09-14-Arkansas-Alabama-Birmingham"
+    "2024-09-14-Arkansas-Alabama-Birmingham",
+    "2026-08-29-Stanford-Hawaii"
   ],
   "37-28": [
     "1951-11-10-California-Washington",
@@ -63403,7 +63441,8 @@
     "2024-09-07-Missouri-Buffalo",
     "2025-09-13-EastCarolina-CoastalCarolina",
     "2025-09-13-Illinois-WesternMichigan",
-    "2025-09-27-MiamiOH-Lindenwood"
+    "2025-09-27-MiamiOH-Lindenwood",
+    "2026-09-05-NorthDakotaState-Fordham"
   ],
   "38-2": [
     "1979-09-08-Washington-Wyoming",
@@ -63835,7 +63874,9 @@
     "2025-09-06-Texas-SanJoseState",
     "2025-09-13-Marshall-EasternKentucky",
     "2025-11-08-Kentucky-Florida",
-    "2025-11-29-MiamiFL-Pittsburgh"
+    "2025-11-29-MiamiFL-Pittsburgh",
+    "2026-09-05-Louisiana-Lamar",
+    "2026-09-05-NewMexico-CentralMichigan"
   ],
   "38-8": [
     "1961-10-07-Michigan-Army",
@@ -64010,7 +64051,8 @@
     "2025-10-04-Clemson-NorthCarolina",
     "2025-11-08-MiamiFL-Syracuse",
     "2025-11-21-NevadaLasVegas-Hawaii",
-    "2025-12-13-Washington-BoiseState"
+    "2025-12-13-Washington-BoiseState",
+    "2026-09-05-IowaState-SoutheastMissouriState"
   ],
   "38-11": [
     "1980-09-20-SouthernMississippi-LouisianaTech",
@@ -64357,7 +64399,9 @@
     "2025-09-13-Alabama-Wisconsin",
     "2025-10-31-Memphis-Rice",
     "2025-11-01-OhioState-PennState",
-    "2025-11-22-IowaState-Kansas"
+    "2025-11-22-IowaState-Kansas",
+    "2026-09-05-MiddleTennesseeState-MurrayState",
+    "2026-09-05-Temple-RhodeIsland"
   ],
   "38-15": [
     "1967-10-28-Furman-Lehigh",
@@ -64453,7 +64497,8 @@
     "2023-10-27-FloridaAtlantic-Charlotte",
     "2024-11-16-Illinois-MichiganState",
     "2025-09-06-Memphis-GeorgiaState",
-    "2025-09-20-Delaware-FloridaInternational"
+    "2025-09-20-Delaware-FloridaInternational",
+    "2026-09-03-WakeForest-Akron"
   ],
   "38-17": [
     "1956-11-24-MichiganState-KansasState",
@@ -65974,7 +66019,8 @@
     "2012-09-22-Mississippi-Tulane",
     "2015-10-31-PennState-Illinois",
     "2016-11-19-PennState-Rutgers",
-    "2017-11-18-Northwestern-Minnesota"
+    "2017-11-18-Northwestern-Minnesota",
+    "2026-09-04-SouthernCalifornia-FresnoState"
   ],
   "39-2": [
     "1933-09-30-GeorgiaTech-Clemson",
@@ -66241,7 +66287,8 @@
     "2019-11-23-Michigan-Indiana",
     "2023-10-07-TexasTech-Baylor",
     "2025-09-27-IowaState-Arizona",
-    "2025-10-11-WakeForest-OregonState"
+    "2025-10-11-WakeForest-OregonState",
+    "2026-09-05-SouthAlabama-SoutheasternLouisiana"
   ],
   "39-15": [
     "1941-10-11-Vanderbilt-Kentucky",
@@ -66844,7 +66891,8 @@
     "2012-11-03-Vanderbilt-Kentucky",
     "2024-08-31-Iowa-IllinoisState",
     "2024-08-31-Memphis-NorthAlabama",
-    "2024-09-14-MichiganState-PrairieViewA&M"
+    "2024-09-14-MichiganState-PrairieViewA&M",
+    "2026-09-05-Iowa-NorthernIllinois"
   ],
   "40-2": [
     "1971-11-13-Idaho-MontanaState",
@@ -68804,7 +68852,8 @@
     "2023-11-04-Michigan-Purdue",
     "2024-08-31-BrighamYoung-SouthernIllinois",
     "2024-10-24-Pittsburgh-Syracuse",
-    "2025-10-04-Arizona-OklahomaState"
+    "2025-10-04-Arizona-OklahomaState",
+    "2026-09-06-NotreDame-Wisconsin"
   ],
   "41-14": [
     "1917-11-03-MississippiState-Mississippi",
@@ -69907,7 +69956,8 @@
     "2024-09-28-Louisiana-WakeForest",
     "2024-11-23-OregonState-WashingtonState",
     "2025-09-20-NevadaLasVegas-MiamiOH",
-    "2025-11-15-Navy-SouthFlorida"
+    "2025-11-15-Navy-SouthFlorida",
+    "2026-09-06-Mississippi-Louisville"
   ],
   "41-39": [
     "1981-11-07-Arkansas-Baylor",
@@ -70587,7 +70637,8 @@
     "2025-09-13-Baylor-Samford",
     "2025-10-04-Northwestern-LouisianaMonroe",
     "2025-10-25-MiamiFL-Stanford",
-    "2025-11-01-FloridaState-WakeForest"
+    "2025-11-01-FloridaState-WakeForest",
+    "2026-09-03-Delaware-Merrimack"
   ],
   "42-8": [
     "1909-11-05-Oklahoma-Washburn",
@@ -71026,7 +71077,8 @@
     "1980-11-08-Baylor-Arkansas",
     "1985-10-26-Michigan-Indiana",
     "1994-09-03-NotreDame-Northwestern",
-    "1996-11-02-CentralFlorida-IllinoisState"
+    "1996-11-02-CentralFlorida-IllinoisState",
+    "2026-09-05-Navy-Towson"
   ],
   "42-16": [
     "1967-09-30-ArizonaState-Wisconsin",
@@ -71418,7 +71470,8 @@
     "2021-09-03-SouthDakotaState-ColoradoState",
     "2021-10-02-ArizonaState-UCLA",
     "2022-11-25-BoiseState-UtahState",
-    "2025-09-13-Navy-Tulsa"
+    "2025-09-13-Navy-Tulsa",
+    "2026-09-03-Illinois-AlabamaBirmingham"
   ],
   "42-24": [
     "1965-11-20-Arkansas-TexasTech",
@@ -71497,7 +71550,8 @@
     "2023-11-25-Maryland-Rutgers",
     "2024-08-29-SanJoseState-SacramentoState",
     "2025-08-30-ArkansasState-SoutheastMissouriState",
-    "2025-08-30-TexasA&M-Texas-SanAntonio"
+    "2025-08-30-TexasA&M-Texas-SanAntonio",
+    "2026-09-05-Memphis-ArkansasState"
   ],
   "42-25": [
     "1952-10-04-Texas-ElPaso-Hawaii",
@@ -71543,7 +71597,8 @@
     "2006-11-04-CentralMichigan-Temple",
     "2020-10-10-NotreDame-FloridaState",
     "2021-10-09-Utah-SouthernCalifornia",
-    "2025-11-15-WesternKentucky-MiddleTennesseeState"
+    "2025-11-15-WesternKentucky-MiddleTennesseeState",
+    "2026-08-29-SouthernCalifornia-SanJoseState"
   ],
   "42-27": [
     "1961-10-21-WichitaState-NewMexicoState",
@@ -72521,7 +72576,8 @@
     "2019-10-19-VirginiaTech-NorthCarolina",
     "2023-09-09-Rice-Houston",
     "2023-10-07-SouthernCalifornia-Arizona",
-    "2024-11-23-Auburn-TexasA&M"
+    "2024-11-23-Auburn-TexasA&M",
+    "2026-09-05-Citadel-Charlotte"
   ],
   "43-42": [
     "2001-09-22-Wyoming-UtahState",
@@ -73156,7 +73212,8 @@
     "2001-09-08-Iowa-Miami(OH)",
     "2014-09-13-Washington-Illinois",
     "2017-11-18-BoiseState-AirForce",
-    "2023-09-30-Purdue-Illinois"
+    "2023-09-30-Purdue-Illinois",
+    "2026-09-04-Purdue-IndianaState"
   ],
   "44-20": [
     "1942-11-14-OhioState-Illinois",
@@ -73812,7 +73869,8 @@
     "2023-12-21-SouthFlorida-Syracuse",
     "2024-08-29-Illinois-EasternIllinois",
     "2024-09-07-TexasChristian-LongIsland",
-    "2024-11-09-OhioState-Purdue"
+    "2024-11-09-OhioState-Purdue",
+    "2026-09-05-PennState-Marshall"
   ],
   "45-2": [
     "1903-10-31-Drake-Simpson",
@@ -73951,7 +74009,8 @@
     "2019-11-16-Northwestern-Massachusetts",
     "2021-10-23-MississippiState-Vanderbilt",
     "2024-01-01-Oregon-Liberty",
-    "2025-09-06-Buffalo-StFrancisPA"
+    "2025-09-06-Buffalo-StFrancisPA",
+    "2026-09-04-MiamiFL-Stanford"
   ],
   "45-7": [
     "1913-11-15-Iowa-IowaState",
@@ -74319,7 +74378,8 @@
     "2024-08-29-WakeForest-NorthCarolinaA&T",
     "2025-10-18-CentralFlorida-WestVirginia",
     "2025-10-18-OregonState-Lafayette",
-    "2025-11-08-SouthernMethodist-BostonCollege"
+    "2025-11-08-SouthernMethodist-BostonCollege",
+    "2026-09-05-Kentucky-YoungstownState"
   ],
   "45-14": [
     "1922-09-30-California-SantaClara",
@@ -74506,7 +74566,8 @@
     "2020-11-28-Georgia-SouthCarolina",
     "2021-10-02-AppalachianState-GeorgiaState",
     "2021-10-23-Texas-SanAntonio-LouisianaTech",
-    "2022-09-10-SouthernMethodist-Lamar"
+    "2022-09-10-SouthernMethodist-Lamar",
+    "2026-09-05-TexasSanAntonio-UTRGV"
   ],
   "45-17": [
     "1966-10-15-NewMexicoState-WichitaState",
@@ -74938,7 +74999,8 @@
     "2025-09-20-GeorgiaTech-Temple",
     "2025-10-03-SanDiegoState-ColoradoState",
     "2025-11-29-Vanderbilt-Tennessee",
-    "2025-11-29-MiamiOH-BallState"
+    "2025-11-29-MiamiOH-BallState",
+    "2026-09-05-UCLA-California"
   ],
   "45-25": [
     "1986-11-22-UCLA-SouthernCalifornia",
@@ -76222,7 +76284,8 @@
     "2012-09-28-BrighamYoung-Hawaii",
     "2014-09-06-Houston-GramblingState",
     "2015-09-04-Syracuse-RhodeIsland",
-    "2015-09-12-Louisiana-Monroe-NichollsState"
+    "2015-09-12-Louisiana-Monroe-NichollsState",
+    "2026-09-03-KennesawState-WestGeorgia"
   ],
   "47-2": [
     "1916-10-07-ColoradoCollege-NewMexico",
@@ -77388,7 +77451,8 @@
     "2022-09-03-SouthernMethodist-NorthTexas",
     "2022-10-22-TexasTech-WestVirginia",
     "2023-11-11-Auburn-Arkansas",
-    "2025-11-15-OhioState-UCLA"
+    "2025-11-15-OhioState-UCLA",
+    "2026-09-05-Alabama-EastCarolina"
   ],
   "48-11": [
     "1903-11-14-Vermont-St.Lawrence",
@@ -78374,7 +78438,8 @@
     "2020-10-24-Army-Mercer",
     "2021-09-11-Clemson-SouthCarolinaState",
     "2022-09-03-Georgia-Oregon",
-    "2023-09-02-JacksonvilleState-EastTennesseeState"
+    "2023-09-02-JacksonvilleState-EastTennesseeState",
+    "2026-09-05-SouthernMississippi-AlcornState"
   ],
   "49-6": [
     "1931-11-07-Purdue-Centenary(LA)",
@@ -78531,7 +78596,8 @@
     "2023-09-09-Florida-McNeeseState",
     "2024-10-05-Army-Tulsa",
     "2024-10-12-NotreDame-Stanford",
-    "2024-11-30-ArizonaState-Arizona"
+    "2024-11-30-ArizonaState-Arizona",
+    "2026-09-05-JacksonvilleState-EasternKentucky"
   ],
   "49-8": [
     "1958-10-18-OhioState-Indiana",
@@ -78766,7 +78832,8 @@
     "2024-11-07-EastCarolina-FloridaAtlantic",
     "2024-11-23-NotreDame-Army",
     "2025-09-13-LouisianaTech-NewMexicoState",
-    "2025-10-18-Temple-Charlotte"
+    "2025-10-18-Temple-Charlotte",
+    "2026-09-05-Nevada-WesternKentucky"
   ],
   "49-15": [
     "1968-09-28-BostonCollege-Navy",
@@ -78984,7 +79051,8 @@
     "2024-11-30-Oregon-Washington",
     "2025-10-10-ColoradoState-FresnoState",
     "2025-10-25-SouthernMississippi-LouisianaMonroe",
-    "2025-11-22-BoiseState-ColoradoState"
+    "2025-11-22-BoiseState-ColoradoState",
+    "2026-09-05-Nebraska-Ohio"
   ],
   "49-22": [
     "1969-11-01-Purdue-Illinois",
@@ -79465,7 +79533,8 @@
     "2007-11-10-Utah-Wyoming",
     "2010-09-04-Tennessee-Tennessee-Martin",
     "2011-11-26-SouthernCalifornia-UCLA",
-    "2019-09-14-Missouri-SoutheastMissouriState"
+    "2019-09-14-Missouri-SoutheastMissouriState",
+    "2026-09-05-TexasAM-MissouriState"
   ],
   "50-2": [
     "1888-11-10-Harvard-Wesleyan(CT)"
@@ -79889,7 +79958,8 @@
     "2020-10-31-CoastalCarolina-GeorgiaState",
     "2021-09-04-BostonCollege-Colgate",
     "2024-08-29-Missouri-MurrayState",
-    "2025-08-30-NorthTexas-Lamar"
+    "2025-08-30-NorthTexas-Lamar",
+    "2026-09-04-Oklahoma-TexasElPaso"
   ],
   "51-2": [
     "1984-09-15-SanDiegoState-Texas-ElPaso"
@@ -79947,7 +80017,8 @@
     "2008-09-06-Baylor-NorthwesternState",
     "2010-09-11-Nevada-ColoradoState",
     "2010-09-18-BoiseState-Wyoming",
-    "2018-09-08-PennState-Pittsburgh"
+    "2018-09-08-PennState-Pittsburgh",
+    "2026-09-04-Kansas-LongIsland"
   ],
   "51-7": [
     "1923-11-10-Vanderbilt-Tennessee",
@@ -80033,7 +80104,8 @@
     "2020-11-07-Marshall-Massachusetts",
     "2023-11-11-TexasA&M-MississippiState",
     "2024-09-07-Tennessee-NorthCarolinaState",
-    "2025-10-04-Connecticut-FloridaInternational"
+    "2025-10-04-Connecticut-FloridaInternational",
+    "2026-09-05-LouisianaState-Clemson"
   ],
   "51-12": [
     "1891-11-14-Harvard-BostonA.C.",
@@ -80108,7 +80180,8 @@
     "2024-10-26-NotreDame-Navy",
     "2024-11-23-Clemson-Citadel",
     "2025-09-05-BoiseState-EasternWashington",
-    "2025-11-08-UtahState-Nevada"
+    "2025-11-08-UtahState-Nevada",
+    "2026-09-05-NewMexicoState-Mercyhurst"
   ],
   "51-15": [
     "1962-10-13-OhioState-Illinois",
@@ -80591,7 +80664,8 @@
     "2022-09-10-Tulane-AlcornState",
     "2024-08-29-Tulane-SoutheasternLouisiana",
     "2024-08-31-Texas-ColoradoState",
-    "2024-11-29-Colorado-OklahomaState"
+    "2024-11-29-Colorado-OklahomaState",
+    "2026-09-05-SacramentoState-MississippiValleyState"
   ],
   "52-2": [
     "1969-10-18-Florida-NorthCarolina"
@@ -80991,7 +81065,8 @@
     "2015-11-07-Oklahoma-IowaState",
     "2016-09-03-Navy-Fordham",
     "2016-11-12-BoiseState-Hawaii",
-    "2024-09-07-FloridaInternational-CentralMichigan"
+    "2024-09-07-FloridaInternational-CentralMichigan",
+    "2026-09-05-Indiana-NorthTexas"
   ],
   "52-17": [
     "1980-10-11-BrighamYoung-Wyoming",
@@ -81737,7 +81812,8 @@
     "1955-11-12-Hardin-Simmons-Cincinnati",
     "1968-11-23-Vanderbilt-Davidson",
     "1970-09-26-NorthCarolina-Maryland",
-    "1998-09-26-LouisianaState-Idaho"
+    "1998-09-26-LouisianaState-Idaho",
+    "2026-09-05-SanDiegoState-PortlandState"
   ],
   "53-21": [
     "1951-09-22-IowaState-WayneState",
@@ -82183,7 +82259,8 @@
     "1995-09-23-OhioState-Pittsburgh",
     "1996-11-16-FloridaState-SouthernMississippi",
     "2007-09-15-TexasA&M-Louisiana-Monroe",
-    "2018-09-08-KentState-Howard"
+    "2018-09-08-KentState-Howard",
+    "2026-09-03-Missouri-ArkansasPineBluff"
   ],
   "54-15": [
     "1997-12-06-Nebraska-TexasA&M",
@@ -82536,7 +82613,8 @@
     "2022-09-10-NorthCarolinaState-CharlestonSouthern",
     "2022-09-24-Alabama-Vanderbilt",
     "2023-10-17-SouthAlabama-SouthernMississippi",
-    "2023-11-04-Utah-ArizonaState"
+    "2023-11-04-Utah-ArizonaState",
+    "2026-09-05-AppalachianState-Maine"
   ],
   "55-6": [
     "1922-09-30-Cornell-St.Bonaventure",
@@ -83232,7 +83310,8 @@
     "2017-09-02-Clemson-KentState",
     "2023-09-02-NotreDame-TennesseeState",
     "2025-09-06-EastCarolina-Campbell",
-    "2025-11-28-Indiana-Purdue"
+    "2025-11-28-Indiana-Purdue",
+    "2026-09-05-OhioState-BallState"
   ],
   "56-5": [
     "2005-11-11-Louisville-Rutgers"
@@ -83335,7 +83414,8 @@
     "2024-08-31-MississippiState-EasternKentucky",
     "2024-09-14-Texas-Texas-SanAntonio",
     "2024-10-19-Indiana-Nebraska",
-    "2025-09-13-FresnoState-Southern"
+    "2025-09-13-FresnoState-Southern",
+    "2026-09-05-Connecticut-Lafayette"
   ],
   "56-8": [
     "1996-10-11-SanDiegoState-Hawaii",
@@ -83351,7 +83431,8 @@
     "2017-10-21-CentralMichigan-BallState",
     "2021-09-04-SouthernMethodist-AbileneChristian",
     "2024-09-07-Miami(FL)-FloridaA&M",
-    "2025-09-06-Indiana-KennesawState"
+    "2025-09-06-Indiana-KennesawState",
+    "2026-09-05-Tennessee-Furman"
   ],
   "56-10": [
     "1971-11-13-Oklahoma-Kansas",
@@ -83945,7 +84026,8 @@
     "1980-09-20-Nebraska-Iowa",
     "1993-09-11-FloridaState-Clemson",
     "1995-10-14-Nebraska-Missouri",
-    "2023-09-09-Army-DelawareState"
+    "2023-09-09-Army-DelawareState",
+    "2026-09-05-SouthCarolina-KentState"
   ],
   "57-2": [
     "1950-11-18-Clemson-Furman",
@@ -84630,7 +84712,8 @@
     "2021-11-13-Alabama-NewMexicoState",
     "2022-09-10-Mississippi-CentralArkansas",
     "2023-09-09-SanJoseState-CalPoly",
-    "2023-11-04-Tennessee-Connecticut"
+    "2023-11-04-Tennessee-Connecticut",
+    "2026-09-05-Army-Bryant"
   ],
   "59-6": [
     "1914-11-14-Washington&Jefferson-WestVirginiaWesleyan",
@@ -84695,7 +84778,9 @@
     "2023-11-04-NorthCarolina-Campbell",
     "2024-08-31-SouthernMethodist-HoustonBaptist",
     "2024-09-14-GeorgiaTech-VirginiaMilitaryInstitute",
-    "2025-09-13-Nebraska-HoustonBaptist"
+    "2025-09-13-Nebraska-HoustonBaptist",
+    "2026-09-03-Minnesota-EasternIllinois",
+    "2026-09-05-Texas-TexasState"
   ],
   "59-8": [
     "1982-10-09-FloridaState-SouthernIllinois"
@@ -84725,7 +84810,8 @@
     "2022-09-01-Tennessee-BallState",
     "2023-12-23-SouthAlabama-EasternMichigan",
     "2025-09-13-NorthTexas-WashingtonState",
-    "2025-11-29-JamesMadison-CoastalCarolina"
+    "2025-11-29-JamesMadison-CoastalCarolina",
+    "2026-09-04-GeorgiaState-NorthCarolinaAT"
   ],
   "59-11": [
     "1989-11-18-Colorado-KansasState"
@@ -84783,7 +84869,8 @@
     "2023-09-02-Auburn-Massachusetts",
     "2023-11-25-SouthernMethodist-Navy",
     "2024-09-28-Nevada-LasVegas-FresnoState",
-    "2024-11-02-Oklahoma-Maine"
+    "2024-11-02-Oklahoma-Maine",
+    "2026-09-05-Pittsburgh-MiamiOH"
   ],
   "59-15": [
     "1979-10-20-Chattanooga-MiddleTennesseeState"
@@ -85612,7 +85699,8 @@
     "2021-09-25-Georgia-Vanderbilt",
     "2023-10-21-LouisianaState-Army",
     "2024-08-31-Louisville-AustinPeay",
-    "2024-09-14-Miami(FL)-BallState"
+    "2024-09-14-Miami(FL)-BallState",
+    "2026-09-05-Maryland-Hampton"
   ],
   "62-2": [
     "1959-11-21-NorthTexas-Drake"
@@ -85714,7 +85802,8 @@
     "2010-09-18-Alabama-Duke",
     "2013-08-30-Houston-Southern",
     "2014-08-30-Oregon-SouthDakota",
-    "2015-09-19-MississippiState-NorthwesternState"
+    "2015-09-19-MississippiState-NorthwesternState",
+    "2026-09-05-MississippiState-LouisianaMonroe"
   ],
   "62-14": [
     "1949-10-29-MichiganState-Temple",
@@ -85980,7 +86069,8 @@
     "2018-10-06-Clemson-WakeForest",
     "2020-11-21-Alabama-Kentucky",
     "2023-12-30-Georgia-FloridaState",
-    "2025-09-13-Michigan-CentralMichigan"
+    "2025-09-13-Michigan-CentralMichigan",
+    "2026-09-05-Georgia-TennesseeState"
   ],
   "63-5": [
     "1889-10-09-Yale-Wesleyan(CT)",
@@ -86035,7 +86125,8 @@
     "2023-01-02-LouisianaState-Purdue",
     "2023-09-09-PennState-Delaware",
     "2024-09-28-JamesMadison-BallState",
-    "2025-08-30-Mississippi-GeorgiaState"
+    "2025-08-30-Mississippi-GeorgiaState",
+    "2026-09-05-BrighamYoung-UtahTech"
   ],
   "63-8": [
     "1969-10-04-LouisianaState-Baylor",
@@ -86760,7 +86851,8 @@
     "2017-09-30-Alabama-Mississippi",
     "2017-11-25-PennState-Maryland",
     "2018-09-01-Toledo-VirginiaMilitaryInstitute",
-    "2019-11-23-Alabama-WesternCarolina"
+    "2019-11-23-Alabama-WesternCarolina",
+    "2026-09-05-Syracuse-NewHampshire"
   ],
   "66-6": [
     "1890-11-15-Lehigh-Lafayette",
@@ -86842,7 +86934,8 @@
     "2020-10-02-WakeForest-Campbell",
     "2020-11-21-BrighamYoung-NorthAlabama",
     "2022-09-03-SouthernCalifornia-Rice",
-    "2023-09-02-SouthernCalifornia-Nevada"
+    "2023-09-02-SouthernCalifornia-Nevada",
+    "2026-09-03-Utah-Idaho"
   ],
   "66-15": [
     "1988-11-05-Houston-Texas"
@@ -86880,7 +86973,8 @@
     "2014-09-06-Louisville-MurrayState",
     "2016-09-10-Tulane-Southern",
     "2017-11-18-SouthernMississippi-Charlotte",
-    "2024-09-14-TexasTech-NorthTexas"
+    "2024-09-14-TexasTech-NorthTexas",
+    "2026-09-05-Florida-FloridaAtlantic"
   ],
   "66-22": [
     "1958-09-20-WestVirginia-Richmond",
@@ -87467,7 +87561,8 @@
     "2015-09-12-TexasChristian-StephenF.Austin",
     "2015-09-19-ArkansasState-MissouriState",
     "2020-12-11-ArizonaState-Arizona",
-    "2025-11-22-NotreDame-Syracuse"
+    "2025-11-22-NotreDame-Syracuse",
+    "2026-09-05-ArizonaState-MorganState"
   ],
   "70-8": [
     "1974-11-23-BostonCollege-Massachusetts"
@@ -87627,7 +87722,8 @@
   ],
   "71-3": [
     "2010-11-26-NorthernIllinois-EasternMichigan",
-    "2023-09-09-Toledo-TexasSouthern"
+    "2023-09-09-Toledo-TexasSouthern",
+    "2026-09-05-KansasState-NichollsState"
   ],
   "71-6": [
     "1913-10-12-GeorgiaTech-Chattanooga",
@@ -87797,10 +87893,12 @@
     "1989-09-02-Oklahoma-NewMexicoState",
     "1991-08-31-Houston-LouisianaTech",
     "2014-09-06-TexasA&M-Lamar",
-    "2024-08-31-Auburn-AlabamaA&M"
+    "2024-08-31-Auburn-AlabamaA&M",
+    "2026-09-05-VirginiaTech-VirginiaMilitaryInstitute"
   ],
   "73-6": [
-    "1927-11-12-Lafayette-Susquehanna"
+    "1927-11-12-Lafayette-Susquehanna",
+    "2026-09-03-CentralFlorida-BethuneCookman"
   ],
   "73-7": [
     "1973-10-13-SouthernIllinois-Xavier",
@@ -88268,6 +88366,9 @@
   "80-3": [
     "1917-11-17-Navy-Villanova",
     "1919-10-07-ColoradoCollege-CampLogan"
+  ],
+  "80-6": [
+    "2026-09-05-LouisianaTech-NorthwesternState"
   ],
   "80-7": [
     "1925-11-21-Washington-PugetSound",
