@@ -29,7 +29,7 @@ var output = document.getElementById("Year");
 output.innerHTML = slider.value;
 
 slider.oninput = function() {
-    output.innerHTML = "2025"
+    output.innerHTML = "2026"
     output.innerHTML = this.value;
 
     //1869 Scorigami

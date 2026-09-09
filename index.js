@@ -156,7 +156,7 @@ async function populatePopups() {
     if (cell) {
         const [year, month, day] = firstGame.date.split("-").map(Number);
         const firstDate = new Date(year, month - 1, day);
-        const cutoff = new Date(2025, 5, 1); // June 1, 2025 (month 5 = June)
+        const cutoff = new Date(2026, 5, 1); // June 1, 2025 (month 5 = June)
       
       cell.classList.remove("Blank", "PastScorigami", "Scorigami");
       if (firstDate >= cutoff) {
