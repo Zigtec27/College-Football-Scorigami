@@ -8014,12 +8014,18 @@ slider.oninput = function() {
     //2026 Scorigami
     if (output.innerHTML == "2026") {
         const _80_6_ = document.getElementById("80-6"); _80_6_.className = "Scorigami";
+        const _61_38_ = document.getElementById("61-38"); _61_38_.className = "Scorigami";
+        const _57_24_ = document.getElementById("57-24"); _57_24_.className = "Scorigami";
     }
     if (output.innerHTML > "2026") {
         const _80_6_ = document.getElementById("80-6"); _80_6_.className = "PastScorigami";
+        const _61_38_ = document.getElementById("61-38"); _61_38_.className = "PastScorigami";
+        const _57_24_ = document.getElementById("57-24"); _57_24_.className = "PastScorigami";
     }
     if (output.innerHTML < "2026") {
         const _80_6_ = document.getElementById("80-6"); _80_6_.className = "Blank";
+        const _61_38_ = document.getElementById("61-38"); _61_38_.className = "Blank";
+        const _57_24_ = document.getElementById("57-24"); _57_24_.className = "Blank";
     }
 
     //20XX Scorigami

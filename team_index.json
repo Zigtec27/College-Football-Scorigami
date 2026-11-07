@@ -1029,7 +1029,14 @@
       "2025-11-15-Connecticut-AirForce",
       "2025-11-22-NewMexico-AirForce",
       "2025-11-28-AirForce-ColoradoState",
-      "2026-09-05-AirForce-Duquesne"
+      "2026-09-05-AirForce-Duquesne",
+      "2026-09-12-NorthDakotaState-AirForce",
+      "2026-09-26-AirForce-Nevada",
+      "2026-10-03-AirForce-Navy",
+      "2026-10-10-AirForce-NorthernIllinois",
+      "2026-10-17-AirForce-NevadaLasVegas",
+      "2026-10-23-Wyoming-AirForce",
+      "2026-10-31-AirForce-Connecticut"
     ]
   },
   "b8b2467e-9c12-5a54-a101-7e1ba3633501": {
@@ -1544,7 +1551,14 @@
       "2025-11-04-Akron-Massachusetts",
       "2025-11-11-KentState-Akron",
       "2025-11-18-Akron-BowlingGreen",
-      "2026-09-03-WakeForest-Akron"
+      "2026-09-03-WakeForest-Akron",
+      "2026-09-12-Akron-RobertMorris",
+      "2026-09-19-Minnesota-Akron",
+      "2026-09-26-NevadaLasVegas-Akron",
+      "2026-10-03-CentralMichigan-Akron",
+      "2026-10-10-EasternMichigan-Akron",
+      "2026-10-17-MiamiOH-Akron",
+      "2026-10-24-KentState-Akron"
     ]
   },
   "feb71925-dfb6-582b-a396-ee3866d9307e": {
@@ -2910,7 +2924,14 @@
       "2025-12-06-Georgia-Alabama",
       "2025-12-19-Alabama-Oklahoma",
       "2026-01-01-Indiana-Alabama",
-      "2026-09-05-Alabama-EastCarolina"
+      "2026-09-05-Alabama-EastCarolina",
+      "2026-09-12-Alabama-Kentucky",
+      "2026-09-19-Alabama-FloridaState",
+      "2026-09-26-Alabama-SouthCarolina",
+      "2026-10-03-Alabama-MississippiState",
+      "2026-10-10-Georgia-Alabama",
+      "2026-10-17-Tennessee-Alabama",
+      "2026-10-24-Alabama-TexasAM"
     ]
   },
   "dfa8996e-4530-507e-af07-520e91924f55": {
@@ -2975,7 +2996,8 @@
       "2019-11-16-FloridaState-AlabamaState",
       "2021-09-11-Auburn-AlabamaState",
       "2022-09-10-UCLA-AlabamaState",
-      "2025-08-28-Alabama-Birmingham-AlabamaState"
+      "2025-08-28-Alabama-Birmingham-AlabamaState",
+      "2026-09-12-Troy-AlabamaState"
     ]
   },
   "fa7c9c13-67aa-5021-8b8c-28706872acd6": {
@@ -3317,7 +3339,14 @@
       "2025-11-15-NorthTexas-AlabamaBirmingham",
       "2025-11-22-SouthFlorida-AlabamaBirmingham",
       "2025-11-29-AlabamaBirmingham-Tulsa",
-      "2026-09-03-Illinois-AlabamaBirmingham"
+      "2026-09-03-Illinois-AlabamaBirmingham",
+      "2026-09-12-AlabamaBirmingham-LouisianaMonroe",
+      "2026-09-19-Louisiana-AlabamaBirmingham",
+      "2026-09-25-AlabamaBirmingham-Navy",
+      "2026-10-03-AlabamaBirmingham-Samford",
+      "2026-10-10-Memphis-AlabamaBirmingham",
+      "2026-10-15-AlabamaBirmingham-EastCarolina",
+      "2026-10-31-SouthFlorida-AlabamaBirmingham"
     ]
   },
   "418d1cf0-709d-57ad-89c9-9464b9ad09f7": {
@@ -4321,7 +4350,14 @@
       "2025-11-22-AppalachianState-Marshall",
       "2025-11-29-ArkansasState-AppalachianState",
       "2025-12-29-GeorgiaSouthern-AppalachianState",
-      "2026-09-05-AppalachianState-Maine"
+      "2026-09-05-AppalachianState-Maine",
+      "2026-09-12-AppalachianState-EastCarolina",
+      "2026-09-19-AppalachianState-Charlotte",
+      "2026-09-26-NorthCarolinaState-AppalachianState",
+      "2026-10-10-OldDominion-AppalachianState",
+      "2026-10-16-AppalachianState-CoastalCarolina",
+      "2026-10-22-AppalachianState-JamesMadison",
+      "2026-10-31-GeorgiaSouthern-AppalachianState"
     ]
   },
   "cc15a72a-542f-5cb7-8cbd-84700337a003": {
@@ -5354,7 +5390,14 @@
       "2025-11-22-Arizona-Baylor",
       "2025-11-28-Arizona-ArizonaState",
       "2026-01-02-SouthernMethodist-Arizona",
-      "2026-09-05-Arizona-NorthernArizona"
+      "2026-09-05-Arizona-NorthernArizona",
+      "2026-09-12-BrighamYoung-Arizona",
+      "2026-09-19-Arizona-NorthernIllinois",
+      "2026-09-26-Arizona-WashingtonState",
+      "2026-10-03-Arizona-Cincinnati",
+      "2026-10-10-Arizona-WestVirginia",
+      "2026-10-24-Arizona-IowaState",
+      "2026-10-31-TexasTech-Arizona"
     ]
   },
   "6df1531f-a2e2-53a4-851b-a5c8f67c9218": {
@@ -6384,7 +6427,14 @@
       "2025-11-22-ArizonaState-Colorado",
       "2025-11-28-Arizona-ArizonaState",
       "2025-12-31-Duke-ArizonaState",
-      "2026-09-05-ArizonaState-MorganState"
+      "2026-09-05-ArizonaState-MorganState",
+      "2026-09-12-TexasAM-ArizonaState",
+      "2026-09-19-ArizonaState-Kansas",
+      "2026-10-03-Baylor-ArizonaState",
+      "2026-10-10-ArizonaState-Hawaii",
+      "2026-10-17-TexasTech-ArizonaState",
+      "2026-10-24-ArizonaState-KansasState",
+      "2026-10-31-BrighamYoung-ArizonaState"
     ]
   },
   "6b95bdb9-9ebb-5216-82a2-72b0a0b55f38": {
@@ -7681,7 +7731,14 @@
       "2025-11-15-LouisianaState-Arkansas",
       "2025-11-22-Texas-Arkansas",
       "2025-11-29-Missouri-Arkansas",
-      "2026-09-05-Arkansas-NorthAlabama"
+      "2026-09-05-Arkansas-NorthAlabama",
+      "2026-09-12-Utah-Arkansas",
+      "2026-09-19-Georgia-Arkansas",
+      "2026-09-26-Arkansas-Tulsa",
+      "2026-10-03-TexasAM-Arkansas",
+      "2026-10-10-Tennessee-Arkansas",
+      "2026-10-17-Arkansas-Vanderbilt",
+      "2026-10-31-Missouri-Arkansas"
     ]
   },
   "63749ab5-f17e-532c-97f2-e592226563f4": {
@@ -8278,7 +8335,14 @@
       "2025-11-20-Louisiana-ArkansasState",
       "2025-11-29-ArkansasState-AppalachianState",
       "2025-12-18-ArkansasState-MissouriState",
-      "2026-09-05-Memphis-ArkansasState"
+      "2026-09-05-Memphis-ArkansasState",
+      "2026-09-12-ArkansasState-WestGeorgia",
+      "2026-09-19-TexasChristian-ArkansasState",
+      "2026-09-26-ArkansasState-KennesawState",
+      "2026-10-03-Louisiana-ArkansasState",
+      "2026-10-08-SouthAlabama-ArkansasState",
+      "2026-10-17-ArkansasState-SouthernMississippi",
+      "2026-10-24-ArkansasState-GeorgiaState"
     ]
   },
   "2426073f-dbe4-596a-b29f-c4df3ab9f979": {
@@ -9671,7 +9735,14 @@
       "2025-11-29-Army-TexasSanAntonio",
       "2025-12-13-Navy-Army",
       "2025-12-27-Army-Connecticut",
-      "2026-09-05-Army-Bryant"
+      "2026-09-05-Army-Bryant",
+      "2026-09-12-SouthFlorida-Army",
+      "2026-09-25-Army-Temple",
+      "2026-10-03-LouisianaTech-Army",
+      "2026-10-10-Army-Tulane",
+      "2026-10-17-Army-FloridaAtlantic",
+      "2026-10-23-Army-Tulsa",
+      "2026-10-31-Memphis-Army"
     ]
   },
   "2f1b0932-bc7b-5e78-8694-982995815423": {
@@ -11022,7 +11093,14 @@
       "2025-11-08-Vanderbilt-Auburn",
       "2025-11-22-Auburn-Mercer",
       "2025-11-29-Alabama-Auburn",
-      "2026-09-05-Auburn-Baylor"
+      "2026-09-05-Auburn-Baylor",
+      "2026-09-12-Auburn-SouthernMississippi",
+      "2026-09-19-Florida-Auburn",
+      "2026-09-26-Auburn-Vanderbilt",
+      "2026-10-03-Tennessee-Auburn",
+      "2026-10-17-Auburn-Georgia",
+      "2026-10-24-LouisianaState-Auburn",
+      "2026-10-31-Mississippi-Auburn"
     ]
   },
   "c6d1b7db-6c8d-558d-8a3e-e8c0da56334f": {
@@ -11826,7 +11904,14 @@
       "2025-11-15-EasternMichigan-BallState",
       "2025-11-22-Toledo-BallState",
       "2025-11-29-MiamiOH-BallState",
-      "2026-09-05-OhioState-BallState"
+      "2026-09-05-OhioState-BallState",
+      "2026-09-12-BallState-StonyBrook",
+      "2026-09-19-Liberty-BallState",
+      "2026-09-26-KentState-BallState",
+      "2026-10-03-Toledo-BallState",
+      "2026-10-10-Northwestern-BallState",
+      "2026-10-17-BallState-BowlingGreen",
+      "2026-10-24-BallState-SacramentoState"
     ]
   },
   "1c1115cf-285a-5b23-8580-f4fdcac914cb": {
@@ -13228,7 +13313,14 @@
       "2025-11-15-Utah-Baylor",
       "2025-11-22-Arizona-Baylor",
       "2025-11-29-Houston-Baylor",
-      "2026-09-05-Auburn-Baylor"
+      "2026-09-05-Auburn-Baylor",
+      "2026-09-12-Baylor-PrairieViewAM",
+      "2026-09-19-Baylor-LouisianaTech",
+      "2026-09-26-Baylor-Colorado",
+      "2026-10-03-Baylor-ArizonaState",
+      "2026-10-17-TexasChristian-Baylor",
+      "2026-10-24-Kansas-Baylor",
+      "2026-10-30-Baylor-CentralFlorida"
     ]
   },
   "3feddfda-ebbd-573f-b871-33c03fce9d50": {
@@ -14093,7 +14185,14 @@
       "2025-11-28-BoiseState-UtahState",
       "2025-12-05-BoiseState-NevadaLasVegas",
       "2025-12-13-Washington-BoiseState",
-      "2026-09-05-Oregon-BoiseState"
+      "2026-09-05-Oregon-BoiseState",
+      "2026-09-12-BoiseState-Memphis",
+      "2026-09-19-BoiseState-SouthDakota",
+      "2026-09-26-BoiseState-WesternMichigan",
+      "2026-10-03-BoiseState-UtahState",
+      "2026-10-10-BoiseState-FresnoState",
+      "2026-10-24-BoiseState-WashingtonState",
+      "2026-10-31-BoiseState-TexasState"
     ]
   },
   "3709e705-3385-5aeb-8fb0-9cb938e23a58": {
@@ -15173,7 +15272,14 @@
       "2025-11-08-SouthernMethodist-BostonCollege",
       "2025-11-15-GeorgiaTech-BostonCollege",
       "2025-11-29-BostonCollege-Syracuse",
-      "2026-09-05-Cincinnati-BostonCollege"
+      "2026-09-05-Cincinnati-BostonCollege",
+      "2026-09-11-BostonCollege-Rutgers",
+      "2026-09-19-BostonCollege-Maine",
+      "2026-09-26-VirginiaTech-BostonCollege",
+      "2026-10-03-SouthernMethodist-BostonCollege",
+      "2026-10-17-BostonCollege-Pittsburgh",
+      "2026-10-24-BostonCollege-GeorgiaTech",
+      "2026-10-31-Duke-BostonCollege"
     ]
   },
   "997002a2-bce2-546d-b430-36057835586c": {
@@ -16316,7 +16422,15 @@
       "2025-11-08-EasternMichigan-BowlingGreen",
       "2025-11-18-Akron-BowlingGreen",
       "2025-11-25-BowlingGreen-Massachusetts",
-      "2026-09-05-TarletonState-BowlingGreen"
+      "2026-09-05-TarletonState-BowlingGreen",
+      "2026-09-12-Nebraska-BowlingGreen",
+      "2026-09-19-IowaState-BowlingGreen",
+      "2026-09-26-SouthFlorida-BowlingGreen",
+      "2026-10-03-BowlingGreen-MiamiOH",
+      "2026-10-10-BowlingGreen-SacramentoState",
+      "2026-10-17-BallState-BowlingGreen",
+      "2026-10-24-Buffalo-BowlingGreen",
+      "2026-10-31-WesternMichigan-BowlingGreen"
     ]
   },
   "d3222b67-7d03-5614-aa15-62a0663adbba": {
@@ -17540,7 +17654,14 @@
       "2025-11-29-BrighamYoung-CentralFlorida",
       "2025-12-06-TexasTech-BrighamYoung",
       "2025-12-27-BrighamYoung-GeorgiaTech",
-      "2026-09-05-BrighamYoung-UtahTech"
+      "2026-09-05-BrighamYoung-UtahTech",
+      "2026-09-12-BrighamYoung-Arizona",
+      "2026-09-19-BrighamYoung-ColoradoState",
+      "2026-10-03-BrighamYoung-TexasChristian",
+      "2026-10-09-BrighamYoung-IowaState",
+      "2026-10-17-BrighamYoung-NotreDame",
+      "2026-10-24-CentralFlorida-BrighamYoung",
+      "2026-10-31-BrighamYoung-ArizonaState"
     ]
   },
   "ce04f51b-fdde-5f1e-a50b-62601ebe8fad": {
@@ -18993,7 +19114,8 @@
       "2022-09-17-CentralMichigan-Bucknell",
       "2023-09-02-JamesMadison-Bucknell",
       "2024-08-31-Navy-Bucknell",
-      "2025-08-30-AirForce-Bucknell"
+      "2025-08-30-AirForce-Bucknell",
+      "2026-09-26-Pittsburgh-Bucknell"
     ]
   },
   "e67d19ae-516d-53dc-9cdf-10f24abb6dcb": {
@@ -19452,7 +19574,14 @@
       "2025-11-12-CentralMichigan-Buffalo",
       "2025-11-19-MiamiOH-Buffalo",
       "2025-11-28-Ohio-Buffalo",
-      "2026-09-03-Buffalo-Albany"
+      "2026-09-03-Buffalo-Albany",
+      "2026-09-12-FloridaInternational-Buffalo",
+      "2026-09-19-PennState-Buffalo",
+      "2026-09-26-Buffalo-RobertMorris",
+      "2026-10-03-WesternMichigan-Buffalo",
+      "2026-10-10-Buffalo-Toledo",
+      "2026-10-17-Buffalo-Massachusetts",
+      "2026-10-24-Buffalo-BowlingGreen"
     ]
   },
   "86955a49-e7bb-53a3-b81c-8fd17e3bde0d": {
@@ -19632,7 +19761,8 @@
       "2022-09-01-FresnoState-CalPoly",
       "2023-09-09-SanJoseState-CalPoly",
       "2024-09-07-Stanford-CalPoly",
-      "2025-09-06-Utah-CalPoly"
+      "2025-09-06-Utah-CalPoly",
+      "2026-09-12-SanJoseState-CalPoly"
     ]
   },
   "9570098d-d1eb-54f0-a8b5-9fcfc42ed1eb": {
@@ -21164,7 +21294,15 @@
       "2025-11-22-Stanford-California",
       "2025-11-29-California-SouthernMethodist",
       "2025-12-24-Hawaii-California",
-      "2026-09-05-UCLA-California"
+      "2026-09-05-UCLA-California",
+      "2026-09-12-California-Syracuse",
+      "2026-09-19-California-Wagner",
+      "2026-09-25-Clemson-California",
+      "2026-10-03-NevadaLasVegas-California",
+      "2026-10-10-California-VirginiaTech",
+      "2026-10-17-WakeForest-California",
+      "2026-10-24-SouthernMethodist-California",
+      "2026-10-31-NorthCarolinaState-California"
     ]
   },
   "e824de83-264e-5a43-a6bd-96cd0aaaa963": {
@@ -21278,7 +21416,8 @@
       "2022-09-03-California-California-Davis",
       "2023-09-09-OregonState-California-Davis",
       "2024-08-31-California-California-Davis",
-      "2025-09-06-Washington-CaliforniaDavis"
+      "2025-09-06-Washington-CaliforniaDavis",
+      "2026-09-12-SouthernMethodist-CaliforniaDavis"
     ]
   },
   "94872da2-7548-5ff0-b8ca-b2dbc7eca212": {
@@ -21691,7 +21830,8 @@
       "2023-11-04-NorthCarolina-Campbell",
       "2024-08-31-Liberty-Campbell",
       "2025-09-06-EastCarolina-Campbell",
-      "2025-10-04-NorthCarolinaState-Campbell"
+      "2025-10-04-NorthCarolinaState-Campbell",
+      "2026-09-12-Florida-Campbell"
     ]
   },
   "d1be0ca3-6ba9-52d1-920e-db1315040825": {
@@ -22722,7 +22862,8 @@
       "2022-09-10-Mississippi-CentralArkansas",
       "2023-09-02-OklahomaState-CentralArkansas",
       "2024-08-31-ArkansasState-CentralArkansas",
-      "2025-08-28-Missouri-CentralArkansas"
+      "2025-08-28-Missouri-CentralArkansas",
+      "2026-09-26-FloridaState-CentralArkansas"
     ]
   },
   "222f739b-625a-5e33-a709-8ed02988cf0b": {
@@ -22737,7 +22878,8 @@
       "2023-09-16-KentState-CentralConnecticutState",
       "2024-08-29-CentralMichigan-CentralConnecticutState",
       "2024-09-21-Massachusetts-CentralConnecticutState",
-      "2025-08-30-Connecticut-CentralConnecticutState"
+      "2025-08-30-Connecticut-CentralConnecticutState",
+      "2026-09-12-Toledo-CentralConnecticutState"
     ]
   },
   "b91398ad-9fef-58c5-8afb-e2f3850ea63d": {
@@ -23128,7 +23270,14 @@
       "2025-11-15-TexasTech-CentralFlorida",
       "2025-11-22-CentralFlorida-OklahomaState",
       "2025-11-29-BrighamYoung-CentralFlorida",
-      "2026-09-03-CentralFlorida-BethuneCookman"
+      "2026-09-03-CentralFlorida-BethuneCookman",
+      "2026-09-12-Pittsburgh-CentralFlorida",
+      "2026-09-19-CentralFlorida-GeorgiaState",
+      "2026-09-26-CentralFlorida-TexasChristian",
+      "2026-10-03-Houston-CentralFlorida",
+      "2026-10-10-OklahomaState-CentralFlorida",
+      "2026-10-24-CentralFlorida-BrighamYoung",
+      "2026-10-30-Baylor-CentralFlorida"
     ]
   },
   "6698da6f-95fe-58a7-b799-f06e00abf3bf": {
@@ -23759,7 +23908,14 @@
       "2025-11-19-CentralMichigan-KentState",
       "2025-11-29-Toledo-CentralMichigan",
       "2025-12-26-Northwestern-CentralMichigan",
-      "2026-09-05-NewMexico-CentralMichigan"
+      "2026-09-05-NewMexico-CentralMichigan",
+      "2026-09-12-CentralMichigan-Colgate",
+      "2026-09-19-CentralMichigan-Wyoming",
+      "2026-09-26-MiamiFL-CentralMichigan",
+      "2026-10-03-CentralMichigan-Akron",
+      "2026-10-10-Ohio-CentralMichigan",
+      "2026-10-17-WesternMichigan-CentralMichigan",
+      "2026-10-24-MiamiOH-CentralMichigan"
     ]
   },
   "b2311cc0-3566-597f-94c5-ec5dacef779f": {
@@ -24098,7 +24254,8 @@
       "2024-11-23-FloridaState-CharlestonSouthern",
       "2025-08-30-Vanderbilt-CharlestonSouthern",
       "2025-09-06-CoastalCarolina-CharlestonSouthern",
-      "2026-09-05-GeorgiaSouthern-CharlestonSouthern"
+      "2026-09-05-GeorgiaSouthern-CharlestonSouthern",
+      "2026-10-17-Clemson-CharlestonSouthern"
     ]
   },
   "f5cae94e-5932-5633-b9fb-45f0ad4e1b82": {
@@ -24231,7 +24388,14 @@
       "2025-11-15-TexasSanAntonio-Charlotte",
       "2025-11-22-Georgia-Charlotte",
       "2025-11-29-Tulane-Charlotte",
-      "2026-09-05-Citadel-Charlotte"
+      "2026-09-05-Citadel-Charlotte",
+      "2026-09-12-Mississippi-Charlotte",
+      "2026-09-19-AppalachianState-Charlotte",
+      "2026-09-26-Louisiana-Charlotte",
+      "2026-10-03-Memphis-Charlotte",
+      "2026-10-10-NorthTexas-Charlotte",
+      "2026-10-17-Charlotte-Temple",
+      "2026-10-30-Tulane-Charlotte"
     ]
   },
   "bf76dce0-5a8e-527c-95d5-651221a9af64": {
@@ -26151,7 +26315,14 @@
       "2025-11-22-BrighamYoung-Cincinnati",
       "2025-11-29-TexasChristian-Cincinnati",
       "2026-01-02-Navy-Cincinnati",
-      "2026-09-05-Cincinnati-BostonCollege"
+      "2026-09-05-Cincinnati-BostonCollege",
+      "2026-09-12-Cincinnati-WesternCarolina",
+      "2026-09-19-Cincinnati-MiamiOH",
+      "2026-09-26-Cincinnati-KansasState",
+      "2026-10-03-Arizona-Cincinnati",
+      "2026-10-17-WestVirginia-Cincinnati",
+      "2026-10-24-Cincinnati-TexasTech",
+      "2026-10-31-Utah-Cincinnati"
     ]
   },
   "ba7a14b5-4ecb-557f-9997-73db325092b8": {
@@ -26845,7 +27016,8 @@
       "2023-09-02-GeorgiaSouthern-Citadel",
       "2024-11-23-Clemson-Citadel",
       "2025-11-08-Mississippi-Citadel",
-      "2026-09-05-Citadel-Charlotte"
+      "2026-09-05-Citadel-Charlotte",
+      "2026-10-17-TexasAM-Citadel"
     ]
   },
   "9f8df8b4-1ba1-5a9e-8b60-4d18a1120f88": {
@@ -28229,7 +28401,14 @@
       "2025-11-22-Clemson-Furman",
       "2025-11-29-Clemson-SouthCarolina",
       "2025-12-27-PennState-Clemson",
-      "2026-09-05-LouisianaState-Clemson"
+      "2026-09-05-LouisianaState-Clemson",
+      "2026-09-12-Clemson-GeorgiaSouthern",
+      "2026-09-19-Clemson-NorthCarolina",
+      "2026-09-25-Clemson-California",
+      "2026-10-03-MiamiFL-Clemson",
+      "2026-10-17-Clemson-CharlestonSouthern",
+      "2026-10-24-VirginiaTech-Clemson",
+      "2026-10-31-Clemson-FloridaState"
     ]
   },
   "1eaef916-c5e8-593b-8e72-4fb684302d3e": {
@@ -28407,7 +28586,14 @@
       "2025-11-22-SouthCarolina-CoastalCarolina",
       "2025-11-29-JamesMadison-CoastalCarolina",
       "2025-12-30-LouisianaTech-CoastalCarolina",
-      "2026-09-05-WestVirginia-CoastalCarolina"
+      "2026-09-05-WestVirginia-CoastalCarolina",
+      "2026-09-12-CoastalCarolina-Fordham",
+      "2026-09-19-Delaware-CoastalCarolina",
+      "2026-09-24-Liberty-CoastalCarolina",
+      "2026-10-03-GeorgiaSouthern-CoastalCarolina",
+      "2026-10-10-CoastalCarolina-Marshall",
+      "2026-10-16-AppalachianState-CoastalCarolina",
+      "2026-10-31-CoastalCarolina-GeorgiaState"
     ]
   },
   "c2317b7c-7423-50f0-95e5-9105351a80c0": {
@@ -29266,7 +29452,8 @@
       "2022-10-15-Army-Colgate",
       "2023-09-02-Syracuse-Colgate",
       "2024-09-14-Akron-Colgate",
-      "2025-09-12-Syracuse-Colgate"
+      "2025-09-12-Syracuse-Colgate",
+      "2026-09-12-CentralMichigan-Colgate"
     ]
   },
   "bcdde2a5-bb9a-57b3-873d-10202374c4b1": {
@@ -30525,7 +30712,14 @@
       "2025-11-08-WestVirginia-Colorado",
       "2025-11-22-ArizonaState-Colorado",
       "2025-11-29-KansasState-Colorado",
-      "2026-09-03-Colorado-GeorgiaTech"
+      "2026-09-03-Colorado-GeorgiaTech",
+      "2026-09-12-Colorado-WeberState",
+      "2026-09-19-Northwestern-Colorado",
+      "2026-09-26-Baylor-Colorado",
+      "2026-10-03-TexasTech-Colorado",
+      "2026-10-17-Utah-Colorado",
+      "2026-10-24-OklahomaState-Colorado",
+      "2026-10-31-Colorado-KansasState"
     ]
   },
   "e601aaed-1856-5d53-8d31-eb9d1e08b90f": {
@@ -32371,7 +32565,14 @@
       "2025-11-15-NewMexico-ColoradoState",
       "2025-11-22-BoiseState-ColoradoState",
       "2025-11-28-AirForce-ColoradoState",
-      "2026-09-05-ColoradoState-Wyoming"
+      "2026-09-05-ColoradoState-Wyoming",
+      "2026-09-12-ColoradoState-SouthernUtah",
+      "2026-09-19-BrighamYoung-ColoradoState",
+      "2026-09-26-TexasSanAntonio-ColoradoState",
+      "2026-10-03-OregonState-ColoradoState",
+      "2026-10-15-TexasState-ColoradoState",
+      "2026-10-24-ColoradoState-SanDiegoState",
+      "2026-10-31-UtahState-ColoradoState"
     ]
   },
   "28ba6e51-ce82-572d-98ee-b96f4cb6afe5": {
@@ -33577,7 +33778,14 @@
       "2025-11-15-Connecticut-AirForce",
       "2025-11-22-Connecticut-FloridaAtlantic",
       "2025-12-27-Army-Connecticut",
-      "2026-09-05-Connecticut-Lafayette"
+      "2026-09-05-Connecticut-Lafayette",
+      "2026-09-12-Maryland-Connecticut",
+      "2026-09-19-Connecticut-SouthernMississippi",
+      "2026-09-26-MiamiOH-Connecticut",
+      "2026-10-03-Syracuse-Connecticut",
+      "2026-10-10-Connecticut-Temple",
+      "2026-10-23-Connecticut-Massachusetts",
+      "2026-10-31-AirForce-Connecticut"
     ]
   },
   "78f6f4d3-1ca4-5424-aeed-4b7510c3ee39": {
@@ -36811,7 +37019,14 @@
       "2025-11-22-WakeForest-Delaware",
       "2025-11-29-Delaware-TexasElPaso",
       "2025-12-17-Delaware-Louisiana",
-      "2026-09-03-Delaware-Merrimack"
+      "2026-09-03-Delaware-Merrimack",
+      "2026-09-12-Vanderbilt-Delaware",
+      "2026-09-19-Delaware-CoastalCarolina",
+      "2026-09-26-Virginia-Delaware",
+      "2026-10-02-Liberty-Delaware",
+      "2026-10-13-MiddleTennesseeState-Delaware",
+      "2026-10-20-Delaware-MissouriState",
+      "2026-10-27-Delaware-WesternKentucky"
     ]
   },
   "ada9b870-f863-5b0d-b1e9-1da2940821e3": {
@@ -36832,7 +37047,8 @@
       "2023-09-09-Army-DelawareState",
       "2023-09-23-Miami(OH)-DelawareState",
       "2024-08-25-Hawaii-DelawareState",
-      "2025-08-28-Delaware-DelawareState"
+      "2025-08-28-Delaware-DelawareState",
+      "2026-09-19-SouthFlorida-DelawareState"
     ]
   },
   "f3f9f853-26a9-5fe3-a706-63c84a06c1c2": {
@@ -40069,7 +40285,14 @@
       "2025-11-29-Duke-WakeForest",
       "2025-12-06-Duke-Virginia",
       "2025-12-31-Duke-ArizonaState",
-      "2026-09-05-Duke-Tulane"
+      "2026-09-05-Duke-Tulane",
+      "2026-09-12-Duke-Illinois",
+      "2026-09-19-Duke-Stanford",
+      "2026-09-26-Duke-WilliamMary",
+      "2026-10-10-GeorgiaTech-Duke",
+      "2026-10-17-NorthCarolina-Duke",
+      "2026-10-23-Duke-Virginia",
+      "2026-10-31-Duke-BostonCollege"
     ]
   },
   "b5856a80-16ae-5c6e-a058-eadd4594d244": {
@@ -40231,7 +40454,8 @@
       "2024-09-07-BostonCollege-Duquesne",
       "2025-08-30-Pittsburgh-Duquesne",
       "2025-09-20-Akron-Duquesne",
-      "2026-09-05-AirForce-Duquesne"
+      "2026-09-05-AirForce-Duquesne",
+      "2026-09-19-WashingtonState-Duquesne"
     ]
   },
   "63b02d46-fc5f-53ba-9a6b-eb70574251b7": {
@@ -40982,7 +41206,14 @@
       "2025-11-22-TexasSanAntonio-EastCarolina",
       "2025-11-29-EastCarolina-FloridaAtlantic",
       "2025-12-27-EastCarolina-Pittsburgh",
-      "2026-09-05-Alabama-EastCarolina"
+      "2026-09-05-Alabama-EastCarolina",
+      "2026-09-12-AppalachianState-EastCarolina",
+      "2026-09-19-EastCarolina-OldDominion",
+      "2026-09-26-EastCarolina-NorthCarolinaCentral",
+      "2026-10-10-EastCarolina-Rice",
+      "2026-10-15-AlabamaBirmingham-EastCarolina",
+      "2026-10-22-Memphis-EastCarolina",
+      "2026-10-31-EastCarolina-Temple"
     ]
   },
   "b8101741-6be9-590d-9b5f-9bb9b7814ffc": {
@@ -41102,13 +41333,15 @@
       "2022-11-19-MississippiState-EastTennesseeState",
       "2023-09-02-JacksonvilleState-EastTennesseeState",
       "2024-08-31-AppalachianState-EastTennesseeState",
-      "2025-09-06-Tennessee-EastTennesseeState"
+      "2025-09-06-Tennessee-EastTennesseeState",
+      "2026-09-12-NorthCarolina-EastTennesseeState"
     ]
   },
   "50b3a09d-403f-5542-b1d3-3a453f286587": {
     "teamName": "East Texas A&M",
     "games": [
-      "2025-09-06-FloridaState-EastTexasAM"
+      "2025-09-06-FloridaState-EastTexasAM",
+      "2026-09-19-Tulsa-EastTexasAM"
     ]
   },
   "3d0292b6-8a6a-5baf-9e4d-4e9c1767c33c": {
@@ -41872,7 +42105,14 @@
       "2025-11-15-EasternMichigan-BallState",
       "2025-11-25-WesternMichigan-EasternMichigan",
       "2026-08-29-EasternMichigan-SacramentoState",
-      "2026-09-04-SanJoseState-EasternMichigan"
+      "2026-09-04-SanJoseState-EasternMichigan",
+      "2026-09-12-MichiganState-EasternMichigan",
+      "2026-09-19-Wisconsin-EasternMichigan",
+      "2026-09-26-EasternMichigan-Lindenwood",
+      "2026-10-03-EasternMichigan-Massachusetts",
+      "2026-10-10-EasternMichigan-Akron",
+      "2026-10-17-Toledo-EasternMichigan",
+      "2026-10-24-Ohio-EasternMichigan"
     ]
   },
   "c5c8592e-4903-52a7-8512-fc3fc3d9400f": {
@@ -41951,7 +42191,8 @@
       "2022-10-02-Florida-EasternWashington",
       "2023-09-09-FresnoState-EasternWashington",
       "2024-09-21-Nevada-EasternWashington",
-      "2025-09-05-BoiseState-EasternWashington"
+      "2025-09-05-BoiseState-EasternWashington",
+      "2026-09-19-Washington-EasternWashington"
     ]
   },
   "5bb4e5f5-f80f-519c-9281-e1fc623351e7": {
@@ -42088,7 +42329,8 @@
       "2022-09-03-Vanderbilt-Elon",
       "2023-08-31-WakeForest-Elon",
       "2024-08-30-Duke-Elon",
-      "2025-08-28-Duke-Elon"
+      "2025-08-28-Duke-Elon",
+      "2026-10-17-Stanford-Elon"
     ]
   },
   "80db7c71-da26-51ae-a264-dfc3d0c825a1": {
@@ -43749,7 +43991,14 @@
       "2025-11-15-Mississippi-Florida",
       "2025-11-22-Tennessee-Florida",
       "2025-11-29-Florida-FloridaState",
-      "2026-09-05-Florida-FloridaAtlantic"
+      "2026-09-05-Florida-FloridaAtlantic",
+      "2026-09-12-Florida-Campbell",
+      "2026-09-19-Florida-Auburn",
+      "2026-09-26-Florida-Mississippi",
+      "2026-10-03-Missouri-Florida",
+      "2026-10-10-SouthCarolina-Florida",
+      "2026-10-17-Florida-Texas",
+      "2026-10-31-Georgia-Florida"
     ]
   },
   "d7a6ff46-71e7-5dca-85f1-76b6807c16dd": {
@@ -43801,7 +44050,8 @@
       "2023-09-09-SouthFlorida-FloridaA&M",
       "2024-09-07-Miami(FL)-FloridaA&M",
       "2024-09-21-Troy-FloridaA&M",
-      "2025-09-06-FloridaAtlantic-FloridaAM"
+      "2025-09-06-FloridaAtlantic-FloridaAM",
+      "2026-09-10-MiamiFL-FloridaAM"
     ]
   },
   "837c8379-f813-51b7-8186-26a4c5634721": {
@@ -44078,7 +44328,14 @@
       "2025-11-15-Tulane-FloridaAtlantic",
       "2025-11-22-Connecticut-FloridaAtlantic",
       "2025-11-29-EastCarolina-FloridaAtlantic",
-      "2026-09-05-Florida-FloridaAtlantic"
+      "2026-09-05-Florida-FloridaAtlantic",
+      "2026-09-12-FloridaAtlantic-Navy",
+      "2026-09-19-FloridaAtlantic-FloridaInternational",
+      "2026-09-26-FloridaAtlantic-LouisianaMonroe",
+      "2026-10-03-FloridaAtlantic-TexasSouthern",
+      "2026-10-17-Army-FloridaAtlantic",
+      "2026-10-24-FloridaAtlantic-Rice",
+      "2026-10-29-NorthTexas-FloridaAtlantic"
     ]
   },
   "e70a4d17-7927-5197-b34c-b7b86e923bf8": {
@@ -44346,7 +44603,14 @@
       "2025-11-22-FloridaInternational-JacksonvilleState",
       "2025-11-29-FloridaInternational-SamHouston",
       "2025-12-26-TexasSanAntonio-FloridaInternational",
-      "2026-09-05-SouthFlorida-FloridaInternational"
+      "2026-09-05-SouthFlorida-FloridaInternational",
+      "2026-09-12-FloridaInternational-Buffalo",
+      "2026-09-19-FloridaAtlantic-FloridaInternational",
+      "2026-09-26-FloridaInternational-LongIsland",
+      "2026-10-07-FloridaInternational-NewMexicoState",
+      "2026-10-13-JacksonvilleState-FloridaInternational",
+      "2026-10-20-MiddleTennesseeState-FloridaInternational",
+      "2026-10-31-Liberty-FloridaInternational"
     ]
   },
   "141cac49-34ab-5d52-8bc0-f9318f00f147": {
@@ -45241,7 +45505,13 @@
       "2025-11-21-NorthCarolinaState-FloridaState",
       "2025-11-29-Florida-FloridaState",
       "2026-08-29-FloridaState-NewMexicoState",
-      "2026-09-07-SouthernMethodist-FloridaState"
+      "2026-09-07-SouthernMethodist-FloridaState",
+      "2026-09-19-Alabama-FloridaState",
+      "2026-09-26-FloridaState-CentralArkansas",
+      "2026-10-03-FloridaState-Virginia",
+      "2026-10-09-Louisville-FloridaState",
+      "2026-10-17-MiamiFL-FloridaState",
+      "2026-10-31-Clemson-FloridaState"
     ]
   },
   "a8b1e928-7620-5dd4-82f9-91d30b489f50": {
@@ -45513,7 +45783,8 @@
       "2023-09-09-Fordham-Buffalo",
       "2024-08-29-BowlingGreen-Fordham",
       "2025-08-30-BostonCollege-Fordham",
-      "2026-09-05-NorthDakotaState-Fordham"
+      "2026-09-05-NorthDakotaState-Fordham",
+      "2026-09-12-CoastalCarolina-Fordham"
     ]
   },
   "b36685b0-b41c-5081-92c4-9aa9227ab738": {
@@ -46724,7 +46995,14 @@
       "2025-11-22-UtahState-FresnoState",
       "2025-11-29-FresnoState-SanJoseState",
       "2025-12-27-FresnoState-MiamiOH",
-      "2026-09-04-SouthernCalifornia-FresnoState"
+      "2026-09-04-SouthernCalifornia-FresnoState",
+      "2026-09-12-FresnoState-SacramentoState",
+      "2026-09-19-FresnoState-SanJoseState",
+      "2026-09-26-FresnoState-Rice",
+      "2026-10-03-FresnoState-WashingtonState",
+      "2026-10-10-BoiseState-FresnoState",
+      "2026-10-17-SanDiegoState-FresnoState",
+      "2026-10-31-FresnoState-OregonState"
     ]
   },
   "d9bf262f-6b0d-59d0-97df-1de9dce8066d": {
@@ -47492,7 +47770,9 @@
       "2024-09-07-JamesMadison-Gardner-Webb",
       "2024-09-14-Charlotte-Gardner-Webb",
       "2025-09-06-GeorgiaTech-GardnerWebb",
-      "2025-09-20-Ohio-GardnerWebb"
+      "2025-09-20-Ohio-GardnerWebb",
+      "2026-09-12-Liberty-GardnerWebb",
+      "2026-09-26-Marshall-GardnerWebb"
     ]
   },
   "f0035eab-9f99-52c0-8579-9ab6cfb71b9d": {
@@ -49585,7 +49865,14 @@
       "2025-11-28-Georgia-GeorgiaTech",
       "2025-12-06-Georgia-Alabama",
       "2026-01-01-Mississippi-Georgia",
-      "2026-09-05-Georgia-TennesseeState"
+      "2026-09-05-Georgia-TennesseeState",
+      "2026-09-12-Georgia-WesternKentucky",
+      "2026-09-19-Georgia-Arkansas",
+      "2026-09-26-Georgia-Oklahoma",
+      "2026-10-03-Georgia-Vanderbilt",
+      "2026-10-10-Georgia-Alabama",
+      "2026-10-17-Auburn-Georgia",
+      "2026-10-31-Georgia-Florida"
     ]
   },
   "aaa7032d-33f4-5f73-9138-1996cdce72b4": {
@@ -49803,7 +50090,14 @@
       "2025-11-22-OldDominion-GeorgiaSouthern",
       "2025-11-29-GeorgiaSouthern-Marshall",
       "2025-12-29-GeorgiaSouthern-AppalachianState",
-      "2026-09-05-GeorgiaSouthern-CharlestonSouthern"
+      "2026-09-05-GeorgiaSouthern-CharlestonSouthern",
+      "2026-09-12-Clemson-GeorgiaSouthern",
+      "2026-09-19-JacksonvilleState-GeorgiaSouthern",
+      "2026-09-26-Houston-GeorgiaSouthern",
+      "2026-10-03-GeorgiaSouthern-CoastalCarolina",
+      "2026-10-10-JamesMadison-GeorgiaSouthern",
+      "2026-10-15-GeorgiaSouthern-OldDominion",
+      "2026-10-31-GeorgiaSouthern-AppalachianState"
     ]
   },
   "02701818-0df7-568c-962a-2c2496b8ed53": {
@@ -49971,7 +50265,14 @@
       "2025-11-15-Marshall-GeorgiaState",
       "2025-11-22-Troy-GeorgiaState",
       "2025-11-29-OldDominion-GeorgiaState",
-      "2026-09-04-GeorgiaState-NorthCarolinaAT"
+      "2026-09-04-GeorgiaState-NorthCarolinaAT",
+      "2026-09-12-GeorgiaState-KennesawState",
+      "2026-09-19-CentralFlorida-GeorgiaState",
+      "2026-09-26-GeorgiaState-NorthernIllinois",
+      "2026-10-03-GeorgiaState-OldDominion",
+      "2026-10-17-JamesMadison-GeorgiaState",
+      "2026-10-24-ArkansasState-GeorgiaState",
+      "2026-10-31-CoastalCarolina-GeorgiaState"
     ]
   },
   "3ce7b0e8-9d5a-58ae-9275-ef56c705b11d": {
@@ -51312,7 +51613,14 @@
       "2025-11-22-Pittsburgh-GeorgiaTech",
       "2025-11-28-Georgia-GeorgiaTech",
       "2025-12-27-BrighamYoung-GeorgiaTech",
-      "2026-09-03-Colorado-GeorgiaTech"
+      "2026-09-03-Colorado-GeorgiaTech",
+      "2026-09-12-Tennessee-GeorgiaTech",
+      "2026-09-19-GeorgiaTech-Mercer",
+      "2026-09-26-Stanford-GeorgiaTech",
+      "2026-10-10-GeorgiaTech-Duke",
+      "2026-10-17-VirginiaTech-GeorgiaTech",
+      "2026-10-24-BostonCollege-GeorgiaTech",
+      "2026-10-31-Pittsburgh-GeorgiaTech"
     ]
   },
   "819fef82-1b15-505e-a5dd-56f86b65d2fc": {
@@ -51698,7 +52006,8 @@
       "2022-09-03-ArkansasState-GramblingState",
       "2023-09-09-LouisianaState-GramblingState",
       "2024-08-31-Louisiana-GramblingState",
-      "2025-09-06-OhioState-GramblingState"
+      "2025-09-06-OhioState-GramblingState",
+      "2026-09-12-TexasChristian-GramblingState"
     ]
   },
   "593074ec-1c00-59bb-9df0-d1a8a141ff54": {
@@ -54722,7 +55031,13 @@
       "2025-11-29-Hawaii-Wyoming",
       "2025-12-24-Hawaii-California",
       "2026-08-29-Stanford-Hawaii",
-      "2026-09-05-NevadaLasVegas-Hawaii"
+      "2026-09-05-NevadaLasVegas-Hawaii",
+      "2026-09-13-Hawaii-NewMexicoState",
+      "2026-09-26-Wyoming-Hawaii",
+      "2026-10-04-SanJoseState-Hawaii",
+      "2026-10-10-ArizonaState-Hawaii",
+      "2026-10-17-NewMexico-Hawaii",
+      "2026-10-24-Hawaii-NorthernIllinois"
     ]
   },
   "7ccac4c4-6c63-5ff8-bae4-c9bb28cb9433": {
@@ -55568,7 +55883,8 @@
       "2023-09-09-BostonCollege-HolyCross",
       "2023-11-11-Army-HolyCross",
       "2024-09-28-Syracuse-HolyCross",
-      "2025-08-30-NorthernIllinois-HolyCross"
+      "2025-08-30-NorthernIllinois-HolyCross",
+      "2026-09-12-MiamiOH-HolyCross"
     ]
   },
   "f065160a-0692-5b62-8b0f-53c33abc26eb": {
@@ -56482,7 +56798,14 @@
       "2025-11-22-TexasChristian-Houston",
       "2025-11-29-Houston-Baylor",
       "2025-12-27-Houston-LouisianaState",
-      "2026-09-05-Houston-OregonState"
+      "2026-09-05-Houston-OregonState",
+      "2026-09-12-Houston-Southern",
+      "2026-09-18-TexasTech-Houston",
+      "2026-09-26-Houston-GeorgiaSouthern",
+      "2026-10-03-Houston-CentralFlorida",
+      "2026-10-10-Houston-KansasState",
+      "2026-10-17-Houston-OklahomaState",
+      "2026-10-24-Utah-Houston"
     ]
   },
   "a42461d9-8eb5-5237-9562-0fcd260e315d": {
@@ -56502,7 +56825,8 @@
       "2024-08-31-SouthernMethodist-HoustonBaptist",
       "2024-09-21-Texas-SanAntonio-HoustonBaptist",
       "2025-09-13-Nebraska-HoustonBaptist",
-      "2026-09-05-Rice-HoustonBaptist"
+      "2026-09-05-Rice-HoustonBaptist",
+      "2026-09-26-NorthTexas-HoustonBaptist"
     ]
   },
   "6c3b27f8-fb4f-5d9c-92b2-079a8374fb4c": {
@@ -56539,7 +56863,9 @@
       "2023-09-01-EasternMichigan-Howard",
       "2023-10-07-Northwestern-Howard",
       "2024-08-29-Rutgers-Howard",
-      "2025-09-06-Temple-Howard"
+      "2025-09-06-Temple-Howard",
+      "2026-09-12-Indiana-Howard",
+      "2026-09-25-Rutgers-Howard"
     ]
   },
   "b627ad05-e242-5eaf-b51f-582c58e2805a": {
@@ -58906,7 +59232,14 @@
       "2025-11-22-Wisconsin-Illinois",
       "2025-11-29-Illinois-Northwestern",
       "2025-12-30-Illinois-Tennessee",
-      "2026-09-03-Illinois-AlabamaBirmingham"
+      "2026-09-03-Illinois-AlabamaBirmingham",
+      "2026-09-12-Duke-Illinois",
+      "2026-09-19-Illinois-SouthernIllinois",
+      "2026-09-26-OhioState-Illinois",
+      "2026-10-03-Purdue-Illinois",
+      "2026-10-10-Illinois-MichiganState",
+      "2026-10-24-Illinois-Oregon",
+      "2026-10-31-Illinois-Maryland"
     ]
   },
   "bd98f54f-b33e-5eb3-928f-81375189c1f8": {
@@ -59115,7 +59448,8 @@
       "2021-09-11-WesternMichigan-IllinoisState",
       "2022-09-03-Wisconsin-IllinoisState",
       "2024-08-31-Iowa-IllinoisState",
-      "2025-08-30-Oklahoma-IllinoisState"
+      "2025-08-30-Oklahoma-IllinoisState",
+      "2026-09-12-IllinoisState-NorthernIllinois"
     ]
   },
   "5f3b3ba2-3d51-5a1c-90d3-54c32c716cea": {
@@ -59157,7 +59491,8 @@
       "2021-09-18-IncarnateWord-TexasState",
       "2022-09-10-IncarnateWord-Nevada",
       "2023-09-02-Texas-ElPaso-IncarnateWord",
-      "2025-09-13-TexasSanAntonio-IncarnateWord"
+      "2025-09-13-TexasSanAntonio-IncarnateWord",
+      "2026-09-26-TexasState-IncarnateWord"
     ]
   },
   "826a7670-aa2e-52cb-a85b-de1feaae4136": {
@@ -60412,7 +60747,15 @@
       "2026-01-01-Indiana-Alabama",
       "2026-01-09-Indiana-Oregon",
       "2026-01-19-Indiana-MiamiFL",
-      "2026-09-05-Indiana-NorthTexas"
+      "2026-09-05-Indiana-NorthTexas",
+      "2026-09-12-Indiana-Howard",
+      "2026-09-19-Indiana-WesternKentucky",
+      "2026-09-25-Indiana-Northwestern",
+      "2026-10-03-Indiana-Rutgers",
+      "2026-10-10-Indiana-Nebraska",
+      "2026-10-17-OhioState-Indiana",
+      "2026-10-24-Indiana-Michigan",
+      "2026-10-31-Indiana-Minnesota"
     ]
   },
   "36cc02d6-bcd1-5616-87ba-61f656846a30": {
@@ -61942,7 +62285,14 @@
       "2025-11-22-Iowa-MichiganState",
       "2025-11-28-Iowa-Nebraska",
       "2025-12-31-Iowa-Vanderbilt",
-      "2026-09-05-Iowa-NorthernIllinois"
+      "2026-09-05-Iowa-NorthernIllinois",
+      "2026-09-12-Iowa-IowaState",
+      "2026-09-19-Iowa-NorthernIowa",
+      "2026-09-26-Iowa-Michigan",
+      "2026-10-03-OhioState-Iowa",
+      "2026-10-09-Iowa-Washington",
+      "2026-10-24-Minnesota-Iowa",
+      "2026-10-31-Iowa-Wisconsin"
     ]
   },
   "27179cc1-98ae-5d17-8862-5bfbf65d84ac": {
@@ -63274,7 +63624,14 @@
       "2025-11-08-IowaState-TexasChristian",
       "2025-11-22-IowaState-Kansas",
       "2025-11-29-IowaState-OklahomaState",
-      "2026-09-05-IowaState-SoutheastMissouriState"
+      "2026-09-05-IowaState-SoutheastMissouriState",
+      "2026-09-12-Iowa-IowaState",
+      "2026-09-19-IowaState-BowlingGreen",
+      "2026-09-26-Utah-IowaState",
+      "2026-10-03-IowaState-WestVirginia",
+      "2026-10-09-BrighamYoung-IowaState",
+      "2026-10-24-Arizona-IowaState",
+      "2026-10-31-IowaState-OklahomaState"
     ]
   },
   "50157bb1-e697-5df5-955e-bd1dea513088": {
@@ -63444,7 +63801,13 @@
       "2025-12-05-KennesawState-JacksonvilleState",
       "2025-12-16-JacksonvilleState-Troy",
       "2026-08-29-NorthDakotaState-JacksonvilleState",
-      "2026-09-05-JacksonvilleState-EasternKentucky"
+      "2026-09-05-JacksonvilleState-EasternKentucky",
+      "2026-09-12-Ohio-JacksonvilleState",
+      "2026-09-19-JacksonvilleState-GeorgiaSouthern",
+      "2026-09-26-JacksonvilleState-MiddleTennesseeState",
+      "2026-10-07-JacksonvilleState-KennesawState",
+      "2026-10-13-JacksonvilleState-FloridaInternational",
+      "2026-10-28-JacksonvilleState-NewMexicoState"
     ]
   },
   "73771db2-db4f-5c67-92f9-fe4d93497c93": {
@@ -63543,7 +63906,15 @@
       "2025-11-29-JamesMadison-CoastalCarolina",
       "2025-12-05-JamesMadison-Troy",
       "2025-12-20-Oregon-JamesMadison",
-      "2026-09-05-JamesMadison-Liberty"
+      "2026-09-05-JamesMadison-Liberty",
+      "2026-09-12-JamesMadison-Wagner",
+      "2026-09-19-JamesMadison-SanDiegoState",
+      "2026-09-26-JamesMadison-OldDominion",
+      "2026-10-03-JamesMadison-Marshall",
+      "2026-10-10-JamesMadison-GeorgiaSouthern",
+      "2026-10-17-JamesMadison-GeorgiaState",
+      "2026-10-22-AppalachianState-JamesMadison",
+      "2026-10-29-Troy-JamesMadison"
     ]
   },
   "e825672d-3f7f-5c7d-b68a-a539052bc13a": {
@@ -65007,7 +65378,14 @@
       "2025-11-08-Arizona-Kansas",
       "2025-11-22-IowaState-Kansas",
       "2025-11-28-Utah-Kansas",
-      "2026-09-04-Kansas-LongIsland"
+      "2026-09-04-Kansas-LongIsland",
+      "2026-09-11-Missouri-Kansas",
+      "2026-09-19-ArizonaState-Kansas",
+      "2026-10-03-Kansas-MiddleTennesseeState",
+      "2026-10-10-Utah-Kansas",
+      "2026-10-17-KansasState-Kansas",
+      "2026-10-24-Kansas-Baylor",
+      "2026-10-31-TexasChristian-Kansas"
     ]
   },
   "e632a77b-659a-53cb-8970-3addbb1faaf8": {
@@ -66249,7 +66627,14 @@
       "2025-11-15-KansasState-OklahomaState",
       "2025-11-22-Utah-KansasState",
       "2025-11-29-KansasState-Colorado",
-      "2026-09-05-KansasState-NichollsState"
+      "2026-09-05-KansasState-NichollsState",
+      "2026-09-12-KansasState-WashingtonState",
+      "2026-09-19-KansasState-Tulane",
+      "2026-09-26-Cincinnati-KansasState",
+      "2026-10-10-Houston-KansasState",
+      "2026-10-17-KansasState-Kansas",
+      "2026-10-24-ArizonaState-KansasState",
+      "2026-10-31-Colorado-KansasState"
     ]
   },
   "110fd53e-d65b-57a3-b285-1ba636238698": {
@@ -66330,7 +66715,14 @@
       "2025-11-29-KennesawState-Liberty",
       "2025-12-05-KennesawState-JacksonvilleState",
       "2025-12-19-WesternMichigan-KennesawState",
-      "2026-09-03-KennesawState-WestGeorgia"
+      "2026-09-03-KennesawState-WestGeorgia",
+      "2026-09-12-GeorgiaState-KennesawState",
+      "2026-09-19-Tennessee-KennesawState",
+      "2026-09-26-ArkansasState-KennesawState",
+      "2026-10-07-JacksonvilleState-KennesawState",
+      "2026-10-14-MissouriState-KennesawState",
+      "2026-10-22-Liberty-KennesawState",
+      "2026-10-28-KennesawState-MiddleTennesseeState"
     ]
   },
   "314cc305-1eca-59c1-ac12-10e94ba34017": {
@@ -67052,7 +67444,15 @@
       "2025-11-11-KentState-Akron",
       "2025-11-19-CentralMichigan-KentState",
       "2025-11-28-KentState-NorthernIllinois",
-      "2026-09-05-SouthCarolina-KentState"
+      "2026-09-05-SouthCarolina-KentState",
+      "2026-09-12-KentState-Wofford",
+      "2026-09-19-OhioState-KentState",
+      "2026-09-26-KentState-BallState",
+      "2026-10-03-Ohio-KentState",
+      "2026-10-10-WesternMichigan-KentState",
+      "2026-10-17-SouthFlorida-KentState",
+      "2026-10-24-KentState-Akron",
+      "2026-10-30-SacramentoState-KentState"
     ]
   },
   "76c307d5-3c7e-5a11-8b31-0987879bad79": {
@@ -68257,7 +68657,14 @@
       "2025-11-15-Kentucky-TennesseeTech",
       "2025-11-22-Vanderbilt-Kentucky",
       "2025-11-29-Louisville-Kentucky",
-      "2026-09-05-Kentucky-YoungstownState"
+      "2026-09-05-Kentucky-YoungstownState",
+      "2026-09-12-Alabama-Kentucky",
+      "2026-09-19-Kentucky-TexasAM",
+      "2026-09-26-Kentucky-SouthAlabama",
+      "2026-10-03-Kentucky-SouthCarolina",
+      "2026-10-10-Kentucky-LouisianaState",
+      "2026-10-17-Kentucky-Oklahoma",
+      "2026-10-24-Kentucky-Vanderbilt"
     ]
   },
   "e00164ae-5cba-5bfe-b623-bdc6d8b2cd63": {
@@ -70304,7 +70711,14 @@
       "2025-11-15-FloridaInternational-Liberty",
       "2025-11-22-LouisianaTech-Liberty",
       "2025-11-29-KennesawState-Liberty",
-      "2026-09-05-JamesMadison-Liberty"
+      "2026-09-05-JamesMadison-Liberty",
+      "2026-09-12-Liberty-GardnerWebb",
+      "2026-09-19-Liberty-BallState",
+      "2026-09-24-Liberty-CoastalCarolina",
+      "2026-10-02-Liberty-Delaware",
+      "2026-10-08-Liberty-SamHouston",
+      "2026-10-22-Liberty-KennesawState",
+      "2026-10-31-Liberty-FloridaInternational"
     ]
   },
   "ae2a7fd6-d9a7-5908-a70a-be8e198c1b54": {
@@ -70351,7 +70765,9 @@
     "games": [
       "2024-08-29-Kansas-Lindenwood",
       "2025-09-06-AppalachianState-Lindenwood",
-      "2025-09-27-MiamiOH-Lindenwood"
+      "2025-09-27-MiamiOH-Lindenwood",
+      "2026-09-12-MissouriState-Lindenwood",
+      "2026-09-26-EasternMichigan-Lindenwood"
     ]
   },
   "9aa90c99-468a-5ae3-baf5-cab3f97293c5": {
@@ -70695,7 +71111,8 @@
       "2024-09-07-TexasChristian-LongIsland",
       "2025-08-30-Florida-LongIsland",
       "2025-09-06-LongIsland-EasternMichigan",
-      "2026-09-04-Kansas-LongIsland"
+      "2026-09-04-Kansas-LongIsland",
+      "2026-09-26-FloridaInternational-LongIsland"
     ]
   },
   "a34d1724-888f-5a29-bb74-c4d51f1546df": {
@@ -71395,7 +71812,14 @@
       "2025-11-20-Louisiana-ArkansasState",
       "2025-11-29-Louisiana-LouisianaMonroe",
       "2025-12-17-Delaware-Louisiana",
-      "2026-09-05-Louisiana-Lamar"
+      "2026-09-05-Louisiana-Lamar",
+      "2026-09-12-SouthernCalifornia-Louisiana",
+      "2026-09-19-Louisiana-AlabamaBirmingham",
+      "2026-09-26-Louisiana-Charlotte",
+      "2026-10-03-Louisiana-ArkansasState",
+      "2026-10-10-LouisianaTech-Louisiana",
+      "2026-10-17-Louisiana-Troy",
+      "2026-10-24-SouthernMississippi-Louisiana"
     ]
   },
   "a0365215-b05b-5a2a-aca0-2e26458b140a": {
@@ -72738,7 +73162,14 @@
       "2025-11-22-LouisianaState-WesternKentucky",
       "2025-11-29-Oklahoma-LouisianaState",
       "2025-12-27-Houston-LouisianaState",
-      "2026-09-05-LouisianaState-Clemson"
+      "2026-09-05-LouisianaState-Clemson",
+      "2026-09-12-LouisianaState-LouisianaTech",
+      "2026-09-19-Mississippi-LouisianaState",
+      "2026-09-26-LouisianaState-TexasAM",
+      "2026-10-03-LouisianaState-McNeeseState",
+      "2026-10-10-Kentucky-LouisianaState",
+      "2026-10-17-LouisianaState-MississippiState",
+      "2026-10-24-LouisianaState-Auburn"
     ]
   },
   "f8d80b35-54b3-583f-a5bf-c6b560788068": {
@@ -73383,7 +73814,14 @@
       "2025-11-22-LouisianaTech-Liberty",
       "2025-11-29-LouisianaTech-MissouriState",
       "2025-12-30-LouisianaTech-CoastalCarolina",
-      "2026-09-05-LouisianaTech-NorthwesternState"
+      "2026-09-05-LouisianaTech-NorthwesternState",
+      "2026-09-12-LouisianaState-LouisianaTech",
+      "2026-09-19-Baylor-LouisianaTech",
+      "2026-10-03-LouisianaTech-Army",
+      "2026-10-10-LouisianaTech-Louisiana",
+      "2026-10-17-LouisianaTech-LouisianaMonroe",
+      "2026-10-24-LouisianaTech-OldDominion",
+      "2026-10-31-LouisianaTech-SouthAlabama"
     ]
   },
   "0c13363e-6261-51dd-8f88-6ea26e532168": {
@@ -73874,7 +74312,14 @@
       "2025-11-15-SouthAlabama-LouisianaMonroe",
       "2025-11-22-TexasState-LouisianaMonroe",
       "2025-11-29-Louisiana-LouisianaMonroe",
-      "2026-09-05-MississippiState-LouisianaMonroe"
+      "2026-09-05-MississippiState-LouisianaMonroe",
+      "2026-09-12-AlabamaBirmingham-LouisianaMonroe",
+      "2026-09-19-SoutheasternLouisiana-LouisianaMonroe",
+      "2026-09-26-FloridaAtlantic-LouisianaMonroe",
+      "2026-10-03-SouthAlabama-LouisianaMonroe",
+      "2026-10-17-LouisianaTech-LouisianaMonroe",
+      "2026-10-24-LouisianaMonroe-Troy",
+      "2026-10-31-SouthernMississippi-LouisianaMonroe"
     ]
   },
   "3140e359-d07b-5a03-9f6f-4e34ace12691": {
@@ -74658,7 +75103,14 @@
       "2025-11-22-SouthernMethodist-Louisville",
       "2025-11-29-Louisville-Kentucky",
       "2025-12-23-Louisville-Toledo",
-      "2026-09-06-Mississippi-Louisville"
+      "2026-09-06-Mississippi-Louisville",
+      "2026-09-11-Louisville-Villanova",
+      "2026-09-19-Louisville-SouthernMethodist",
+      "2026-09-26-WakeForest-Louisville",
+      "2026-10-03-NorthCarolinaState-Louisville",
+      "2026-10-09-Louisville-FloridaState",
+      "2026-10-17-Louisville-Syracuse",
+      "2026-10-31-Louisville-Stanford"
     ]
   },
   "299a15d8-ef8f-5445-9fc2-d08394da1f69": {
@@ -75105,7 +75557,8 @@
       "2024-11-02-Oklahoma-Maine",
       "2025-08-30-Liberty-Maine",
       "2025-09-20-GeorgiaSouthern-Maine",
-      "2026-09-05-AppalachianState-Maine"
+      "2026-09-05-AppalachianState-Maine",
+      "2026-09-19-BostonCollege-Maine"
     ]
   },
   "d978220e-3efe-57d8-a87c-5a1bdce3920d": {
@@ -76345,7 +76798,14 @@
       "2025-11-15-Marshall-GeorgiaState",
       "2025-11-22-AppalachianState-Marshall",
       "2025-11-29-GeorgiaSouthern-Marshall",
-      "2026-09-05-PennState-Marshall"
+      "2026-09-05-PennState-Marshall",
+      "2026-09-12-Marshall-MiddleTennesseeState",
+      "2026-09-19-Marshall-MissouriState",
+      "2026-09-26-Marshall-GardnerWebb",
+      "2026-10-03-JamesMadison-Marshall",
+      "2026-10-10-CoastalCarolina-Marshall",
+      "2026-10-20-Marshall-SouthAlabama",
+      "2026-10-31-Marshall-OldDominion"
     ]
   },
   "8f664749-e805-5620-aae5-29e65e6bd382": {
@@ -77548,7 +78008,14 @@
       "2025-11-15-Illinois-Maryland",
       "2025-11-22-Michigan-Maryland",
       "2025-11-29-MichiganState-Maryland",
-      "2026-09-05-Maryland-Hampton"
+      "2026-09-05-Maryland-Hampton",
+      "2026-09-12-Maryland-Connecticut",
+      "2026-09-19-VirginiaTech-Maryland",
+      "2026-09-26-UCLA-Maryland",
+      "2026-10-03-Nebraska-Maryland",
+      "2026-10-10-OhioState-Maryland",
+      "2026-10-17-Rutgers-Maryland",
+      "2026-10-31-Illinois-Maryland"
     ]
   },
   "903e29bc-d51f-57f2-8507-7fda1049a8de": {
@@ -78064,7 +78531,14 @@
       "2025-11-12-NorthernIllinois-Massachusetts",
       "2025-11-18-Ohio-Massachusetts",
       "2025-11-25-BowlingGreen-Massachusetts",
-      "2026-09-03-Massachusetts-Rutgers"
+      "2026-09-03-Massachusetts-Rutgers",
+      "2026-09-12-Massachusetts-SacredHeart",
+      "2026-09-19-Massachusetts-Stonehill",
+      "2026-09-26-Massachusetts-SacramentoState",
+      "2026-10-03-EasternMichigan-Massachusetts",
+      "2026-10-10-MiamiOH-Massachusetts",
+      "2026-10-17-Buffalo-Massachusetts",
+      "2026-10-23-Connecticut-Massachusetts"
     ]
   },
   "6ac06b73-0c82-5006-94b2-bf937ea6850d": {
@@ -78299,7 +78773,8 @@
       "2023-09-09-Florida-McNeeseState",
       "2024-09-07-TexasA&M-McNeeseState",
       "2025-09-06-Louisiana-McNeeseState",
-      "2025-09-20-UtahState-McNeeseState"
+      "2025-09-20-UtahState-McNeeseState",
+      "2026-10-03-LouisianaState-McNeeseState"
     ]
   },
   "d530e505-fbd1-51a6-bd52-e4ea9485f134": {
@@ -79121,7 +79596,14 @@
       "2025-11-27-Navy-Memphis",
       "2025-12-19-NorthCarolinaState-Memphis",
       "2026-08-29-Memphis-NevadaLasVegas",
-      "2026-09-05-Memphis-ArkansasState"
+      "2026-09-05-Memphis-ArkansasState",
+      "2026-09-12-BoiseState-Memphis",
+      "2026-09-19-Memphis-TennesseeMartin",
+      "2026-10-03-Memphis-Charlotte",
+      "2026-10-10-Memphis-AlabamaBirmingham",
+      "2026-10-16-Tulane-Memphis",
+      "2026-10-22-Memphis-EastCarolina",
+      "2026-10-31-Memphis-Army"
     ]
   },
   "375847b2-6111-553b-a7ae-2b23c1d53769": {
@@ -79339,7 +79821,8 @@
       "2022-09-03-Auburn-Mercer",
       "2023-09-02-Mississippi-Mercer",
       "2024-11-16-Alabama-Mercer",
-      "2025-11-22-Auburn-Mercer"
+      "2025-11-22-Auburn-Mercer",
+      "2026-09-19-GeorgiaTech-Mercer"
     ]
   },
   "00402cef-af5b-5039-8c6c-216ad8684bf5": {
@@ -79397,7 +79880,9 @@
   "32c0e0d8-62f2-526b-ad60-87cb3ff66f93": {
     "teamName": "Mercyhurst",
     "games": [
-      "2026-09-05-NewMexicoState-Mercyhurst"
+      "2026-09-05-NewMexicoState-Mercyhurst",
+      "2026-09-12-NewMexico-Mercyhurst",
+      "2026-09-26-WesternKentucky-Mercyhurst"
     ]
   },
   "7297c2b6-3dfe-50f2-a322-9b5b7529d9e6": {
@@ -80443,7 +80928,14 @@
       "2025-12-31-MiamiFL-OhioState",
       "2026-01-08-MiamiFL-Mississippi",
       "2026-01-19-Indiana-MiamiFL",
-      "2026-09-04-MiamiFL-Stanford"
+      "2026-09-04-MiamiFL-Stanford",
+      "2026-09-10-MiamiFL-FloridaAM",
+      "2026-09-18-MiamiFL-WakeForest",
+      "2026-09-26-MiamiFL-CentralMichigan",
+      "2026-10-03-MiamiFL-Clemson",
+      "2026-10-17-MiamiFL-FloridaState",
+      "2026-10-24-MiamiFL-Pittsburgh",
+      "2026-10-31-MiamiFL-NorthCarolina"
     ]
   },
   "a3c295d1-2573-50ec-9285-e4bf35c4bc23": {
@@ -81238,7 +81730,14 @@
       "2025-11-29-MiamiOH-BallState",
       "2025-12-06-WesternMichigan-MiamiOH",
       "2025-12-27-FresnoState-MiamiOH",
-      "2026-09-05-Pittsburgh-MiamiOH"
+      "2026-09-05-Pittsburgh-MiamiOH",
+      "2026-09-12-MiamiOH-HolyCross",
+      "2026-09-19-Cincinnati-MiamiOH",
+      "2026-09-26-MiamiOH-Connecticut",
+      "2026-10-03-BowlingGreen-MiamiOH",
+      "2026-10-10-MiamiOH-Massachusetts",
+      "2026-10-17-MiamiOH-Akron",
+      "2026-10-24-MiamiOH-CentralMichigan"
     ]
   },
   "22bb6b5e-9abd-5331-ba5d-3ef70d5c67b4": {
@@ -82632,7 +83131,14 @@
       "2025-11-22-Michigan-Maryland",
       "2025-11-29-OhioState-Michigan",
       "2025-12-31-Texas-Michigan",
-      "2026-09-05-Michigan-WesternMichigan"
+      "2026-09-05-Michigan-WesternMichigan",
+      "2026-09-12-Michigan-Oklahoma",
+      "2026-09-19-Michigan-TexasElPaso",
+      "2026-09-26-Iowa-Michigan",
+      "2026-10-03-Minnesota-Michigan",
+      "2026-10-17-Michigan-PennState",
+      "2026-10-24-Indiana-Michigan",
+      "2026-10-31-Michigan-Rutgers"
     ]
   },
   "4122a50c-1c1e-587f-8e2f-c649bb0e1504": {
@@ -83759,7 +84265,14 @@
       "2025-11-15-PennState-MichiganState",
       "2025-11-22-Iowa-MichiganState",
       "2025-11-29-MichiganState-Maryland",
-      "2026-09-04-MichiganState-Toledo"
+      "2026-09-04-MichiganState-Toledo",
+      "2026-09-12-MichiganState-EasternMichigan",
+      "2026-09-19-NotreDame-MichiganState",
+      "2026-09-26-Nebraska-MichiganState",
+      "2026-10-03-Wisconsin-MichiganState",
+      "2026-10-10-Illinois-MichiganState",
+      "2026-10-17-Northwestern-MichiganState",
+      "2026-10-24-UCLA-MichiganState"
     ]
   },
   "39f2a195-f0fd-5e38-a349-9d3425ae8316": {
@@ -84138,7 +84651,14 @@
       "2025-11-15-WesternKentucky-MiddleTennesseeState",
       "2025-11-22-MiddleTennesseeState-SamHouston",
       "2025-11-29-MiddleTennesseeState-NewMexicoState",
-      "2026-09-05-MiddleTennesseeState-MurrayState"
+      "2026-09-05-MiddleTennesseeState-MurrayState",
+      "2026-09-12-Marshall-MiddleTennesseeState",
+      "2026-09-19-MiddleTennesseeState-Nevada",
+      "2026-09-26-JacksonvilleState-MiddleTennesseeState",
+      "2026-10-03-Kansas-MiddleTennesseeState",
+      "2026-10-13-MiddleTennesseeState-Delaware",
+      "2026-10-20-MiddleTennesseeState-FloridaInternational",
+      "2026-10-28-KennesawState-MiddleTennesseeState"
     ]
   },
   "c54c8d7b-1c2d-55d2-893f-addfaf9da85f": {
@@ -85624,7 +86144,14 @@
       "2025-11-22-Northwestern-Minnesota",
       "2025-11-29-Minnesota-Wisconsin",
       "2025-12-26-Minnesota-NewMexico",
-      "2026-09-03-Minnesota-EasternIllinois"
+      "2026-09-03-Minnesota-EasternIllinois",
+      "2026-09-12-MississippiState-Minnesota",
+      "2026-09-19-Minnesota-Akron",
+      "2026-09-26-Minnesota-Washington",
+      "2026-10-03-Minnesota-Michigan",
+      "2026-10-10-Purdue-Minnesota",
+      "2026-10-24-Minnesota-Iowa",
+      "2026-10-31-Indiana-Minnesota"
     ]
   },
   "18750fd0-e7c5-5d1a-912f-7acd2b70555b": {
@@ -86921,7 +87448,14 @@
       "2025-12-20-Mississippi-Tulane",
       "2026-01-01-Mississippi-Georgia",
       "2026-01-08-MiamiFL-Mississippi",
-      "2026-09-06-Mississippi-Louisville"
+      "2026-09-06-Mississippi-Louisville",
+      "2026-09-12-Mississippi-Charlotte",
+      "2026-09-19-Mississippi-LouisianaState",
+      "2026-09-26-Florida-Mississippi",
+      "2026-10-10-Mississippi-Vanderbilt",
+      "2026-10-17-Mississippi-Missouri",
+      "2026-10-24-Texas-Mississippi",
+      "2026-10-31-Mississippi-Auburn"
     ]
   },
   "a0ef6f77-e986-5b3c-ab39-0461542bf649": {
@@ -88300,7 +88834,14 @@
       "2025-11-15-Missouri-MississippiState",
       "2025-11-28-Mississippi-MississippiState",
       "2026-01-02-WakeForest-MississippiState",
-      "2026-09-05-MississippiState-LouisianaMonroe"
+      "2026-09-05-MississippiState-LouisianaMonroe",
+      "2026-09-12-MississippiState-Minnesota",
+      "2026-09-19-MississippiState-SouthCarolina",
+      "2026-09-26-MississippiState-Missouri",
+      "2026-10-03-Alabama-MississippiState",
+      "2026-10-17-LouisianaState-MississippiState",
+      "2026-10-24-Oklahoma-MississippiState",
+      "2026-10-31-Texas-MississippiState"
     ]
   },
   "eaa6e7b8-4e02-557e-9a1b-d66a7bb37e5d": {
@@ -89629,7 +90170,14 @@
       "2025-11-22-Oklahoma-Missouri",
       "2025-11-29-Missouri-Arkansas",
       "2025-12-27-Virginia-Missouri",
-      "2026-09-03-Missouri-ArkansasPineBluff"
+      "2026-09-03-Missouri-ArkansasPineBluff",
+      "2026-09-11-Missouri-Kansas",
+      "2026-09-19-Missouri-Troy",
+      "2026-09-26-MississippiState-Missouri",
+      "2026-10-03-Missouri-Florida",
+      "2026-10-10-Missouri-TexasAM",
+      "2026-10-17-Mississippi-Missouri",
+      "2026-10-31-Missouri-Arkansas"
     ]
   },
   "16de4e00-cb14-5753-acc7-a1093b47543b": {
@@ -89712,7 +90260,14 @@
       "2025-11-22-KennesawState-MissouriState",
       "2025-11-29-LouisianaTech-MissouriState",
       "2025-12-18-ArkansasState-MissouriState",
-      "2026-09-05-TexasAM-MissouriState"
+      "2026-09-05-TexasAM-MissouriState",
+      "2026-09-12-MissouriState-Lindenwood",
+      "2026-09-19-Marshall-MissouriState",
+      "2026-09-26-SouthernMethodist-MissouriState",
+      "2026-10-08-WesternKentucky-MissouriState",
+      "2026-10-14-MissouriState-KennesawState",
+      "2026-10-20-Delaware-MissouriState",
+      "2026-10-27-MissouriState-SamHouston"
     ]
   },
   "883b9c4a-b7e5-5d0e-9414-927119297488": {
@@ -89969,7 +90524,8 @@
       "2021-09-04-MiddleTennesseeState-Monmouth",
       "2023-09-02-FloridaAtlantic-Monmouth",
       "2024-09-21-Monmouth-FloridaInternational",
-      "2025-09-13-Charlotte-Monmouth"
+      "2025-09-13-Charlotte-Monmouth",
+      "2026-09-12-WesternMichigan-Monmouth"
     ]
   },
   "dc34ef94-4573-59d4-915f-90d236bacd4c": {
@@ -90393,7 +90949,8 @@
       "2014-08-30-Wyoming-Montana",
       "2017-09-09-Washington-Montana",
       "2019-09-14-Oregon-Montana",
-      "2021-09-04-Montana-Washington"
+      "2021-09-04-Montana-Washington",
+      "2026-09-19-OregonState-Montana"
     ]
   },
   "7d0ea6b6-3aba-5fed-91ab-101e17fa71cc": {
@@ -90670,7 +91227,8 @@
       "2021-09-04-Wyoming-MontanaState",
       "2022-09-17-OregonState-MontanaState",
       "2024-08-24-MontanaState-NewMexico",
-      "2025-08-30-Oregon-MontanaState"
+      "2025-08-30-Oregon-MontanaState",
+      "2026-09-12-MontanaState-Nevada"
     ]
   },
   "36a5b3f0-defc-597a-b3e9-0d5e6a9f0888": {
@@ -91129,7 +91687,8 @@
       "2024-11-16-Kentucky-MurrayState",
       "2025-09-13-GeorgiaState-MurrayState",
       "2025-09-20-JacksonvilleState-MurrayState",
-      "2026-09-05-MiddleTennesseeState-MurrayState"
+      "2026-09-05-MiddleTennesseeState-MurrayState",
+      "2026-09-19-OklahomaState-MurrayState"
     ]
   },
   "290b2ceb-82e7-59a2-a880-5438b24becb9": {
@@ -92539,7 +93098,14 @@
       "2025-11-27-Navy-Memphis",
       "2025-12-13-Navy-Army",
       "2026-01-02-Navy-Cincinnati",
-      "2026-09-05-Navy-Towson"
+      "2026-09-05-Navy-Towson",
+      "2026-09-12-FloridaAtlantic-Navy",
+      "2026-09-25-AlabamaBirmingham-Navy",
+      "2026-10-03-AirForce-Navy",
+      "2026-10-10-Navy-Tulsa",
+      "2026-10-17-TexasSanAntonio-Navy",
+      "2026-10-24-NorthTexas-Navy",
+      "2026-10-31-NotreDame-Navy"
     ]
   },
   "13d0167e-4020-5682-8ab6-fa69cfb5f0ba": {
@@ -93912,7 +94478,14 @@
       "2025-11-22-PennState-Nebraska",
       "2025-11-28-Iowa-Nebraska",
       "2025-12-31-Utah-Nebraska",
-      "2026-09-05-Nebraska-Ohio"
+      "2026-09-05-Nebraska-Ohio",
+      "2026-09-12-Nebraska-BowlingGreen",
+      "2026-09-19-Nebraska-NorthDakota",
+      "2026-09-26-Nebraska-MichiganState",
+      "2026-10-03-Nebraska-Maryland",
+      "2026-10-10-Indiana-Nebraska",
+      "2026-10-17-Oregon-Nebraska",
+      "2026-10-31-Washington-Nebraska"
     ]
   },
   "c4dfeb68-6ad4-51e0-a33b-11b9d9e01884": {
@@ -94523,7 +95096,14 @@
       "2025-11-15-Nevada-SanJoseState",
       "2025-11-22-Nevada-Wyoming",
       "2025-11-29-NevadaLasVegas-Nevada",
-      "2026-09-05-Nevada-WesternKentucky"
+      "2026-09-05-Nevada-WesternKentucky",
+      "2026-09-12-MontanaState-Nevada",
+      "2026-09-19-MiddleTennesseeState-Nevada",
+      "2026-09-26-AirForce-Nevada",
+      "2026-10-10-Nevada-TexasElPaso",
+      "2026-10-17-NorthDakotaState-Nevada",
+      "2026-10-24-Nevada-SanJoseState",
+      "2026-10-31-UCLA-Nevada"
     ]
   },
   "917089d9-93a6-5613-b8d3-f3aba538edd3": {
@@ -95101,7 +95681,13 @@
       "2025-12-05-BoiseState-NevadaLasVegas",
       "2025-12-23-Ohio-NevadaLasVegas",
       "2026-08-29-Memphis-NevadaLasVegas",
-      "2026-09-05-NevadaLasVegas-Hawaii"
+      "2026-09-05-NevadaLasVegas-Hawaii",
+      "2026-09-12-NorthTexas-NevadaLasVegas",
+      "2026-09-26-NevadaLasVegas-Akron",
+      "2026-10-03-NevadaLasVegas-California",
+      "2026-10-10-NevadaLasVegas-NorthDakotaState",
+      "2026-10-17-AirForce-NevadaLasVegas",
+      "2026-10-31-NevadaLasVegas-NorthernIllinois"
     ]
   },
   "687cbcf9-10ed-5531-94d6-98c26adc22bd": {
@@ -96281,7 +96867,14 @@
       "2025-11-22-NewMexico-AirForce",
       "2025-11-28-NewMexico-SanDiegoState",
       "2025-12-26-Minnesota-NewMexico",
-      "2026-09-05-NewMexico-CentralMichigan"
+      "2026-09-05-NewMexico-CentralMichigan",
+      "2026-09-12-NewMexico-Mercyhurst",
+      "2026-09-19-Oklahoma-NewMexico",
+      "2026-09-26-NewMexico-NewMexicoState",
+      "2026-10-03-NewMexico-TexasElPaso",
+      "2026-10-17-NewMexico-Hawaii",
+      "2026-10-24-NewMexico-NorthDakotaState",
+      "2026-10-31-NewMexico-SanJoseState"
     ]
   },
   "d22e8f12-8b6e-5a2b-9edf-8108b3747db0": {
@@ -97323,7 +97916,13 @@
       "2025-11-22-NewMexicoState-TexasElPaso",
       "2025-11-29-MiddleTennesseeState-NewMexicoState",
       "2026-08-29-FloridaState-NewMexicoState",
-      "2026-09-05-NewMexicoState-Mercyhurst"
+      "2026-09-05-NewMexicoState-Mercyhurst",
+      "2026-09-13-Hawaii-NewMexicoState",
+      "2026-09-26-NewMexico-NewMexicoState",
+      "2026-10-01-NewMexicoState-WesternKentucky",
+      "2026-10-07-FloridaInternational-NewMexicoState",
+      "2026-10-21-NewMexicoState-SamHouston",
+      "2026-10-28-JacksonvilleState-NewMexicoState"
     ]
   },
   "bb58c24a-f99c-5464-be93-03c5bda4a83f": {
@@ -97981,7 +98580,8 @@
       "2024-09-07-LouisianaState-NichollsState",
       "2025-08-30-Troy-NichollsState",
       "2025-09-20-TexasState-NichollsState",
-      "2026-09-05-KansasState-NichollsState"
+      "2026-09-05-KansasState-NichollsState",
+      "2026-09-19-SamHouston-NichollsState"
     ]
   },
   "d19b039a-10df-539c-876a-2c2e97ace475": {
@@ -98056,7 +98656,8 @@
       "2023-09-16-Temple-NorfolkState",
       "2024-08-31-EastCarolina-NorfolkState",
       "2025-09-13-Rutgers-NorfolkState",
-      "2026-09-05-OldDominion-NorfolkState"
+      "2026-09-05-OldDominion-NorfolkState",
+      "2026-09-11-Virginia-NorfolkState"
     ]
   },
   "086c64a5-9b8d-56e2-b3ae-3d8a2324ffe3": {
@@ -99412,7 +100013,14 @@
       "2025-11-15-WakeForest-NorthCarolina",
       "2025-11-22-Duke-NorthCarolina",
       "2025-11-29-NorthCarolinaState-NorthCarolina",
-      "2026-08-29-NorthCarolina-TexasChristian"
+      "2026-08-29-NorthCarolina-TexasChristian",
+      "2026-09-12-NorthCarolina-EastTennesseeState",
+      "2026-09-19-Clemson-NorthCarolina",
+      "2026-10-03-NotreDame-NorthCarolina",
+      "2026-10-10-NorthCarolina-Pittsburgh",
+      "2026-10-17-NorthCarolina-Duke",
+      "2026-10-24-Syracuse-NorthCarolina",
+      "2026-10-31-MiamiFL-NorthCarolina"
     ]
   },
   "ef634a13-83e1-5410-973c-5f73967b0810": {
@@ -99453,7 +100061,8 @@
       "2021-09-11-Marshall-NorthCarolinaCentral",
       "2023-09-16-UCLA-NorthCarolinaCentral",
       "2024-09-14-NorthCarolina-NorthCarolinaCentral",
-      "2025-09-06-OldDominion-NorthCarolinaCentral"
+      "2025-09-06-OldDominion-NorthCarolinaCentral",
+      "2026-09-26-EastCarolina-NorthCarolinaCentral"
     ]
   },
   "51586f41-d8ec-5f02-8f9f-08cacb60be52": {
@@ -100769,7 +101378,14 @@
       "2025-11-21-NorthCarolinaState-FloridaState",
       "2025-11-29-NorthCarolinaState-NorthCarolina",
       "2025-12-19-NorthCarolinaState-Memphis",
-      "2026-08-29-Virginia-NorthCarolinaState"
+      "2026-08-29-Virginia-NorthCarolinaState",
+      "2026-09-11-NorthCarolinaState-Richmond",
+      "2026-09-19-Vanderbilt-NorthCarolinaState",
+      "2026-09-26-NorthCarolinaState-AppalachianState",
+      "2026-10-03-NorthCarolinaState-Louisville",
+      "2026-10-10-WakeForest-NorthCarolinaState",
+      "2026-10-23-Stanford-NorthCarolinaState",
+      "2026-10-31-NorthCarolinaState-California"
     ]
   },
   "c30b12e5-4279-5529-a03f-77865af126de": {
@@ -100857,7 +101473,8 @@
       "2022-09-03-Nebraska-NorthDakota",
       "2023-09-16-BoiseState-NorthDakota",
       "2024-08-31-IowaState-NorthDakota",
-      "2025-08-30-KansasState-NorthDakota"
+      "2025-08-30-KansasState-NorthDakota",
+      "2026-09-19-Nebraska-NorthDakota"
     ]
   },
   "54c1e368-b38d-5fd7-84e0-652fce56a3bf": {
@@ -100916,7 +101533,14 @@
       "2022-09-17-Arizona-NorthDakotaState",
       "2024-08-29-Colorado-NorthDakotaState",
       "2026-08-29-NorthDakotaState-JacksonvilleState",
-      "2026-09-05-NorthDakotaState-Fordham"
+      "2026-09-05-NorthDakotaState-Fordham",
+      "2026-09-12-NorthDakotaState-AirForce",
+      "2026-09-19-NorthDakotaState-SacramentoState",
+      "2026-10-03-NorthDakotaState-Wyoming",
+      "2026-10-10-NevadaLasVegas-NorthDakotaState",
+      "2026-10-17-NorthDakotaState-Nevada",
+      "2026-10-24-NewMexico-NorthDakotaState",
+      "2026-10-31-NorthDakotaState-TexasElPaso"
     ]
   },
   "fa140755-fa6f-57ec-b60a-419af0447a6a": {
@@ -101758,7 +102382,14 @@
       "2025-11-28-NorthTexas-Temple",
       "2025-12-05-Tulane-NorthTexas",
       "2025-12-27-NorthTexas-SanDiegoState",
-      "2026-09-05-Indiana-NorthTexas"
+      "2026-09-05-Indiana-NorthTexas",
+      "2026-09-12-NorthTexas-NevadaLasVegas",
+      "2026-09-19-TexasState-NorthTexas",
+      "2026-09-26-NorthTexas-HoustonBaptist",
+      "2026-10-01-NorthTexas-Tulsa",
+      "2026-10-10-NorthTexas-Charlotte",
+      "2026-10-24-NorthTexas-Navy",
+      "2026-10-29-NorthTexas-FloridaAtlantic"
     ]
   },
   "bf46efa2-7314-5e81-87d8-9ab6d0fb78be": {
@@ -102176,7 +102807,8 @@
       "2022-09-10-Wyoming-NorthernColorado",
       "2023-09-16-WashingtonState-NorthernColorado",
       "2024-09-07-ColoradoState-NorthernColorado",
-      "2025-09-06-ColoradoState-NorthernColorado"
+      "2025-09-06-ColoradoState-NorthernColorado",
+      "2026-09-12-Wyoming-NorthernColorado"
     ]
   },
   "affad807-4d2e-5f63-9a4d-1b7dac43958e": {
@@ -102862,7 +103494,14 @@
       "2025-11-12-NorthernIllinois-Massachusetts",
       "2025-11-18-WesternMichigan-NorthernIllinois",
       "2025-11-28-KentState-NorthernIllinois",
-      "2026-09-05-Iowa-NorthernIllinois"
+      "2026-09-05-Iowa-NorthernIllinois",
+      "2026-09-12-IllinoisState-NorthernIllinois",
+      "2026-09-19-Arizona-NorthernIllinois",
+      "2026-09-26-GeorgiaState-NorthernIllinois",
+      "2026-10-10-AirForce-NorthernIllinois",
+      "2026-10-17-Wyoming-NorthernIllinois",
+      "2026-10-24-Hawaii-NorthernIllinois",
+      "2026-10-31-NevadaLasVegas-NorthernIllinois"
     ]
   },
   "b712d239-4474-54bf-af56-9497f35e263c": {
@@ -102987,7 +103626,8 @@
       "2023-09-02-IowaState-NorthernIowa",
       "2024-09-14-Nebraska-NorthernIowa",
       "2024-09-22-Hawaii-NorthernIowa",
-      "2025-09-06-Wyoming-NorthernIowa"
+      "2025-09-06-Wyoming-NorthernIowa",
+      "2026-09-19-Iowa-NorthernIowa"
     ]
   },
   "ed274ea9-6e71-58d0-8835-c05d01959d1a": {
@@ -104355,7 +104995,14 @@
       "2025-11-22-Northwestern-Minnesota",
       "2025-11-29-Illinois-Northwestern",
       "2025-12-26-Northwestern-CentralMichigan",
-      "2026-09-05-Northwestern-SouthDakotaState"
+      "2026-09-05-Northwestern-SouthDakotaState",
+      "2026-09-19-Northwestern-Colorado",
+      "2026-09-25-Indiana-Northwestern",
+      "2026-10-02-Northwestern-PennState",
+      "2026-10-10-Northwestern-BallState",
+      "2026-10-17-Northwestern-MichiganState",
+      "2026-10-24-Northwestern-Rutgers",
+      "2026-10-31-Oregon-Northwestern"
     ]
   },
   "39630c9f-b4f7-584b-a26e-c4e4fdded8d9": {
@@ -105888,7 +106535,14 @@
       "2025-11-15-NotreDame-Pittsburgh",
       "2025-11-22-NotreDame-Syracuse",
       "2025-11-29-NotreDame-Stanford",
-      "2026-09-06-NotreDame-Wisconsin"
+      "2026-09-06-NotreDame-Wisconsin",
+      "2026-09-12-NotreDame-Rice",
+      "2026-09-19-NotreDame-MichiganState",
+      "2026-09-26-NotreDame-Purdue",
+      "2026-10-03-NotreDame-NorthCarolina",
+      "2026-10-10-NotreDame-Stanford",
+      "2026-10-17-BrighamYoung-NotreDame",
+      "2026-10-31-NotreDame-Navy"
     ]
   },
   "3edb7486-3cdb-5d96-8d28-75a9a224c9c5": {
@@ -106888,7 +107542,14 @@
       "2025-11-18-Ohio-Massachusetts",
       "2025-11-28-Ohio-Buffalo",
       "2025-12-23-Ohio-NevadaLasVegas",
-      "2026-09-05-Nebraska-Ohio"
+      "2026-09-05-Nebraska-Ohio",
+      "2026-09-12-Ohio-JacksonvilleState",
+      "2026-09-19-SouthAlabama-Ohio",
+      "2026-09-26-Ohio-Stonehill",
+      "2026-10-03-Ohio-KentState",
+      "2026-10-10-Ohio-CentralMichigan",
+      "2026-10-17-Ohio-SacramentoState",
+      "2026-10-24-Ohio-EasternMichigan"
     ]
   },
   "4c003fca-95e4-527b-b253-df56b58a8f4c": {
@@ -108144,7 +108805,14 @@
       "2025-11-29-OhioState-Michigan",
       "2025-12-06-Indiana-OhioState",
       "2025-12-31-MiamiFL-OhioState",
-      "2026-09-05-OhioState-BallState"
+      "2026-09-05-OhioState-BallState",
+      "2026-09-12-Texas-OhioState",
+      "2026-09-19-OhioState-KentState",
+      "2026-09-26-OhioState-Illinois",
+      "2026-10-03-OhioState-Iowa",
+      "2026-10-10-OhioState-Maryland",
+      "2026-10-17-OhioState-Indiana",
+      "2026-10-31-SouthernCalifornia-OhioState"
     ]
   },
   "59897266-010d-5ce3-a64c-2d3de8ab71e2": {
@@ -109495,7 +110163,14 @@
       "2025-11-22-Oklahoma-Missouri",
       "2025-11-29-Oklahoma-LouisianaState",
       "2025-12-19-Alabama-Oklahoma",
-      "2026-09-04-Oklahoma-TexasElPaso"
+      "2026-09-04-Oklahoma-TexasElPaso",
+      "2026-09-12-Michigan-Oklahoma",
+      "2026-09-19-Oklahoma-NewMexico",
+      "2026-09-26-Georgia-Oklahoma",
+      "2026-10-10-Oklahoma-Texas",
+      "2026-10-17-Kentucky-Oklahoma",
+      "2026-10-24-Oklahoma-MississippiState",
+      "2026-10-31-SouthCarolina-Oklahoma"
     ]
   },
   "2ff60ba0-a47c-5140-a62c-0cb6704f4262": {
@@ -110764,7 +111439,14 @@
       "2025-11-15-KansasState-OklahomaState",
       "2025-11-22-CentralFlorida-OklahomaState",
       "2025-11-29-IowaState-OklahomaState",
-      "2026-09-05-Tulsa-OklahomaState"
+      "2026-09-05-Tulsa-OklahomaState",
+      "2026-09-12-OklahomaState-Oregon",
+      "2026-09-19-OklahomaState-MurrayState",
+      "2026-09-26-OklahomaState-WestVirginia",
+      "2026-10-10-OklahomaState-CentralFlorida",
+      "2026-10-17-Houston-OklahomaState",
+      "2026-10-24-OklahomaState-Colorado",
+      "2026-10-31-IowaState-OklahomaState"
     ]
   },
   "b3a60c7f-1edd-58e0-bb2d-c447572a44f0": {
@@ -110927,7 +111609,15 @@
       "2025-11-22-OldDominion-GeorgiaSouthern",
       "2025-11-29-OldDominion-GeorgiaState",
       "2025-12-17-OldDominion-SouthFlorida",
-      "2026-09-05-OldDominion-NorfolkState"
+      "2026-09-05-OldDominion-NorfolkState",
+      "2026-09-12-VirginiaTech-OldDominion",
+      "2026-09-19-EastCarolina-OldDominion",
+      "2026-09-26-JamesMadison-OldDominion",
+      "2026-10-03-GeorgiaState-OldDominion",
+      "2026-10-10-OldDominion-AppalachianState",
+      "2026-10-15-GeorgiaSouthern-OldDominion",
+      "2026-10-24-LouisianaTech-OldDominion",
+      "2026-10-31-Marshall-OldDominion"
     ]
   },
   "5d10d58e-18ac-5983-84f8-575b9ae20912": {
@@ -112213,7 +112903,14 @@
       "2025-12-20-Oregon-JamesMadison",
       "2026-01-01-Oregon-TexasTech",
       "2026-01-09-Indiana-Oregon",
-      "2026-09-05-Oregon-BoiseState"
+      "2026-09-05-Oregon-BoiseState",
+      "2026-09-12-OklahomaState-Oregon",
+      "2026-09-18-Oregon-PortlandState",
+      "2026-09-26-Oregon-SouthernCalifornia",
+      "2026-10-10-UCLA-Oregon",
+      "2026-10-17-Oregon-Nebraska",
+      "2026-10-24-Illinois-Oregon",
+      "2026-10-31-Oregon-Northwestern"
     ]
   },
   "d4699eb4-34a1-5a80-b5f6-58178b8e0e0b": {
@@ -113368,7 +114065,14 @@
       "2025-11-08-SamHouston-OregonState",
       "2025-11-15-Tulsa-OregonState",
       "2025-11-29-WashingtonState-OregonState",
-      "2026-09-05-Houston-OregonState"
+      "2026-09-05-Houston-OregonState",
+      "2026-09-12-TexasTech-OregonState",
+      "2026-09-19-OregonState-Montana",
+      "2026-09-26-OregonState-TexasElPaso",
+      "2026-10-03-OregonState-ColoradoState",
+      "2026-10-10-OregonState-SanDiegoState",
+      "2026-10-17-OregonState-WashingtonState",
+      "2026-10-31-FresnoState-OregonState"
     ]
   },
   "155c1b98-e6c5-5848-b3a7-7e4723b48590": {
@@ -115561,7 +116265,14 @@
       "2025-11-22-PennState-Nebraska",
       "2025-11-29-PennState-Rutgers",
       "2025-12-27-PennState-Clemson",
-      "2026-09-05-PennState-Marshall"
+      "2026-09-05-PennState-Marshall",
+      "2026-09-12-PennState-Temple",
+      "2026-09-19-PennState-Buffalo",
+      "2026-09-26-Wisconsin-PennState",
+      "2026-10-02-Northwestern-PennState",
+      "2026-10-10-SouthernCalifornia-PennState",
+      "2026-10-17-Michigan-PennState",
+      "2026-10-31-PennState-Purdue"
     ]
   },
   "97939472-8279-5759-951f-6db54703f6e4": {
@@ -118147,7 +118858,15 @@
       "2025-11-22-Pittsburgh-GeorgiaTech",
       "2025-11-29-MiamiFL-Pittsburgh",
       "2025-12-27-EastCarolina-Pittsburgh",
-      "2026-09-05-Pittsburgh-MiamiOH"
+      "2026-09-05-Pittsburgh-MiamiOH",
+      "2026-09-12-Pittsburgh-CentralFlorida",
+      "2026-09-17-Pittsburgh-Syracuse",
+      "2026-09-26-Pittsburgh-Bucknell",
+      "2026-10-02-Pittsburgh-VirginiaTech",
+      "2026-10-10-NorthCarolina-Pittsburgh",
+      "2026-10-17-BostonCollege-Pittsburgh",
+      "2026-10-24-MiamiFL-Pittsburgh",
+      "2026-10-31-Pittsburgh-GeorgiaTech"
     ]
   },
   "e193bcaa-b245-5e29-a726-debf34c19bc1": {
@@ -118360,7 +119079,8 @@
       "2024-09-21-BoiseState-PortlandState",
       "2025-08-30-BrighamYoung-PortlandState",
       "2025-09-14-Hawaii-PortlandState",
-      "2026-09-05-SanDiegoState-PortlandState"
+      "2026-09-05-SanDiegoState-PortlandState",
+      "2026-09-18-Oregon-PortlandState"
     ]
   },
   "97e1a220-c445-5e6d-b008-fa7e2ec85c9d": {
@@ -118408,7 +119128,8 @@
       "2021-11-20-TexasA&M-PrairieViewA&M",
       "2023-09-16-SouthernMethodist-PrairieViewA&M",
       "2024-09-14-MichiganState-PrairieViewA&M",
-      "2025-09-13-Rice-PrairieViewAM"
+      "2025-09-13-Rice-PrairieViewAM",
+      "2026-09-12-Baylor-PrairieViewAM"
     ]
   },
   "173b4875-b8ab-5258-9ec5-d3a30be660dd": {
@@ -120990,7 +121711,14 @@
       "2025-11-08-OhioState-Purdue",
       "2025-11-15-Washington-Purdue",
       "2025-11-28-Indiana-Purdue",
-      "2026-09-04-Purdue-IndianaState"
+      "2026-09-04-Purdue-IndianaState",
+      "2026-09-12-WakeForest-Purdue",
+      "2026-09-19-UCLA-Purdue",
+      "2026-09-26-NotreDame-Purdue",
+      "2026-10-03-Purdue-Illinois",
+      "2026-10-10-Purdue-Minnesota",
+      "2026-10-16-Washington-Purdue",
+      "2026-10-31-PennState-Purdue"
     ]
   },
   "4d00cfeb-63af-5bda-b6fe-079a8c60750c": {
@@ -122697,7 +123425,14 @@
       "2025-11-22-NorthTexas-Rice",
       "2025-11-29-SouthFlorida-Rice",
       "2026-01-02-TexasState-Rice",
-      "2026-09-05-Rice-HoustonBaptist"
+      "2026-09-05-Rice-HoustonBaptist",
+      "2026-09-12-NotreDame-Rice",
+      "2026-09-19-WesternMichigan-Rice",
+      "2026-09-26-FresnoState-Rice",
+      "2026-10-03-TexasSanAntonio-Rice",
+      "2026-10-10-EastCarolina-Rice",
+      "2026-10-17-Tulsa-Rice",
+      "2026-10-24-FloridaAtlantic-Rice"
     ]
   },
   "ea22fc56-e8d3-5374-af7e-1db78bcb44a0": {
@@ -123340,7 +124075,8 @@
       "2022-09-03-Virginia-Richmond",
       "2023-09-09-MichiganState-Richmond",
       "2024-08-31-Virginia-Richmond",
-      "2025-09-13-NorthCarolina-Richmond"
+      "2025-09-13-NorthCarolina-Richmond",
+      "2026-09-11-NorthCarolinaState-Richmond"
     ]
   },
   "3200b963-7e95-5c2b-a3e7-4f8dbcc60940": {
@@ -123507,7 +124243,9 @@
       "2022-10-29-AppalachianState-RobertMorris",
       "2023-09-02-AirForce-RobertMorris",
       "2024-08-31-UtahState-RobertMorris",
-      "2025-08-30-WestVirginia-RobertMorris"
+      "2025-08-30-WestVirginia-RobertMorris",
+      "2026-09-12-Akron-RobertMorris",
+      "2026-09-26-Buffalo-RobertMorris"
     ]
   },
   "fb657b3e-6653-53cd-ad4e-2d743e2a5caf": {
@@ -124855,7 +125593,14 @@
       "2025-11-08-Rutgers-Maryland",
       "2025-11-22-OhioState-Rutgers",
       "2025-11-29-PennState-Rutgers",
-      "2026-09-03-Massachusetts-Rutgers"
+      "2026-09-03-Massachusetts-Rutgers",
+      "2026-09-11-BostonCollege-Rutgers",
+      "2026-09-19-SouthernCalifornia-Rutgers",
+      "2026-09-25-Rutgers-Howard",
+      "2026-10-03-Indiana-Rutgers",
+      "2026-10-17-Rutgers-Maryland",
+      "2026-10-24-Northwestern-Rutgers",
+      "2026-10-31-Michigan-Rutgers"
     ]
   },
   "e997496b-f029-5ea5-be76-502d73fb0d8c": {
@@ -124915,7 +125660,14 @@
       "2024-09-07-FresnoState-SacramentoState",
       "2025-09-06-Nevada-SacramentoState",
       "2026-08-29-EasternMichigan-SacramentoState",
-      "2026-09-05-SacramentoState-MississippiValleyState"
+      "2026-09-05-SacramentoState-MississippiValleyState",
+      "2026-09-12-FresnoState-SacramentoState",
+      "2026-09-19-NorthDakotaState-SacramentoState",
+      "2026-09-26-Massachusetts-SacramentoState",
+      "2026-10-10-BowlingGreen-SacramentoState",
+      "2026-10-17-Ohio-SacramentoState",
+      "2026-10-24-BallState-SacramentoState",
+      "2026-10-30-SacramentoState-KentState"
     ]
   },
   "6d6529b5-6d7c-58a7-9784-ba28f5faec22": {
@@ -124926,7 +125678,8 @@
       "1904-10-15-ColoradoCollege-SacredHeart",
       "1905-09-30-Denver-SacredHeart",
       "1914-12-05-Denver-SacredHeart",
-      "2023-11-18-Connecticut-SacredHeart"
+      "2023-11-18-Connecticut-SacredHeart",
+      "2026-09-12-Massachusetts-SacredHeart"
     ]
   },
   "bf2e308e-7bf5-55d9-98fa-86f53e8f9225": {
@@ -125548,7 +126301,14 @@
       "2025-11-15-SamHouston-Delaware",
       "2025-11-22-MiddleTennesseeState-SamHouston",
       "2025-11-29-FloridaInternational-SamHouston",
-      "2026-09-05-Troy-SamHouston"
+      "2026-09-05-Troy-SamHouston",
+      "2026-09-12-Tulsa-SamHouston",
+      "2026-09-19-SamHouston-NichollsState",
+      "2026-09-26-TexasTech-SamHouston",
+      "2026-10-08-Liberty-SamHouston",
+      "2026-10-14-WesternKentucky-SamHouston",
+      "2026-10-21-NewMexicoState-SamHouston",
+      "2026-10-27-MissouriState-SamHouston"
     ]
   },
   "bc51804f-45aa-572c-baed-f38bbccc8620": {
@@ -125749,7 +126509,8 @@
       "2023-09-16-Auburn-Samford",
       "2024-09-07-Florida-Samford",
       "2025-09-13-Baylor-Samford",
-      "2025-11-22-TexasAM-Samford"
+      "2025-11-22-TexasAM-Samford",
+      "2026-10-03-AlabamaBirmingham-Samford"
     ]
   },
   "35ef5ad1-db58-5ec4-861b-1612c0bb11b7": {
@@ -126550,7 +127311,15 @@
       "2025-11-22-SanDiegoState-SanJoseState",
       "2025-11-28-NewMexico-SanDiegoState",
       "2025-12-27-NorthTexas-SanDiegoState",
-      "2026-09-05-SanDiegoState-PortlandState"
+      "2026-09-05-SanDiegoState-PortlandState",
+      "2026-09-12-UCLA-SanDiegoState",
+      "2026-09-19-JamesMadison-SanDiegoState",
+      "2026-09-26-Toledo-SanDiegoState",
+      "2026-10-03-SanDiegoState-TexasState",
+      "2026-10-10-OregonState-SanDiegoState",
+      "2026-10-17-SanDiegoState-FresnoState",
+      "2026-10-24-ColoradoState-SanDiegoState",
+      "2026-10-31-SanDiegoState-WashingtonState"
     ]
   },
   "1708b939-0805-5be6-b557-2488b7c31f09": {
@@ -127630,7 +128399,14 @@
       "2025-11-22-SanDiegoState-SanJoseState",
       "2025-11-29-FresnoState-SanJoseState",
       "2026-08-29-SouthernCalifornia-SanJoseState",
-      "2026-09-04-SanJoseState-EasternMichigan"
+      "2026-09-04-SanJoseState-EasternMichigan",
+      "2026-09-12-SanJoseState-CalPoly",
+      "2026-09-19-FresnoState-SanJoseState",
+      "2026-10-04-SanJoseState-Hawaii",
+      "2026-10-09-Wyoming-SanJoseState",
+      "2026-10-17-SanJoseState-TexasElPaso",
+      "2026-10-24-Nevada-SanJoseState",
+      "2026-10-31-NewMexico-SanJoseState"
     ]
   },
   "18078d58-d33a-5ae4-a54e-bfd76949fb74": {
@@ -128674,7 +129450,14 @@
       "2025-11-15-SouthAlabama-LouisianaMonroe",
       "2025-11-22-SouthAlabama-SouthernMississippi",
       "2025-11-29-TexasState-SouthAlabama",
-      "2026-09-05-SouthAlabama-SoutheasternLouisiana"
+      "2026-09-05-SouthAlabama-SoutheasternLouisiana",
+      "2026-09-12-Tulane-SouthAlabama",
+      "2026-09-19-SouthAlabama-Ohio",
+      "2026-09-26-Kentucky-SouthAlabama",
+      "2026-10-03-SouthAlabama-LouisianaMonroe",
+      "2026-10-08-SouthAlabama-ArkansasState",
+      "2026-10-20-Marshall-SouthAlabama",
+      "2026-10-31-LouisianaTech-SouthAlabama"
     ]
   },
   "cc8b5f01-b1bd-5296-9edb-972707d0afec": {
@@ -129949,7 +130732,14 @@
       "2025-11-15-TexasAM-SouthCarolina",
       "2025-11-22-SouthCarolina-CoastalCarolina",
       "2025-11-29-Clemson-SouthCarolina",
-      "2026-09-05-SouthCarolina-KentState"
+      "2026-09-05-SouthCarolina-KentState",
+      "2026-09-12-SouthCarolina-Towson",
+      "2026-09-19-MississippiState-SouthCarolina",
+      "2026-09-26-Alabama-SouthCarolina",
+      "2026-10-03-Kentucky-SouthCarolina",
+      "2026-10-10-SouthCarolina-Florida",
+      "2026-10-24-SouthCarolina-Tennessee",
+      "2026-10-31-SouthCarolina-Oklahoma"
     ]
   },
   "4728a936-b857-548c-878b-0b3f93b735ff": {
@@ -130099,7 +130889,8 @@
       "2022-09-03-KansasState-SouthDakota",
       "2023-08-31-Missouri-SouthDakota",
       "2024-09-07-Wisconsin-SouthDakota",
-      "2025-08-30-IowaState-SouthDakota"
+      "2025-08-30-IowaState-SouthDakota",
+      "2026-09-19-BoiseState-SouthDakota"
     ]
   },
   "5383decf-afff-5c4e-a113-d7a188024b01": {
@@ -130498,7 +131289,14 @@
       "2025-11-22-SouthFlorida-AlabamaBirmingham",
       "2025-11-29-SouthFlorida-Rice",
       "2025-12-17-OldDominion-SouthFlorida",
-      "2026-09-05-SouthFlorida-FloridaInternational"
+      "2026-09-05-SouthFlorida-FloridaInternational",
+      "2026-09-12-SouthFlorida-Army",
+      "2026-09-19-SouthFlorida-DelawareState",
+      "2026-09-26-SouthFlorida-BowlingGreen",
+      "2026-10-03-Temple-SouthFlorida",
+      "2026-10-08-TexasSanAntonio-SouthFlorida",
+      "2026-10-17-SouthFlorida-KentState",
+      "2026-10-31-SouthFlorida-AlabamaBirmingham"
     ]
   },
   "783935f7-61d9-5340-9247-b98032f67ff4": {
@@ -130630,7 +131428,8 @@
       "2024-09-07-SouthernMississippi-SoutheasternLouisiana",
       "2025-08-30-LouisianaTech-SoutheasternLouisiana",
       "2025-09-20-LouisianaState-SoutheasternLouisiana",
-      "2026-09-05-SouthAlabama-SoutheasternLouisiana"
+      "2026-09-05-SouthAlabama-SoutheasternLouisiana",
+      "2026-09-19-SoutheasternLouisiana-LouisianaMonroe"
     ]
   },
   "22d012b2-6b2e-5ddf-874b-07ba05ad4203": {
@@ -130674,7 +131473,8 @@
       "2019-09-07-Memphis-Southern",
       "2021-09-04-Troy-Southern",
       "2022-09-10-LouisianaState-Southern",
-      "2025-09-13-FresnoState-Southern"
+      "2025-09-13-FresnoState-Southern",
+      "2026-09-12-Houston-Southern"
     ]
   },
   "6feb3543-43d2-5198-9b36-47f7deb7e262": {
@@ -131882,7 +132682,14 @@
       "2025-11-29-SouthernCalifornia-UCLA",
       "2025-12-30-TexasChristian-SouthernCalifornia",
       "2026-08-29-SouthernCalifornia-SanJoseState",
-      "2026-09-04-SouthernCalifornia-FresnoState"
+      "2026-09-04-SouthernCalifornia-FresnoState",
+      "2026-09-12-SouthernCalifornia-Louisiana",
+      "2026-09-19-SouthernCalifornia-Rutgers",
+      "2026-09-26-Oregon-SouthernCalifornia",
+      "2026-10-03-SouthernCalifornia-Washington",
+      "2026-10-10-SouthernCalifornia-PennState",
+      "2026-10-24-Wisconsin-SouthernCalifornia",
+      "2026-10-31-SouthernCalifornia-OhioState"
     ]
   },
   "723af392-60f7-54bf-bc5c-4b262893197a": {
@@ -132135,7 +132942,8 @@
       "2022-09-17-SouthernIllinois-Northwestern",
       "2023-09-09-SouthernIllinois-NorthernIllinois",
       "2024-08-31-BrighamYoung-SouthernIllinois",
-      "2025-09-06-Purdue-SouthernIllinois"
+      "2025-09-06-Purdue-SouthernIllinois",
+      "2026-09-19-Illinois-SouthernIllinois"
     ]
   },
   "ac2c4033-4123-5a68-b1ce-9057d6c9867c": {
@@ -133319,7 +134127,14 @@
       "2025-11-22-SouthernMethodist-Louisville",
       "2025-11-29-California-SouthernMethodist",
       "2026-01-02-SouthernMethodist-Arizona",
-      "2026-09-07-SouthernMethodist-FloridaState"
+      "2026-09-07-SouthernMethodist-FloridaState",
+      "2026-09-12-SouthernMethodist-CaliforniaDavis",
+      "2026-09-19-Louisville-SouthernMethodist",
+      "2026-09-26-SouthernMethodist-MissouriState",
+      "2026-10-03-SouthernMethodist-BostonCollege",
+      "2026-10-17-SouthernMethodist-Virginia",
+      "2026-10-24-SouthernMethodist-California",
+      "2026-10-31-Syracuse-SouthernMethodist"
     ]
   },
   "381f61f2-87e6-5288-aa9c-07df49db8910": {
@@ -134126,7 +134941,14 @@
       "2025-11-22-SouthAlabama-SouthernMississippi",
       "2025-11-29-Troy-SouthernMississippi",
       "2025-12-23-WesternKentucky-SouthernMississippi",
-      "2026-09-05-SouthernMississippi-AlcornState"
+      "2026-09-05-SouthernMississippi-AlcornState",
+      "2026-09-12-Auburn-SouthernMississippi",
+      "2026-09-19-Connecticut-SouthernMississippi",
+      "2026-09-26-Tulane-SouthernMississippi",
+      "2026-10-06-Troy-SouthernMississippi",
+      "2026-10-17-ArkansasState-SouthernMississippi",
+      "2026-10-24-SouthernMississippi-Louisiana",
+      "2026-10-31-SouthernMississippi-LouisianaMonroe"
     ]
   },
   "10f05590-a1c0-5f98-b6c4-f39bffa20905": {
@@ -134174,7 +134996,8 @@
       "2023-08-31-ArizonaState-SouthernUtah",
       "2023-09-09-BrighamYoung-SouthernUtah",
       "2024-08-29-Utah-SouthernUtah",
-      "2024-09-07-SouthernUtah-Texas-ElPaso"
+      "2024-09-07-SouthernUtah-Texas-ElPaso",
+      "2026-09-12-ColoradoState-SouthernUtah"
     ]
   },
   "f68257fd-a4ce-5ca4-b5ba-81e62958278f": {
@@ -136059,7 +136882,14 @@
       "2025-11-22-Stanford-California",
       "2025-11-29-NotreDame-Stanford",
       "2026-08-29-Stanford-Hawaii",
-      "2026-09-04-MiamiFL-Stanford"
+      "2026-09-04-MiamiFL-Stanford",
+      "2026-09-19-Duke-Stanford",
+      "2026-09-26-Stanford-GeorgiaTech",
+      "2026-10-03-WakeForest-Stanford",
+      "2026-10-10-NotreDame-Stanford",
+      "2026-10-17-Stanford-Elon",
+      "2026-10-23-Stanford-NorthCarolinaState",
+      "2026-10-31-Louisville-Stanford"
     ]
   },
   "ba24df06-62f1-5b42-b5c3-dd8e14f46365": {
@@ -136351,6 +137181,13 @@
       "1902-09-28-IowaState-Still"
     ]
   },
+  "a0b7b0ab-132d-55eb-9f26-ff9167c581d8": {
+    "teamName": "Stonehill",
+    "games": [
+      "2026-09-19-Massachusetts-Stonehill",
+      "2026-09-26-Ohio-Stonehill"
+    ]
+  },
   "f2e639a8-049f-5440-b434-52acab36ac3e": {
     "teamName": "Stony Brook",
     "games": [
@@ -136369,7 +137206,8 @@
       "2022-09-17-Massachusetts-StonyBrook",
       "2023-09-16-ArkansasState-StonyBrook",
       "2024-08-31-Marshall-StonyBrook",
-      "2025-08-28-SanDiegoState-StonyBrook"
+      "2025-08-28-SanDiegoState-StonyBrook",
+      "2026-09-12-BallState-StonyBrook"
     ]
   },
   "d93f7ca3-c6fd-5fff-90ef-2630c7738174": {
@@ -137936,7 +138774,14 @@
       "2025-11-08-MiamiFL-Syracuse",
       "2025-11-22-NotreDame-Syracuse",
       "2025-11-29-BostonCollege-Syracuse",
-      "2026-09-05-Syracuse-NewHampshire"
+      "2026-09-05-Syracuse-NewHampshire",
+      "2026-09-12-California-Syracuse",
+      "2026-09-17-Pittsburgh-Syracuse",
+      "2026-10-03-Syracuse-Connecticut",
+      "2026-10-10-Virginia-Syracuse",
+      "2026-10-17-Louisville-Syracuse",
+      "2026-10-24-Syracuse-NorthCarolina",
+      "2026-10-31-Syracuse-SouthernMethodist"
     ]
   },
   "5e249f12-3ea5-5ba9-bcd9-2e2badf10fc9": {
@@ -138981,7 +139826,14 @@
       "2025-11-08-Army-Temple",
       "2025-11-22-Tulane-Temple",
       "2025-11-28-NorthTexas-Temple",
-      "2026-09-05-Temple-RhodeIsland"
+      "2026-09-05-Temple-RhodeIsland",
+      "2026-09-12-PennState-Temple",
+      "2026-09-19-Toledo-Temple",
+      "2026-09-25-Army-Temple",
+      "2026-10-03-Temple-SouthFlorida",
+      "2026-10-10-Connecticut-Temple",
+      "2026-10-17-Charlotte-Temple",
+      "2026-10-31-EastCarolina-Temple"
     ]
   },
   "75f272e0-cc8c-51b5-8700-803832b33a71": {
@@ -140312,7 +141164,14 @@
       "2025-11-22-Tennessee-Florida",
       "2025-11-29-Vanderbilt-Tennessee",
       "2025-12-30-Illinois-Tennessee",
-      "2026-09-05-Tennessee-Furman"
+      "2026-09-05-Tennessee-Furman",
+      "2026-09-12-Tennessee-GeorgiaTech",
+      "2026-09-19-Tennessee-KennesawState",
+      "2026-09-26-Texas-Tennessee",
+      "2026-10-03-Tennessee-Auburn",
+      "2026-10-10-Tennessee-Arkansas",
+      "2026-10-17-Tennessee-Alabama",
+      "2026-10-24-SouthCarolina-Tennessee"
     ]
   },
   "cb5b53c6-a1bf-5550-89f1-28b694adeb64": {
@@ -140535,7 +141394,9 @@
       "2024-09-28-Tennessee-Martin-KennesawState",
       "2025-08-28-OklahomaState-Tennessee-Martin",
       "2025-09-06-TexasElPaso-TennesseeMartin",
-      "2025-09-20-MissouriState-TennesseeMartin"
+      "2025-09-20-MissouriState-TennesseeMartin",
+      "2026-09-12-WestVirginia-TennesseeMartin",
+      "2026-09-19-Memphis-TennesseeMartin"
     ]
   },
   "cee92542-570f-5021-8237-97fd60434118": {
@@ -141892,7 +142753,14 @@
       "2025-11-22-Texas-Arkansas",
       "2025-11-28-Texas-TexasAM",
       "2025-12-31-Texas-Michigan",
-      "2026-09-05-Texas-TexasState"
+      "2026-09-05-Texas-TexasState",
+      "2026-09-12-Texas-OhioState",
+      "2026-09-19-Texas-TexasSanAntonio",
+      "2026-09-26-Texas-Tennessee",
+      "2026-10-10-Oklahoma-Texas",
+      "2026-10-17-Florida-Texas",
+      "2026-10-24-Texas-Mississippi",
+      "2026-10-31-Texas-MississippiState"
     ]
   },
   "a1ce2c86-7ef8-55d6-af55-1c791e77d66d": {
@@ -143218,7 +144086,14 @@
       "2025-11-22-TexasAM-Samford",
       "2025-11-28-Texas-TexasAM",
       "2025-12-20-MiamiFL-TexasAM",
-      "2026-09-05-TexasAM-MissouriState"
+      "2026-09-05-TexasAM-MissouriState",
+      "2026-09-12-TexasAM-ArizonaState",
+      "2026-09-19-Kentucky-TexasAM",
+      "2026-09-26-LouisianaState-TexasAM",
+      "2026-10-03-TexasAM-Arkansas",
+      "2026-10-10-Missouri-TexasAM",
+      "2026-10-17-TexasAM-Citadel",
+      "2026-10-24-Alabama-TexasAM"
     ]
   },
   "7afb1706-6941-5ae5-a427-f6484dc6b3af": {
@@ -144586,7 +145461,14 @@
       "2025-11-22-TexasChristian-Houston",
       "2025-11-29-TexasChristian-Cincinnati",
       "2025-12-30-TexasChristian-SouthernCalifornia",
-      "2026-08-29-NorthCarolina-TexasChristian"
+      "2026-08-29-NorthCarolina-TexasChristian",
+      "2026-09-12-TexasChristian-GramblingState",
+      "2026-09-19-TexasChristian-ArkansasState",
+      "2026-09-26-CentralFlorida-TexasChristian",
+      "2026-10-03-BrighamYoung-TexasChristian",
+      "2026-10-17-TexasChristian-Baylor",
+      "2026-10-24-WestVirginia-TexasChristian",
+      "2026-10-31-TexasChristian-Kansas"
     ]
   },
   "5e5f6711-49a2-5b04-92b4-5d3c2b9ccf30": {
@@ -144649,7 +145531,9 @@
       "2023-09-09-Toledo-TexasSouthern",
       "2023-09-16-Rice-TexasSouthern",
       "2024-09-07-Rice-TexasSouthern",
-      "2025-09-06-California-TexasSouthern"
+      "2025-09-06-California-TexasSouthern",
+      "2026-09-12-TexasElPaso-TexasSouthern",
+      "2026-10-03-FloridaAtlantic-TexasSouthern"
     ]
   },
   "ca41a30e-df1f-5351-9299-a9b7a9e362ab": {
@@ -144864,7 +145748,14 @@
       "2025-11-22-TexasState-LouisianaMonroe",
       "2025-11-29-TexasState-SouthAlabama",
       "2026-01-02-TexasState-Rice",
-      "2026-09-05-Texas-TexasState"
+      "2026-09-05-Texas-TexasState",
+      "2026-09-12-TexasSanAntonio-TexasState",
+      "2026-09-19-TexasState-NorthTexas",
+      "2026-09-26-TexasState-IncarnateWord",
+      "2026-10-03-SanDiegoState-TexasState",
+      "2026-10-15-TexasState-ColoradoState",
+      "2026-10-24-TexasState-UtahState",
+      "2026-10-31-BoiseState-TexasState"
     ]
   },
   "f24507e2-681c-512b-a565-52bee9629bd7": {
@@ -145954,7 +146845,14 @@
       "2025-11-29-TexasTech-WestVirginia",
       "2025-12-06-TexasTech-BrighamYoung",
       "2026-01-01-Oregon-TexasTech",
-      "2026-09-05-TexasTech-AbileneChristian"
+      "2026-09-05-TexasTech-AbileneChristian",
+      "2026-09-12-TexasTech-OregonState",
+      "2026-09-18-TexasTech-Houston",
+      "2026-09-26-TexasTech-SamHouston",
+      "2026-10-03-TexasTech-Colorado",
+      "2026-10-17-TexasTech-ArizonaState",
+      "2026-10-24-Cincinnati-TexasTech",
+      "2026-10-31-TexasTech-Arizona"
     ]
   },
   "3df181e0-5052-5b3b-9ffa-4d913412442c": {
@@ -147118,7 +148016,14 @@
       "2025-11-15-MissouriState-TexasElPaso",
       "2025-11-22-NewMexicoState-TexasElPaso",
       "2025-11-29-Delaware-TexasElPaso",
-      "2026-09-04-Oklahoma-TexasElPaso"
+      "2026-09-04-Oklahoma-TexasElPaso",
+      "2026-09-12-TexasElPaso-TexasSouthern",
+      "2026-09-19-Michigan-TexasElPaso",
+      "2026-09-26-OregonState-TexasElPaso",
+      "2026-10-03-NewMexico-TexasElPaso",
+      "2026-10-10-Nevada-TexasElPaso",
+      "2026-10-17-SanJoseState-TexasElPaso",
+      "2026-10-31-NorthDakotaState-TexasElPaso"
     ]
   },
   "a2098b2e-f36e-5655-a3f0-b67e07b29049": {
@@ -147299,7 +148204,14 @@
       "2025-11-22-TexasSanAntonio-EastCarolina",
       "2025-11-29-Army-TexasSanAntonio",
       "2025-12-26-TexasSanAntonio-FloridaInternational",
-      "2026-09-05-TexasSanAntonio-UTRGV"
+      "2026-09-05-TexasSanAntonio-UTRGV",
+      "2026-09-12-TexasSanAntonio-TexasState",
+      "2026-09-19-Texas-TexasSanAntonio",
+      "2026-09-26-TexasSanAntonio-ColoradoState",
+      "2026-10-03-TexasSanAntonio-Rice",
+      "2026-10-08-TexasSanAntonio-SouthFlorida",
+      "2026-10-17-TexasSanAntonio-Navy",
+      "2026-10-24-TexasSanAntonio-Tulane"
     ]
   },
   "4406f35d-8e57-5f4b-b89a-c099ccbf6f6f": {
@@ -148085,7 +148997,14 @@
       "2025-11-22-Toledo-BallState",
       "2025-11-29-Toledo-CentralMichigan",
       "2025-12-23-Louisville-Toledo",
-      "2026-09-04-MichiganState-Toledo"
+      "2026-09-04-MichiganState-Toledo",
+      "2026-09-12-Toledo-CentralConnecticutState",
+      "2026-09-19-Toledo-Temple",
+      "2026-09-26-Toledo-SanDiegoState",
+      "2026-10-03-Toledo-BallState",
+      "2026-10-10-Buffalo-Toledo",
+      "2026-10-17-Toledo-EasternMichigan",
+      "2026-10-24-Toledo-WesternMichigan"
     ]
   },
   "2fb91179-da54-5faf-b0ee-1992ede536b9": {
@@ -148127,7 +149046,8 @@
       "2023-09-02-Maryland-Towson",
       "2024-08-31-Cincinnati-Towson",
       "2025-09-13-Maryland-Towson",
-      "2026-09-05-Navy-Towson"
+      "2026-09-05-Navy-Towson",
+      "2026-09-12-SouthCarolina-Towson"
     ]
   },
   "715f6cd7-6479-590f-828c-b2763fdea14e": {
@@ -148803,7 +149723,14 @@
       "2025-11-29-Troy-SouthernMississippi",
       "2025-12-05-JamesMadison-Troy",
       "2025-12-16-JacksonvilleState-Troy",
-      "2026-09-05-Troy-SamHouston"
+      "2026-09-05-Troy-SamHouston",
+      "2026-09-12-Troy-AlabamaState",
+      "2026-09-19-Missouri-Troy",
+      "2026-09-26-UtahState-Troy",
+      "2026-10-06-Troy-SouthernMississippi",
+      "2026-10-17-Louisiana-Troy",
+      "2026-10-24-LouisianaMonroe-Troy",
+      "2026-10-29-Troy-JamesMadison"
     ]
   },
   "fb1a01b6-c878-5b3b-afc4-9f8c12d88611": {
@@ -150342,7 +151269,14 @@
       "2025-11-29-Tulane-Charlotte",
       "2025-12-05-Tulane-NorthTexas",
       "2025-12-20-Mississippi-Tulane",
-      "2026-09-05-Duke-Tulane"
+      "2026-09-05-Duke-Tulane",
+      "2026-09-12-Tulane-SouthAlabama",
+      "2026-09-19-KansasState-Tulane",
+      "2026-09-26-Tulane-SouthernMississippi",
+      "2026-10-10-Army-Tulane",
+      "2026-10-16-Tulane-Memphis",
+      "2026-10-24-TexasSanAntonio-Tulane",
+      "2026-10-30-Tulane-Charlotte"
     ]
   },
   "b918da3e-10d6-5098-b25a-737b379e6b9b": {
@@ -151426,7 +152360,14 @@
       "2025-11-15-Tulsa-OregonState",
       "2025-11-22-Tulsa-Army",
       "2025-11-29-AlabamaBirmingham-Tulsa",
-      "2026-09-05-Tulsa-OklahomaState"
+      "2026-09-05-Tulsa-OklahomaState",
+      "2026-09-12-Tulsa-SamHouston",
+      "2026-09-19-Tulsa-EastTexasAM",
+      "2026-09-26-Arkansas-Tulsa",
+      "2026-10-01-NorthTexas-Tulsa",
+      "2026-10-10-Navy-Tulsa",
+      "2026-10-17-Tulsa-Rice",
+      "2026-10-23-Army-Tulsa"
     ]
   },
   "af02e58e-e27b-51c8-88dd-e245a9c16e69": {
@@ -152568,7 +153509,14 @@
       "2025-11-15-OhioState-UCLA",
       "2025-11-22-Washington-UCLA",
       "2025-11-29-SouthernCalifornia-UCLA",
-      "2026-09-05-UCLA-California"
+      "2026-09-05-UCLA-California",
+      "2026-09-12-UCLA-SanDiegoState",
+      "2026-09-19-UCLA-Purdue",
+      "2026-09-26-UCLA-Maryland",
+      "2026-10-10-UCLA-Oregon",
+      "2026-10-17-UCLA-Wisconsin",
+      "2026-10-24-UCLA-MichiganState",
+      "2026-10-31-UCLA-Nevada"
     ]
   },
   "62902fd3-4e4c-5bfd-9acc-539d0ed5fbc1": {
@@ -154103,7 +155051,14 @@
       "2025-11-22-Utah-KansasState",
       "2025-11-28-Utah-Kansas",
       "2025-12-31-Utah-Nebraska",
-      "2026-09-03-Utah-Idaho"
+      "2026-09-03-Utah-Idaho",
+      "2026-09-12-Utah-Arkansas",
+      "2026-09-19-Utah-UtahState",
+      "2026-09-26-Utah-IowaState",
+      "2026-10-10-Utah-Kansas",
+      "2026-10-17-Utah-Colorado",
+      "2026-10-24-Utah-Houston",
+      "2026-10-31-Utah-Cincinnati"
     ]
   },
   "5b4d8406-742e-583a-8ad0-ada2ca42c276": {
@@ -155264,7 +156219,14 @@
       "2025-11-22-UtahState-FresnoState",
       "2025-11-28-BoiseState-UtahState",
       "2025-12-22-WashingtonState-UtahState",
-      "2026-09-05-IdahoState-UtahState"
+      "2026-09-05-IdahoState-UtahState",
+      "2026-09-12-Washington-UtahState",
+      "2026-09-19-Utah-UtahState",
+      "2026-09-26-UtahState-Troy",
+      "2026-10-03-BoiseState-UtahState",
+      "2026-10-09-UtahState-WashingtonState",
+      "2026-10-24-TexasState-UtahState",
+      "2026-10-31-UtahState-ColoradoState"
     ]
   },
   "a5290bc0-c3bc-5ec5-ba0a-52a9d5cb1018": {
@@ -156584,7 +157546,14 @@
       "2025-11-22-Vanderbilt-Kentucky",
       "2025-11-29-Vanderbilt-Tennessee",
       "2025-12-31-Iowa-Vanderbilt",
-      "2026-09-05-Vanderbilt-AustinPeay"
+      "2026-09-05-Vanderbilt-AustinPeay",
+      "2026-09-12-Vanderbilt-Delaware",
+      "2026-09-19-Vanderbilt-NorthCarolinaState",
+      "2026-09-26-Auburn-Vanderbilt",
+      "2026-10-03-Georgia-Vanderbilt",
+      "2026-10-10-Mississippi-Vanderbilt",
+      "2026-10-17-Arkansas-Vanderbilt",
+      "2026-10-24-Kentucky-Vanderbilt"
     ]
   },
   "e3c33041-9cec-5b8b-bf73-6fffac68460a": {
@@ -157337,7 +158306,8 @@
       "2022-09-17-Army-Villanova",
       "2023-09-16-CentralFlorida-Villanova",
       "2024-09-21-Maryland-Villanova",
-      "2025-09-13-PennState-Villanova"
+      "2025-09-13-PennState-Villanova",
+      "2026-09-11-Louisville-Villanova"
     ]
   },
   "be787d71-7713-5d27-ae2f-92dea9e3761a": {
@@ -158655,7 +159625,15 @@
       "2025-11-29-Virginia-VirginiaTech",
       "2025-12-06-Duke-Virginia",
       "2025-12-27-Virginia-Missouri",
-      "2026-08-29-Virginia-NorthCarolinaState"
+      "2026-08-29-Virginia-NorthCarolinaState",
+      "2026-09-11-Virginia-NorfolkState",
+      "2026-09-19-WestVirginia-Virginia",
+      "2026-09-26-Virginia-Delaware",
+      "2026-10-03-FloridaState-Virginia",
+      "2026-10-10-Virginia-Syracuse",
+      "2026-10-17-SouthernMethodist-Virginia",
+      "2026-10-23-Duke-Virginia",
+      "2026-10-31-WakeForest-Virginia"
     ]
   },
   "b207feb3-0230-595c-921e-bf20706d25aa": {
@@ -160736,7 +161714,14 @@
       "2025-11-15-FloridaState-VirginiaTech",
       "2025-11-22-MiamiFL-VirginiaTech",
       "2025-11-29-Virginia-VirginiaTech",
-      "2026-09-05-VirginiaTech-VirginiaMilitaryInstitute"
+      "2026-09-05-VirginiaTech-VirginiaMilitaryInstitute",
+      "2026-09-12-VirginiaTech-OldDominion",
+      "2026-09-19-VirginiaTech-Maryland",
+      "2026-09-26-VirginiaTech-BostonCollege",
+      "2026-10-02-Pittsburgh-VirginiaTech",
+      "2026-10-10-California-VirginiaTech",
+      "2026-10-17-VirginiaTech-GeorgiaTech",
+      "2026-10-24-VirginiaTech-Clemson"
     ]
   },
   "2ce4a86e-8ad9-5c26-beb8-4cb1310ef5e4": {
@@ -160877,7 +161862,9 @@
       "2024-09-28-FloridaAtlantic-Wagner",
       "2024-10-26-Massachusetts-Wagner",
       "2025-08-29-Kansas-Wagner",
-      "2025-09-20-CentralMichigan-Wagner"
+      "2025-09-20-CentralMichigan-Wagner",
+      "2026-09-12-JamesMadison-Wagner",
+      "2026-09-19-California-Wagner"
     ]
   },
   "a753a3ef-5b36-5b5b-a6bd-dcadb98c5860": {
@@ -162102,7 +163089,14 @@
       "2025-11-22-WakeForest-Delaware",
       "2025-11-29-Duke-WakeForest",
       "2026-01-02-WakeForest-MississippiState",
-      "2026-09-03-WakeForest-Akron"
+      "2026-09-03-WakeForest-Akron",
+      "2026-09-12-WakeForest-Purdue",
+      "2026-09-18-MiamiFL-WakeForest",
+      "2026-09-26-WakeForest-Louisville",
+      "2026-10-03-WakeForest-Stanford",
+      "2026-10-10-WakeForest-NorthCarolinaState",
+      "2026-10-17-WakeForest-California",
+      "2026-10-31-WakeForest-Virginia"
     ]
   },
   "f09d6842-0b35-5c44-9dcb-c87ac3baad4c": {
@@ -163435,7 +164429,14 @@
       "2025-11-22-Washington-UCLA",
       "2025-11-29-Oregon-Washington",
       "2025-12-13-Washington-BoiseState",
-      "2026-09-06-Washington-WashingtonState"
+      "2026-09-06-Washington-WashingtonState",
+      "2026-09-12-Washington-UtahState",
+      "2026-09-19-Washington-EasternWashington",
+      "2026-09-26-Minnesota-Washington",
+      "2026-10-03-SouthernCalifornia-Washington",
+      "2026-10-09-Iowa-Washington",
+      "2026-10-16-Washington-Purdue",
+      "2026-10-31-Washington-Nebraska"
     ]
   },
   "cf316e2a-fcf2-552a-b013-6788d86e0697": {
@@ -165657,7 +166658,15 @@
       "2025-11-22-JamesMadison-WashingtonState",
       "2025-11-29-WashingtonState-OregonState",
       "2025-12-22-WashingtonState-UtahState",
-      "2026-09-06-Washington-WashingtonState"
+      "2026-09-06-Washington-WashingtonState",
+      "2026-09-12-KansasState-WashingtonState",
+      "2026-09-19-WashingtonState-Duquesne",
+      "2026-09-26-Arizona-WashingtonState",
+      "2026-10-03-FresnoState-WashingtonState",
+      "2026-10-09-UtahState-WashingtonState",
+      "2026-10-17-OregonState-WashingtonState",
+      "2026-10-24-BoiseState-WashingtonState",
+      "2026-10-31-SanDiegoState-WashingtonState"
     ]
   },
   "8859e025-7efc-50ae-934c-694d516132b6": {
@@ -165869,7 +166878,8 @@
       "2023-09-16-Utah-WeberState",
       "2024-08-31-Washington-WeberState",
       "2025-08-30-JamesMadison-WeberState",
-      "2025-09-06-Arizona-WeberState"
+      "2025-09-06-Arizona-WeberState",
+      "2026-09-12-Colorado-WeberState"
     ]
   },
   "0d0ec819-aaec-5362-a378-ec2919a472a8": {
@@ -166205,7 +167215,8 @@
   "1b99ff29-1a08-5a8f-b63e-607df51fbdb5": {
     "teamName": "West Georgia",
     "games": [
-      "2026-09-03-KennesawState-WestGeorgia"
+      "2026-09-03-KennesawState-WestGeorgia",
+      "2026-09-12-ArkansasState-WestGeorgia"
     ]
   },
   "d027b8d0-5ec2-52e0-bf66-aab79c24075d": {
@@ -167954,7 +168965,14 @@
       "2025-11-08-WestVirginia-Colorado",
       "2025-11-15-ArizonaState-WestVirginia",
       "2025-11-29-TexasTech-WestVirginia",
-      "2026-09-05-WestVirginia-CoastalCarolina"
+      "2026-09-05-WestVirginia-CoastalCarolina",
+      "2026-09-12-WestVirginia-TennesseeMartin",
+      "2026-09-19-WestVirginia-Virginia",
+      "2026-09-26-OklahomaState-WestVirginia",
+      "2026-10-03-IowaState-WestVirginia",
+      "2026-10-10-Arizona-WestVirginia",
+      "2026-10-17-WestVirginia-Cincinnati",
+      "2026-10-24-WestVirginia-TexasChristian"
     ]
   },
   "37808857-6439-5124-ba15-62ff2416633a": {
@@ -168213,7 +169231,8 @@
       "2022-09-10-GeorgiaTech-WesternCarolina",
       "2023-09-02-Arkansas-WesternCarolina",
       "2024-08-29-NorthCarolinaState-WesternCarolina",
-      "2025-09-06-WakeForest-WesternCarolina"
+      "2025-09-06-WakeForest-WesternCarolina",
+      "2026-09-12-Cincinnati-WesternCarolina"
     ]
   },
   "066d909c-d3cc-56b8-a7de-5c9a696a2374": {
@@ -168294,7 +169313,8 @@
       "2024-08-31-NorthernIllinois-WesternIllinois",
       "2024-09-06-Indiana-WesternIllinois",
       "2025-08-29-Illinois-WesternIllinois",
-      "2025-09-05-Northwestern-WesternIllinois"
+      "2025-09-05-Northwestern-WesternIllinois",
+      "2026-09-12-Wisconsin-WesternIllinois"
     ]
   },
   "446186c7-d2c4-52fd-bfa2-710114cbb2cc": {
@@ -168588,7 +169608,14 @@
       "2025-11-22-LouisianaState-WesternKentucky",
       "2025-11-29-JacksonvilleState-WesternKentucky",
       "2025-12-23-WesternKentucky-SouthernMississippi",
-      "2026-09-05-Nevada-WesternKentucky"
+      "2026-09-05-Nevada-WesternKentucky",
+      "2026-09-12-Georgia-WesternKentucky",
+      "2026-09-19-Indiana-WesternKentucky",
+      "2026-09-26-WesternKentucky-Mercyhurst",
+      "2026-10-01-NewMexicoState-WesternKentucky",
+      "2026-10-08-WesternKentucky-MissouriState",
+      "2026-10-14-WesternKentucky-SamHouston",
+      "2026-10-27-Delaware-WesternKentucky"
     ]
   },
   "5a9c9209-4ecc-5c11-819c-372f859e731e": {
@@ -169401,7 +170428,15 @@
       "2025-11-25-WesternMichigan-EasternMichigan",
       "2025-12-06-WesternMichigan-MiamiOH",
       "2025-12-19-WesternMichigan-KennesawState",
-      "2026-09-05-Michigan-WesternMichigan"
+      "2026-09-05-Michigan-WesternMichigan",
+      "2026-09-12-WesternMichigan-Monmouth",
+      "2026-09-19-WesternMichigan-Rice",
+      "2026-09-26-BoiseState-WesternMichigan",
+      "2026-10-03-WesternMichigan-Buffalo",
+      "2026-10-10-WesternMichigan-KentState",
+      "2026-10-17-WesternMichigan-CentralMichigan",
+      "2026-10-24-Toledo-WesternMichigan",
+      "2026-10-31-WesternMichigan-BowlingGreen"
     ]
   },
   "62bb1ea4-48a0-5a70-9f4a-67b742a7fd5b": {
@@ -170984,7 +172019,8 @@
       "2022-09-02-William&Mary-Charlotte",
       "2023-10-07-Virginia-William&Mary",
       "2024-09-07-CoastalCarolina-William&Mary",
-      "2025-09-13-Virginia-WilliamMary"
+      "2025-09-13-Virginia-WilliamMary",
+      "2026-09-26-Duke-WilliamMary"
     ]
   },
   "0048870b-40d6-5cc6-9dfe-17b607e8d39e": {
@@ -172692,7 +173728,14 @@
       "2025-11-15-Indiana-Wisconsin",
       "2025-11-22-Wisconsin-Illinois",
       "2025-11-29-Minnesota-Wisconsin",
-      "2026-09-06-NotreDame-Wisconsin"
+      "2026-09-06-NotreDame-Wisconsin",
+      "2026-09-12-Wisconsin-WesternIllinois",
+      "2026-09-19-Wisconsin-EasternMichigan",
+      "2026-09-26-Wisconsin-PennState",
+      "2026-10-03-Wisconsin-MichiganState",
+      "2026-10-17-UCLA-Wisconsin",
+      "2026-10-24-Wisconsin-SouthernCalifornia",
+      "2026-10-31-Iowa-Wisconsin"
     ]
   },
   "ee2d22dc-10fa-5f55-97d2-069a8f56b61e": {
@@ -173055,7 +174098,8 @@
       "2022-09-17-VirginiaTech-Wofford",
       "2023-09-02-Pittsburgh-Wofford",
       "2024-11-23-SouthCarolina-Wofford",
-      "2025-09-20-VirginiaTech-Wofford"
+      "2025-09-20-VirginiaTech-Wofford",
+      "2026-09-12-KentState-Wofford"
     ]
   },
   "f474fdc0-921d-5ae2-b550-52b218cf45ff": {
@@ -174325,7 +175369,14 @@
       "2025-11-15-FresnoState-Wyoming",
       "2025-11-22-Nevada-Wyoming",
       "2025-11-29-Hawaii-Wyoming",
-      "2026-09-05-ColoradoState-Wyoming"
+      "2026-09-05-ColoradoState-Wyoming",
+      "2026-09-12-Wyoming-NorthernColorado",
+      "2026-09-19-CentralMichigan-Wyoming",
+      "2026-09-26-Wyoming-Hawaii",
+      "2026-10-03-NorthDakotaState-Wyoming",
+      "2026-10-09-Wyoming-SanJoseState",
+      "2026-10-17-Wyoming-NorthernIllinois",
+      "2026-10-23-Wyoming-AirForce"
     ]
   },
   "8be20983-6693-5e6a-ab83-c85e111f9a3a": {
